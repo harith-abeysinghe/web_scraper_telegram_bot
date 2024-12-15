@@ -110,7 +110,7 @@ topics_cryptoNews = ["bitcoin", "ethereum", "altcoins"]
 for topic in topics_cryptoNews:
     get_news_by_topic_cryptoNews(topic)
 
-topics_coinDesk = ["markets", "tech"]
+topics_coinDesk = ["markets", "business"]
 
 for topic in topics_coinDesk:
     get_news_coinDesk(topic)
