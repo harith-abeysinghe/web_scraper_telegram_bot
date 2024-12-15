@@ -1,4 +1,4 @@
-# web_scraper_telegram_bot
+# Web Scraper Telegram Bot
 
 This project is a cryptocurrency news scraper that uses **BeautifulSoup (bs4)** to scrape news related to cryptocurrencies. It then sends the latest updates to a **Telegram channel** using a **Telegram Bot**.
 
@@ -26,4 +26,22 @@ Clone the project to your local machine using Git:
 ```bash
 git clone https://github.com/your-username/web_scraper_telegram_bot.git
 cd web_scraper_telegram_bot
+```
+
+### 2. Install the required dependencies
+
+Install the required libraries listed in `requirements.txt`:
+
+```bash
+pip install -r requirements.txt
+```
+### 3. Set up environment variables
+
+Create a `.env` file in the root directory of the project and add your **Telegram Bot API token** and **Channel ID**:
+
+```env
+BOT_API_TOKEN=your-telegram-bot-api-token
+CHANNEL_ID=your-channel-id
+```
+
 
