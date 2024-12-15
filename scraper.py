@@ -2,16 +2,25 @@ import os
 import json
 from bs4 import BeautifulSoup
 import requests
+from datetime import datetime  # Import datetime module
 
 def read_json_file(json_file):
     if os.path.exists(json_file):
         with open(json_file, "r") as file:
-            return json.load(file)
+            try:
+                data = json.load(file)
+                return data
+            except json.JSONDecodeError:
+                return []
     return []
+
 
 def write_json_file(json_file, data):
     with open(json_file, "w") as file:
         json.dump(data, file, indent=4)
+
+def get_current_timestamp():
+    return datetime.now().strftime("%Y-%m-%d %H:%M:%S")  # Format the current date and time
 
 def get_news_by_topic_cryptoNews(topic: str, num_articles: int = 10, json_file: str = "news_data.json"):
     URL = f"https://cryptonews.net/news/{topic}/"
@@ -43,6 +52,7 @@ def get_news_by_topic_cryptoNews(topic: str, num_articles: int = 10, json_file: 
             new_entry = {
                 "title": title,
                 "source": source,
+                "timestamp": get_current_timestamp(),  # Add the timestamp
                 "sentToChannel": False
             }
             new_entries.append(new_entry)
@@ -84,6 +94,7 @@ def get_news_coinDesk(topic, num_articles: int = 10, json_file: str = "news_data
                 new_entry = {
                     "title": title,
                     "source": source,
+                    "timestamp": get_current_timestamp(),  # Add the timestamp
                     "sentToChannel": False
                 }
                 new_entries.append(new_entry)
@@ -99,9 +110,7 @@ topics_cryptoNews = ["bitcoin", "ethereum", "altcoins"]
 for topic in topics_cryptoNews:
     get_news_by_topic_cryptoNews(topic)
 
-
 topics_coinDesk = ["markets", "tech"]
 
 for topic in topics_coinDesk:
     get_news_coinDesk(topic)
-
