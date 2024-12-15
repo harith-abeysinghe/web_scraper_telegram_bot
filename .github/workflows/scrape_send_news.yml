@@ -1,0 +1,85 @@
+name: Scrape and Send News to Telegram
+
+on:
+  schedule:
+    # Runs every 12 minutes
+    - cron: "*/12 * * * *"
+  workflow_dispatch: # Allow manual triggering
+
+jobs:
+  common_steps:
+    runs-on: ubuntu-latest
+    outputs:
+      python-version: "3.11"
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: ${{ steps.common_steps.outputs.python-version }}
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+  scrape_news:
+    needs: common_steps
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Run scraper
+        env:
+          BOT_API_TOKEN: ${{ secrets.BOT_API_TOKEN }}
+          CHANNEL_ID: ${{ secrets.CHANNEL_ID }}
+        run: python scraper.py
+
+      - name: Check for changes to news_data.json
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          
+          # Set the remote URL with the GITHUB_TOKEN for authentication
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+
+          if git diff --exit-code news_data.json; then
+            echo "No changes detected in news_data.json."
+          else
+            echo "Changes detected in news_data.json. Committing changes."
+            git add news_data.json
+            git commit -m "Update news_data.json with new articles"
+            git push
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  send_news:
+    needs: scrape_news
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Send news to Telegram
+        env:
+          BOT_API_TOKEN: ${{ secrets.BOT_API_TOKEN }}
+          CHANNEL_ID: ${{ secrets.CHANNEL_ID }}
+        run: python telegram_connector.py
+
+      - name: Check for changes to news_data.json
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          
+          # Set the remote URL with the GITHUB_TOKEN for authentication
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+
+          if git diff --exit-code news_data.json; then
+            echo "No changes detected in news_data.json."
+          else
+            echo "Changes detected in news_data.json. Committing changes."
+            git add news_data.json
+            git commit -m "Update news_data.json after sending news to Telegram"
+            git push
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
