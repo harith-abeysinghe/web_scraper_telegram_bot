@@ -357,36 +357,36 @@
         "title": "Bitcoin reclaims $103,000 \u2013 Is a new all-time high on the horizon?",
         "source": "https://cryptonews.net/news/bitcoin/30231203/",
         "timestamp": "2024-12-15 20:10:33",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Ethereum Forming A Symmetrical Pattern \u2013 Key Resistance At $4,100",
         "source": "https://cryptonews.net/news/ethereum/30230953/",
         "timestamp": "2024-12-15 20:30:15",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "TRON Hits Record $587.2B USDT Transfers in November 2024",
         "source": "https://cryptonews.net/news/altcoins/30231055/",
         "timestamp": "2024-12-15 20:30:16",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Chainlink VRF Empowers BetSwirl on Base, Paving the Way for Transparent Gaming",
         "source": "https://cryptonews.net/news/altcoins/30230988/",
         "timestamp": "2024-12-15 20:30:16",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Ronin\u2019s DeFi TVL Grows 149% YoY, Boosted by RON Token\u2019s 30% Price Rise",
         "source": "https://cryptonews.net/news/altcoins/30231063/",
         "timestamp": "2024-12-15 20:30:16",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "RLUSD stablecoin will increase demand for XRP \u2014 Axelar co-founder",
         "source": "https://cryptonews.net/news/altcoins/30231446/",
         "timestamp": "2024-12-15 20:30:16",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
