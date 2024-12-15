@@ -24,7 +24,7 @@ Follow these steps to get your project up and running locally:
 Clone the project to your local machine using Git:
 
 ```bash
-git clone https://github.com/your-username/web_scraper_telegram_bot.git
+git clone https://github.com/harith-abeysinghe/web_scraper_telegram_bot.git
 cd web_scraper_telegram_bot
 ```
 
