@@ -2,15 +2,13 @@ name: Scrape and Send News to Telegram
 
 on:
   schedule:
-    # Runs every 12 minutes
-    - cron: "*/12 * * * *"
+    # Runs every 10 minutes (adjust as needed)
+    - cron: "*/10 * * * *"
   workflow_dispatch: # Allow manual triggering
 
 jobs:
-  common_steps:
+  scrape_news:
     runs-on: ubuntu-latest
-    outputs:
-      python-version: "3.11"
 
     steps:
       - name: Checkout repository
@@ -19,16 +17,11 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: ${{ steps.common_steps.outputs.python-version }}
+          python-version: "3.11"
 
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-  scrape_news:
-    needs: common_steps
-    runs-on: ubuntu-latest
-
-    steps:
       - name: Run scraper
         env:
           BOT_API_TOKEN: ${{ secrets.BOT_API_TOKEN }}
@@ -55,10 +48,21 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
   send_news:
-    needs: scrape_news
+    needs: scrape_news  # This job will run after scrape_news finishes
     runs-on: ubuntu-latest
 
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
       - name: Send news to Telegram
         env:
           BOT_API_TOKEN: ${{ secrets.BOT_API_TOKEN }}
