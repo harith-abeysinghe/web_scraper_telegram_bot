@@ -298,5 +298,23 @@
         "source": "https://www.coindesk.com/business/2024/12/11/trader-turns-2-5-k-into-200-k-by-buying-xrp-with-500-x-leverage",
         "timestamp": "2024-12-15 16:36:17",
         "sentToChannel": true
+    },
+    {
+        "title": "CME Records All-Time High Ethereum Shorts Driven by Hedge Funds",
+        "source": "https://cryptonews.net/news/ethereum/30230849/",
+        "timestamp": "2024-12-15 17:08:18",
+        "sentToChannel": false
+    },
+    {
+        "title": "Google Searches for XRP Explode",
+        "source": "https://cryptonews.net/news/altcoins/30230304/",
+        "timestamp": "2024-12-15 17:08:18",
+        "sentToChannel": false
+    },
+    {
+        "title": "5 Token Unlocks to Watch Next Week",
+        "source": "https://cryptonews.net/news/altcoins/30230575/",
+        "timestamp": "2024-12-15 17:08:18",
+        "sentToChannel": false
     }
 ]
