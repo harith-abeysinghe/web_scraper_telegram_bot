@@ -412,5 +412,11 @@
         "source": "https://cryptonews.net/news/ethereum/30231503/",
         "timestamp": "2024-12-15 21:52:02",
         "sentToChannel": true
+    },
+    {
+        "title": "Bitcoin Climbs to $105,000 as Trump Trade Continues to Drive Assets Higher",
+        "source": "https://cryptonews.net/news/bitcoin/30231769/",
+        "timestamp": "2024-12-16 00:53:41",
+        "sentToChannel": false
     }
 ]
