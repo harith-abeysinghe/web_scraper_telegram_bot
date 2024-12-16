@@ -694,5 +694,23 @@
         "source": "https://www.coindesk.com/business/2024/12/12/power-hungry-ai-fuels-crypto-vc-s-bet-on-tokenized-uranium-startup",
         "timestamp": "2024-12-16 17:09:52",
         "sentToChannel": true
+    },
+    {
+        "title": "Bitcoin hits new record high with surge to $107k",
+        "source": "https://cryptonews.net/news/bitcoin/30236177/",
+        "timestamp": "2024-12-16 18:14:19",
+        "sentToChannel": false
+    },
+    {
+        "title": "Bitcoin Price Prediction: Can Bitcoin Reach $110,000 After Today's New ATH near $107K?",
+        "source": "https://cryptonews.net/news/bitcoin/30236032/",
+        "timestamp": "2024-12-16 18:14:19",
+        "sentToChannel": false
+    },
+    {
+        "title": "Avalanche Blockchain\u2019s Largest-Ever Upgrade, 'Avalanche9000,' Is Live",
+        "source": "https://cryptonews.net/news/altcoins/30236149/",
+        "timestamp": "2024-12-16 18:14:21",
+        "sentToChannel": false
     }
 ]
