@@ -813,42 +813,42 @@
         "title": "Ethena Rolls Out Stablecoin Backed by BlackRock's BUIDL Token",
         "source": "https://www.coindesk.com/markets/2024/12/16/ethena-rolls-out-stablecoin-backed-by-black-rocks-buidl-token",
         "timestamp": "2024-12-16 14:10:39",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin Price Prediction: Bullish Scenario Points to Breakout Above $130k",
         "source": "https://cryptonews.net/news/bitcoin/30234215/",
         "timestamp": "2024-12-16 14:34:35",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "MicroStrategy Announces Enormous Bitcoin Purchase Following Nasdaq-100 Inclusion",
         "source": "https://cryptonews.net/news/bitcoin/30234468/",
         "timestamp": "2024-12-16 14:34:35",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Ethereum\u2019s 400% growth this year is hidden in L2 apps",
         "source": "https://cryptonews.net/news/ethereum/30234356/",
         "timestamp": "2024-12-16 14:34:36",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Beam Foundation Unveils BeamAI, Division that Brings AI and Gaming Together",
         "source": "https://cryptonews.net/news/altcoins/30234721/",
         "timestamp": "2024-12-16 14:34:36",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "XRP Buyback Program Proposed to Japanese Financial Giant SBI",
         "source": "https://cryptonews.net/news/altcoins/30234647/",
         "timestamp": "2024-12-16 14:34:36",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Arbitrum (ARB) leads $843 million token unlocks this week",
         "source": "https://cryptonews.net/news/altcoins/30234194/",
         "timestamp": "2024-12-16 14:46:06",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
