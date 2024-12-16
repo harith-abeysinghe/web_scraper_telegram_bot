@@ -682,5 +682,47 @@
         "source": "https://cryptonews.net/news/bitcoin/30233295/",
         "timestamp": "2024-12-16 10:49:08",
         "sentToChannel": true
+    },
+    {
+        "title": "Will Ethereum Price Hit ATH This Week? Key Levels to Watch",
+        "source": "https://cryptonews.net/news/ethereum/30233251/",
+        "timestamp": "2024-12-16 11:10:29",
+        "sentToChannel": false
+    },
+    {
+        "title": "Whales continue to accumulate Ethereum since prices broke $3,330",
+        "source": "https://cryptonews.net/news/ethereum/30233464/",
+        "timestamp": "2024-12-16 11:10:29",
+        "sentToChannel": false
+    },
+    {
+        "title": "Xandeum wraps up Solana staking program with 205M XAND distributed in rewards",
+        "source": "https://cryptonews.net/news/altcoins/30233479/",
+        "timestamp": "2024-12-16 11:10:30",
+        "sentToChannel": false
+    },
+    {
+        "title": "Solana gains top spot in daily net inflows with $12M, beating all other blockchains",
+        "source": "https://cryptonews.net/news/altcoins/30233271/",
+        "timestamp": "2024-12-16 11:10:30",
+        "sentToChannel": false
+    },
+    {
+        "title": "Ripple CTO Explains Why Ripple Stablecoin RLUSD May Cost More Than $1",
+        "source": "https://cryptonews.net/news/altcoins/30233221/",
+        "timestamp": "2024-12-16 11:10:30",
+        "sentToChannel": false
+    },
+    {
+        "title": "Cardano Developer Conference Proposed by Hoskinson for 2025",
+        "source": "https://cryptonews.net/news/altcoins/30233274/",
+        "timestamp": "2024-12-16 11:10:30",
+        "sentToChannel": false
+    },
+    {
+        "title": "Cardano Founder Sparks Community Speculation With Cryptographic Post",
+        "source": "https://cryptonews.net/news/altcoins/30233414/",
+        "timestamp": "2024-12-16 11:10:30",
+        "sentToChannel": false
     }
 ]
