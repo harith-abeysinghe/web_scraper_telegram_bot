@@ -861,12 +861,12 @@
         "title": "Ethereum (ETH) Price Closes Above $3,900 \u2014 Is a New All-Time High Possible Before 2024 Ends?",
         "source": "https://cryptonews.net/news/ethereum/30236892/",
         "timestamp": "2024-12-16 21:36:25",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "ISLAND: Everything You Need to Know About the \u2018Nifty Island\u2019 Ethereum Token and Airdrop",
         "source": "https://cryptonews.net/news/altcoins/30236979/",
         "timestamp": "2024-12-16 21:36:26",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
