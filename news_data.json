@@ -1,41 +1,5 @@
 [
     {
-        "title": "Bitcoin reclaims $103,000 \u2013 Is a new all-time high on the horizon?",
-        "source": "https://cryptonews.net/news/bitcoin/30231203/",
-        "timestamp": "2024-12-15 20:10:33",
-        "sentToChannel": true
-    },
-    {
-        "title": "Ethereum Forming A Symmetrical Pattern \u2013 Key Resistance At $4,100",
-        "source": "https://cryptonews.net/news/ethereum/30230953/",
-        "timestamp": "2024-12-15 20:30:15",
-        "sentToChannel": true
-    },
-    {
-        "title": "TRON Hits Record $587.2B USDT Transfers in November 2024",
-        "source": "https://cryptonews.net/news/altcoins/30231055/",
-        "timestamp": "2024-12-15 20:30:16",
-        "sentToChannel": true
-    },
-    {
-        "title": "Chainlink VRF Empowers BetSwirl on Base, Paving the Way for Transparent Gaming",
-        "source": "https://cryptonews.net/news/altcoins/30230988/",
-        "timestamp": "2024-12-15 20:30:16",
-        "sentToChannel": true
-    },
-    {
-        "title": "Ronin\u2019s DeFi TVL Grows 149% YoY, Boosted by RON Token\u2019s 30% Price Rise",
-        "source": "https://cryptonews.net/news/altcoins/30231063/",
-        "timestamp": "2024-12-15 20:30:16",
-        "sentToChannel": true
-    },
-    {
-        "title": "RLUSD stablecoin will increase demand for XRP \u2014 Axelar co-founder",
-        "source": "https://cryptonews.net/news/altcoins/30231446/",
-        "timestamp": "2024-12-15 20:30:16",
-        "sentToChannel": true
-    },
-    {
         "title": "Watch Out: 30 Altcoins Have Massive Token Unlocks in the New Week \u2013 Here\u2019s the Day-by-Day, Hour-by-Hour List",
         "source": "https://cryptonews.net/news/altcoins/30231527/",
         "timestamp": "2024-12-15 21:24:17",
@@ -777,78 +741,78 @@
         "title": "A Last Resort: Un'FE'd Covenants For Bitcoin",
         "source": "https://cryptonews.net/news/bitcoin/30236496/",
         "timestamp": "2024-12-16 20:11:42",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "You\u2019re not gonna make $50K in PENGU by buying and returning Pudgy toys",
         "source": "https://cryptonews.net/news/altcoins/30236251/",
         "timestamp": "2024-12-16 20:11:43",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "XRP rally and RLUSD anticipation fuel activity on Xaman Wallet",
         "source": "https://cryptonews.net/news/altcoins/30236768/",
         "timestamp": "2024-12-16 20:11:43",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "MicroStrategy dilutes its shareholders to buy more bitcoin",
         "source": "https://cryptonews.net/news/bitcoin/30236661/",
         "timestamp": "2024-12-16 20:32:07",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin Breaks ATH Pushing Back Into Price Discovery \u2013 BTC To $130K?",
         "source": "https://cryptonews.net/news/bitcoin/30235594/",
         "timestamp": "2024-12-16 20:32:07",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin price all-time highs driven by spot volumes \u2014 Analyst says $115K is next",
         "source": "https://cryptonews.net/news/bitcoin/30236806/",
         "timestamp": "2024-12-16 20:32:07",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Nvidia vs. Bitcoin: Which asset should you buy in 2025?",
         "source": "https://cryptonews.net/news/bitcoin/30236801/",
         "timestamp": "2024-12-16 20:32:07",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin (BTC) Hits ATH in Crucial Metric, Data Shows",
         "source": "https://cryptonews.net/news/bitcoin/30235704/",
         "timestamp": "2024-12-16 20:32:07",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Ethereum Price Surge: Banking Integration and Network Growth to Fuel ETH Rally to $8,800",
         "source": "https://cryptonews.net/news/ethereum/30236338/",
         "timestamp": "2024-12-16 20:32:07",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Wealth Mentor Shares Why XRP is Worth Holding for Long Term",
         "source": "https://cryptonews.net/news/altcoins/30235490/",
         "timestamp": "2024-12-16 20:32:08",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Pudgy Penguins\u2019 PENGU token launches tomorrow with Binance listing and airdrop",
         "source": "https://cryptonews.net/news/altcoins/30236507/",
         "timestamp": "2024-12-16 20:32:08",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Donald Trump reportedly plans to leverage $200 billion US Treasury fund for Bitcoin reserves",
         "source": "https://cryptonews.net/news/bitcoin/30233538/",
         "timestamp": "2024-12-16 20:45:04",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Ethereum\u2019s culture clash: Dissent, decentralization and progress",
         "source": "https://cryptonews.net/news/ethereum/30236268/",
         "timestamp": "2024-12-16 20:45:05",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
