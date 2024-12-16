@@ -417,24 +417,24 @@
         "title": "Bitcoin Climbs to $105,000 as Trump Trade Continues to Drive Assets Higher",
         "source": "https://cryptonews.net/news/bitcoin/30231769/",
         "timestamp": "2024-12-16 00:53:41",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "MicroStrategy\u2019s Saylor hints at first Bitcoin purchase above $100K",
         "source": "https://cryptonews.net/news/bitcoin/30231892/",
         "timestamp": "2024-12-16 02:25:46",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Ripple Pre-IPO Valuation Sparks Debate Among XRP Investors",
         "source": "https://cryptonews.net/news/altcoins/30231869/",
         "timestamp": "2024-12-16 02:25:48",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Ripple CTO says to expect shortage of RLUSD at launch, but don\u2019t FOMO",
         "source": "https://cryptonews.net/news/altcoins/30231938/",
         "timestamp": "2024-12-16 03:24:27",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
