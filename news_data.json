@@ -808,5 +808,11 @@
         "source": "https://cryptonews.net/news/bitcoin/30233553/",
         "timestamp": "2024-12-16 13:46:41",
         "sentToChannel": true
+    },
+    {
+        "title": "Ethena Rolls Out Stablecoin Backed by BlackRock's BUIDL Token",
+        "source": "https://www.coindesk.com/markets/2024/12/16/ethena-rolls-out-stablecoin-backed-by-black-rocks-buidl-token",
+        "timestamp": "2024-12-16 14:10:39",
+        "sentToChannel": false
     }
 ]
