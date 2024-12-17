@@ -1,23 +1,5 @@
 [
     {
-        "title": "Bitcoin Soars to Record High Above $106K, Then Retreats as Hawkish Fed Rate Cut Looms",
-        "source": "https://www.coindesk.com/markets/2024/12/16/bitcoin-soars-to-record-high-above-106-k-then-retreats-as-hawkish-fed-rate-cut-looms",
-        "timestamp": "2024-12-16 05:11:33",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin price registered a fresh all-time high above $106,000",
-        "source": "https://cryptonews.net/news/bitcoin/30232090/",
-        "timestamp": "2024-12-16 05:33:54",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin Bull Pennant Confirms $158K by 2025: A Closer Look at the Trend",
-        "source": "https://cryptonews.net/news/bitcoin/30232084/",
-        "timestamp": "2024-12-16 05:33:54",
-        "sentToChannel": true
-    },
-    {
         "title": "Bitcoin Traders Now Target $120K as Bullish 'Santa Claus Rally' Gains Steam",
         "source": "https://www.coindesk.com/markets/2024/12/16/bitcoin-traders-now-target-120-k-as-bullish-santa-claus-rally-gains-steam",
         "timestamp": "2024-12-16 06:43:19",
@@ -957,12 +939,12 @@
         "title": "Bitcoin Soars to New Heights: $112K in Sight After Breaking Previous ATH",
         "source": "https://cryptonews.net/news/bitcoin/30237865/",
         "timestamp": "2024-12-17 05:10:52",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "RLUSD Stablecoin Sparks Bidding War with Offers Up to $2,000",
         "source": "https://cryptonews.net/news/altcoins/30237843/",
         "timestamp": "2024-12-17 05:10:54",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
