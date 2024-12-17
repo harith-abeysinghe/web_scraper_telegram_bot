@@ -969,12 +969,12 @@
         "title": "Tether\u2019s Market Cap Taps $140B as Stablecoin Dominates Crypto Trading",
         "source": "https://cryptonews.net/news/altcoins/30237474/",
         "timestamp": "2024-12-17 07:38:38",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Ethereum Price Forecast: ETH faces staking withdrawal headwind amid sustained ETF inflows",
         "source": "https://cryptonews.net/news/ethereum/30238030/",
         "timestamp": "2024-12-17 07:45:09",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
