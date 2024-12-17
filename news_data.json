@@ -1,65 +1,5 @@
 [
     {
-        "title": "MicroStrategy dilutes its shareholders to buy more bitcoin",
-        "source": "https://cryptonews.net/news/bitcoin/30236661/",
-        "timestamp": "2024-12-16 20:32:07",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin Breaks ATH Pushing Back Into Price Discovery \u2013 BTC To $130K?",
-        "source": "https://cryptonews.net/news/bitcoin/30235594/",
-        "timestamp": "2024-12-16 20:32:07",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin price all-time highs driven by spot volumes \u2014 Analyst says $115K is next",
-        "source": "https://cryptonews.net/news/bitcoin/30236806/",
-        "timestamp": "2024-12-16 20:32:07",
-        "sentToChannel": true
-    },
-    {
-        "title": "Nvidia vs. Bitcoin: Which asset should you buy in 2025?",
-        "source": "https://cryptonews.net/news/bitcoin/30236801/",
-        "timestamp": "2024-12-16 20:32:07",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin (BTC) Hits ATH in Crucial Metric, Data Shows",
-        "source": "https://cryptonews.net/news/bitcoin/30235704/",
-        "timestamp": "2024-12-16 20:32:07",
-        "sentToChannel": true
-    },
-    {
-        "title": "Ethereum Price Surge: Banking Integration and Network Growth to Fuel ETH Rally to $8,800",
-        "source": "https://cryptonews.net/news/ethereum/30236338/",
-        "timestamp": "2024-12-16 20:32:07",
-        "sentToChannel": true
-    },
-    {
-        "title": "Wealth Mentor Shares Why XRP is Worth Holding for Long Term",
-        "source": "https://cryptonews.net/news/altcoins/30235490/",
-        "timestamp": "2024-12-16 20:32:08",
-        "sentToChannel": true
-    },
-    {
-        "title": "Pudgy Penguins\u2019 PENGU token launches tomorrow with Binance listing and airdrop",
-        "source": "https://cryptonews.net/news/altcoins/30236507/",
-        "timestamp": "2024-12-16 20:32:08",
-        "sentToChannel": true
-    },
-    {
-        "title": "Donald Trump reportedly plans to leverage $200 billion US Treasury fund for Bitcoin reserves",
-        "source": "https://cryptonews.net/news/bitcoin/30233538/",
-        "timestamp": "2024-12-16 20:45:04",
-        "sentToChannel": true
-    },
-    {
-        "title": "Ethereum\u2019s culture clash: Dissent, decentralization and progress",
-        "source": "https://cryptonews.net/news/ethereum/30236268/",
-        "timestamp": "2024-12-16 20:45:05",
-        "sentToChannel": true
-    },
-    {
         "title": "il Capo Speaks After Bitcoin\u2019s Giant Bull Run! \u2013 How Long Does He Expect the Rally to Last?",
         "source": "https://cryptonews.net/news/bitcoin/30236773/",
         "timestamp": "2024-12-16 21:09:33",
@@ -981,12 +921,12 @@
         "title": "BREAKING: Bloomberg Analyst Reveals Four Altcoins That Might Get ETF Approval: Also a Surprise One \u2013 \u201cTwo First, Then The Other Two May Come\u201d",
         "source": "https://cryptonews.net/news/altcoins/30242182/",
         "timestamp": "2024-12-17 20:30:40",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "MicroStrategy\u00a0blackout period could freeze bitcoin\u00a0buys in January",
         "source": "https://cryptonews.net/news/bitcoin/30242486/",
         "timestamp": "2024-12-17 20:43:29",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
