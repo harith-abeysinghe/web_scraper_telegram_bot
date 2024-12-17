@@ -1,59 +1,5 @@
 [
     {
-        "title": "Bitcoin Climbs to $105,000 as Trump Trade Continues to Drive Assets Higher",
-        "source": "https://cryptonews.net/news/bitcoin/30231769/",
-        "timestamp": "2024-12-16 00:53:41",
-        "sentToChannel": true
-    },
-    {
-        "title": "MicroStrategy\u2019s Saylor hints at first Bitcoin purchase above $100K",
-        "source": "https://cryptonews.net/news/bitcoin/30231892/",
-        "timestamp": "2024-12-16 02:25:46",
-        "sentToChannel": true
-    },
-    {
-        "title": "Ripple Pre-IPO Valuation Sparks Debate Among XRP Investors",
-        "source": "https://cryptonews.net/news/altcoins/30231869/",
-        "timestamp": "2024-12-16 02:25:48",
-        "sentToChannel": true
-    },
-    {
-        "title": "Ripple CTO says to expect shortage of RLUSD at launch, but don\u2019t FOMO",
-        "source": "https://cryptonews.net/news/altcoins/30231938/",
-        "timestamp": "2024-12-16 03:24:27",
-        "sentToChannel": true
-    },
-    {
-        "title": "U.S. Bitcoin Reserve Plan: Trump\u2019s Vision to Tackle $35T Debt and Drive $15T Market Cap",
-        "source": "https://cryptonews.net/news/bitcoin/30232024/",
-        "timestamp": "2024-12-16 04:20:16",
-        "sentToChannel": true
-    },
-    {
-        "title": "FASB\u2019s fair Value accounting rules for Bitcoin will officially take effect today",
-        "source": "https://cryptonews.net/news/bitcoin/30231950/",
-        "timestamp": "2024-12-16 04:20:16",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin Price New ATH: Is This Just The Beginning?",
-        "source": "https://cryptonews.net/news/bitcoin/30231946/",
-        "timestamp": "2024-12-16 04:20:16",
-        "sentToChannel": true
-    },
-    {
-        "title": "Ethereum Eyes Bitcoin\u2019s Lead: Is a Similar Surge Possible?",
-        "source": "https://cryptonews.net/news/ethereum/30231998/",
-        "timestamp": "2024-12-16 04:20:17",
-        "sentToChannel": true
-    },
-    {
-        "title": "Ripple News: New \u2018XRP ARMY\u2019 Logo Revealed by XRP Logo\u2019s Original Designer",
-        "source": "https://cryptonews.net/news/altcoins/30232073/",
-        "timestamp": "2024-12-16 04:52:59",
-        "sentToChannel": true
-    },
-    {
         "title": "Bitcoin Soars to Record High Above $106K, Then Retreats as Hawkish Fed Rate Cut Looms",
         "source": "https://www.coindesk.com/markets/2024/12/16/bitcoin-soars-to-record-high-above-106-k-then-retreats-as-hawkish-fed-rate-cut-looms",
         "timestamp": "2024-12-16 05:11:33",
@@ -909,102 +855,102 @@
         "title": "Bitcoin as a lifeline for Palestine and nations without a central bank",
         "source": "https://cryptonews.net/news/bitcoin/30237199/",
         "timestamp": "2024-12-17 00:51:55",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Charles Hoskinson says Cardano is ready to \u201ctake over the world\u201d",
         "source": "https://cryptonews.net/news/altcoins/30237427/",
         "timestamp": "2024-12-17 00:51:56",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin Leads Now, Altcoin Season Looms",
         "source": "https://cryptonews.net/news/bitcoin/30237617/",
         "timestamp": "2024-12-17 02:22:07",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Ripple\u2019s RLUSD Stablecoin Attracts Frenzy Bids for 800 XRP Ahead of Release",
         "source": "https://www.coindesk.com/markets/2024/12/17/ripple-s-rlusd-stablecoin-attracts-frenzy-bids-for-800-xrp-ahead-of-release",
         "timestamp": "2024-12-17 02:22:08",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin\u2019s Next Big Move? Key Metric Reveals When to Cash In Profits",
         "source": "https://cryptonews.net/news/bitcoin/30237704/",
         "timestamp": "2024-12-17 03:12:06",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Ethereum (ETH) Bearish Signal, $3,500 the Next Target?",
         "source": "https://cryptonews.net/news/ethereum/30237661/",
         "timestamp": "2024-12-17 03:12:06",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Optimism high for Ethena\u2019s USDtb stablecoin as it clocks $65M TVL on day 1",
         "source": "https://cryptonews.net/news/altcoins/30237705/",
         "timestamp": "2024-12-17 03:12:07",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin Price Powers Ahead: Rally Shows No Signs of Slowing",
         "source": "https://cryptonews.net/news/bitcoin/30237709/",
         "timestamp": "2024-12-17 03:45:21",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Ripple\u2019s RLUSD Launch Date And Time Revealed: What To Expect Today?",
         "source": "https://cryptonews.net/news/altcoins/30237720/",
         "timestamp": "2024-12-17 03:45:23",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin-to-Gold Ratio Hits Historic Peak as Year-End Rally Soars",
         "source": "https://cryptonews.net/news/bitcoin/30237736/",
         "timestamp": "2024-12-17 03:56:28",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Ethereum Gears Up for a Record High: Can It Break Through?",
         "source": "https://cryptonews.net/news/ethereum/30237742/",
         "timestamp": "2024-12-17 03:56:29",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin and Ethereum continue strong inflows for the 10th consecutive week",
         "source": "https://cryptonews.net/news/bitcoin/30237794/",
         "timestamp": "2024-12-17 04:15:59",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "MicroStrategy\u2019s $46 Billion Bitcoin Bet: A Double-Edged Sword for the Market",
         "source": "https://cryptonews.net/news/bitcoin/30237818/",
         "timestamp": "2024-12-17 04:36:23",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Ethereum Whales Load Up: Bullish Sign Or Bear Trap?",
         "source": "https://cryptonews.net/news/ethereum/30237805/",
         "timestamp": "2024-12-17 04:36:23",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "IP-Backed Meme Token CAT Bags Binance Spot Listing, Spiking Bullish Sentiment",
         "source": "https://www.coindesk.com/markets/2024/12/17/ip-backed-meme-token-cat-bags-binance-spot-listing-spiking-bullish-sentiment",
         "timestamp": "2024-12-17 04:36:26",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin is \u201cunder-exposed\u201d to corporate adoption, says VanEck\u2019s Matthew Sigel",
         "source": "https://cryptonews.net/news/bitcoin/30237817/",
         "timestamp": "2024-12-17 04:47:37",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Upbit\u2019s MOCA Listing Sparks 7,500% Trading Volume Explosion",
         "source": "https://cryptonews.net/news/altcoins/30237828/",
         "timestamp": "2024-12-17 04:47:38",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
