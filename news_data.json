@@ -952,5 +952,17 @@
         "source": "https://cryptonews.net/news/altcoins/30237828/",
         "timestamp": "2024-12-17 04:47:38",
         "sentToChannel": true
+    },
+    {
+        "title": "Bitcoin Soars to New Heights: $112K in Sight After Breaking Previous ATH",
+        "source": "https://cryptonews.net/news/bitcoin/30237865/",
+        "timestamp": "2024-12-17 05:10:52",
+        "sentToChannel": false
+    },
+    {
+        "title": "RLUSD Stablecoin Sparks Bidding War with Offers Up to $2,000",
+        "source": "https://cryptonews.net/news/altcoins/30237843/",
+        "timestamp": "2024-12-17 05:10:54",
+        "sentToChannel": false
     }
 ]
