@@ -1,29 +1,5 @@
 [
     {
-        "title": "Bitcoin Technical Analysis: Bulls Eye $110K After All-Time High Breakout",
-        "source": "https://cryptonews.net/news/bitcoin/30231897/",
-        "timestamp": "2024-12-16 08:55:05",
-        "sentToChannel": true
-    },
-    {
-        "title": "Tron Founder Justin Sun To Bag 52.9K Ethereum, What\u2019s Happening",
-        "source": "https://cryptonews.net/news/ethereum/30232586/",
-        "timestamp": "2024-12-16 08:55:06",
-        "sentToChannel": true
-    },
-    {
-        "title": "Swan Chain Unveils CP v1.0.0 Update in Preparation for TGE",
-        "source": "https://cryptonews.net/news/altcoins/30231282/",
-        "timestamp": "2024-12-16 08:55:06",
-        "sentToChannel": true
-    },
-    {
-        "title": "Beam Foundation Unveils BeamAI: Bridging Artificial Intelligence and Gaming",
-        "source": "https://cryptonews.net/news/altcoins/30231501/",
-        "timestamp": "2024-12-16 08:55:06",
-        "sentToChannel": true
-    },
-    {
         "title": "Grayscale Bitcoin Trust ETF outflows exceed $21B in under 12 months",
         "source": "https://cryptonews.net/news/bitcoin/30232853/",
         "timestamp": "2024-12-16 09:12:13",
@@ -1095,6 +1071,6 @@
         "title": "Justin Sun Sends Another Mysterious Message: \u201cSomething Big is Coming\u201d",
         "source": "https://cryptonews.net/news/altcoins/30238074/",
         "timestamp": "2024-12-17 08:38:51",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
