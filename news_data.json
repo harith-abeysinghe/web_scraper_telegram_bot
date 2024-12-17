@@ -1,47 +1,5 @@
 [
     {
-        "title": "Will Ethereum Price Hit ATH This Week? Key Levels to Watch",
-        "source": "https://cryptonews.net/news/ethereum/30233251/",
-        "timestamp": "2024-12-16 11:10:29",
-        "sentToChannel": true
-    },
-    {
-        "title": "Whales continue to accumulate Ethereum since prices broke $3,330",
-        "source": "https://cryptonews.net/news/ethereum/30233464/",
-        "timestamp": "2024-12-16 11:10:29",
-        "sentToChannel": true
-    },
-    {
-        "title": "Xandeum wraps up Solana staking program with 205M XAND distributed in rewards",
-        "source": "https://cryptonews.net/news/altcoins/30233479/",
-        "timestamp": "2024-12-16 11:10:30",
-        "sentToChannel": true
-    },
-    {
-        "title": "Solana gains top spot in daily net inflows with $12M, beating all other blockchains",
-        "source": "https://cryptonews.net/news/altcoins/30233271/",
-        "timestamp": "2024-12-16 11:10:30",
-        "sentToChannel": true
-    },
-    {
-        "title": "Ripple CTO Explains Why Ripple Stablecoin RLUSD May Cost More Than $1",
-        "source": "https://cryptonews.net/news/altcoins/30233221/",
-        "timestamp": "2024-12-16 11:10:30",
-        "sentToChannel": true
-    },
-    {
-        "title": "Cardano Developer Conference Proposed by Hoskinson for 2025",
-        "source": "https://cryptonews.net/news/altcoins/30233274/",
-        "timestamp": "2024-12-16 11:10:30",
-        "sentToChannel": true
-    },
-    {
-        "title": "Cardano Founder Sparks Community Speculation With Cryptographic Post",
-        "source": "https://cryptonews.net/news/altcoins/30233414/",
-        "timestamp": "2024-12-16 11:10:30",
-        "sentToChannel": true
-    },
-    {
         "title": "Bitcoin new ATH pushes El Salvador\u2019s unrealized profit over $360 million",
         "source": "https://cryptonews.net/news/bitcoin/30233863/",
         "timestamp": "2024-12-16 13:01:27",
@@ -951,42 +909,42 @@
         "title": "OpenSea Cayman Islands Registration Sparks Airdrop Speculation",
         "source": "https://www.coindesk.com/business/2024/12/17/open-sea-cayman-islands-registration-sparks-airdrop-speculation",
         "timestamp": "2024-12-17 10:55:09",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "69,300,000 XRP Hits Binance, Here\u2019s What\u2019s Happening",
         "source": "https://cryptonews.net/news/altcoins/30239052/",
         "timestamp": "2024-12-17 11:08:59",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Ripple Stablecoin: President Reveals What's Behind RLUSD",
         "source": "https://cryptonews.net/news/altcoins/30238837/",
         "timestamp": "2024-12-17 11:08:59",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin options expiry, explained: What it means for traders",
         "source": "https://cryptonews.net/news/bitcoin/30239452/",
         "timestamp": "2024-12-17 11:23:36",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Raghuram Rajan Joins Ripple to Guide RLUSD Stablecoin\u2019s Growth and Compliance",
         "source": "https://cryptonews.net/news/altcoins/30238665/",
         "timestamp": "2024-12-17 11:32:55",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Kontos Protocol announces its highly expected tokenomics details",
         "source": "https://cryptonews.net/news/altcoins/30238627/",
         "timestamp": "2024-12-17 11:32:55",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin spot ETF net inflow reaches $637m",
         "source": "https://cryptonews.net/news/bitcoin/30238706/",
         "timestamp": "2024-12-17 11:42:03",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
