@@ -934,5 +934,17 @@
         "source": "https://cryptonews.net/news/altcoins/30243052/",
         "timestamp": "2024-12-17 21:52:02",
         "sentToChannel": true
+    },
+    {
+        "title": "Bitcoin ETFs flip gold funds in AUM: K33 Research",
+        "source": "https://cryptonews.net/news/bitcoin/30243220/",
+        "timestamp": "2024-12-17 23:09:43",
+        "sentToChannel": false
+    },
+    {
+        "title": "What\u2019s Next for MOCA? Whale Buy 9.5M MOCA Tokens Following Upbit Listing Hypes",
+        "source": "https://cryptonews.net/news/altcoins/30243099/",
+        "timestamp": "2024-12-17 23:09:45",
+        "sentToChannel": false
     }
 ]
