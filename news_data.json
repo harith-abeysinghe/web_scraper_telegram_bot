@@ -1006,5 +1006,29 @@
         "source": "https://www.coindesk.com/markets/2024/12/17/how-micro-strategy-and-others-are-taking-on-billions-in-debt-to-buy-more-bitcoin",
         "timestamp": "2024-12-17 17:43:44",
         "sentToChannel": true
+    },
+    {
+        "title": "Ethereum price eyes new all-time highs, but will $15K be the top?",
+        "source": "https://cryptonews.net/news/ethereum/30242360/",
+        "timestamp": "2024-12-17 18:14:40",
+        "sentToChannel": false
+    },
+    {
+        "title": "Michael Novogratz's Galaxy Appoints Former Point72 Exec as CFO",
+        "source": "https://www.coindesk.com/business/2024/12/13/michael-novogratz-s-galaxy-appoints-former-point72-exec-as-cfo",
+        "timestamp": "2024-12-17 18:14:41",
+        "sentToChannel": false
+    },
+    {
+        "title": "Societe Generale Conducts Blockchain-Based Repo Transaction With French Central Bank",
+        "source": "https://www.coindesk.com/business/2024/12/13/societe-generale-conducts-blockchain-based-repo-transaction-with-french-central-bank",
+        "timestamp": "2024-12-17 18:14:41",
+        "sentToChannel": false
+    },
+    {
+        "title": "Activist Investor Starboard Has Built Stake in Bitcoin Miner Riot: WSJ",
+        "source": "https://www.coindesk.com/business/2024/12/12/activist-investor-starboard-has-built-stake-in-bitcoin-miner-riot-wsj",
+        "timestamp": "2024-12-17 18:14:41",
+        "sentToChannel": false
     }
 ]
