@@ -976,5 +976,17 @@
         "source": "https://cryptonews.net/news/bitcoin/30238697/",
         "timestamp": "2024-12-17 09:44:24",
         "sentToChannel": true
+    },
+    {
+        "title": "Ethereum (ETH) Breaks $4,000: Historical Trends Signal Early Bull Phase",
+        "source": "https://cryptonews.net/news/ethereum/30238600/",
+        "timestamp": "2024-12-17 10:11:28",
+        "sentToChannel": false
+    },
+    {
+        "title": "BlackRock Bitcoin ETF Put Options at $30, $35 Price Levels See Volume Spike",
+        "source": "https://www.coindesk.com/markets/2024/12/16/black-rock-bitcoin-etf-put-options-at-30-35-price-levels-see-volume-spike",
+        "timestamp": "2024-12-17 10:11:29",
+        "sentToChannel": false
     }
 ]
