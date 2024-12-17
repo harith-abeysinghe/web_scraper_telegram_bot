@@ -1,53 +1,5 @@
 [
     {
-        "title": "Shiba Inu Officially Issues New Warning About Shiro Neko",
-        "source": "https://cryptonews.net/news/altcoins/30232834/",
-        "timestamp": "2024-12-16 09:33:00",
-        "sentToChannel": true
-    },
-    {
-        "title": "XRP Buyback Program Proposed to Japanese Financial Giant SBI: Details",
-        "source": "https://cryptonews.net/news/altcoins/30232744/",
-        "timestamp": "2024-12-16 09:33:00",
-        "sentToChannel": true
-    },
-    {
-        "title": "MOCA Token Surges by 380% After Major South Korean Exchange Listings",
-        "source": "https://cryptonews.net/news/altcoins/30232601/",
-        "timestamp": "2024-12-16 09:33:00",
-        "sentToChannel": true
-    },
-    {
-        "title": "CNBC Ranks XRP as Biggest Winner in Trump-led Crypto Rally",
-        "source": "https://cryptonews.net/news/altcoins/30232425/",
-        "timestamp": "2024-12-16 09:33:00",
-        "sentToChannel": true
-    },
-    {
-        "title": "\ud83d\udd25Ripple CTO says to expect shortage of RLUSD at launch, but don\u2019t FOMO",
-        "source": "https://cryptonews.net/news/altcoins/30231938/",
-        "timestamp": "2024-12-16 09:33:00",
-        "sentToChannel": true
-    },
-    {
-        "title": "BlackRock Bitcoin ETF Put Options at $30, $35 Price Levels See Volume Spike",
-        "source": "https://www.coindesk.com/markets/2024/12/16/black-rock-bitcoin-etf-put-options-at-30-35-price-levels-see-volume-spike",
-        "timestamp": "2024-12-16 09:33:00",
-        "sentToChannel": true
-    },
-    {
-        "title": "Michael Saylor Reacts to New 106k Bitcoin ATH With \u2018I Will See You On The Moon\u2019 BTC Tweet",
-        "source": "https://cryptonews.net/news/bitcoin/30232831/",
-        "timestamp": "2024-12-16 09:45:04",
-        "sentToChannel": true
-    },
-    {
-        "title": "Extremely Bullish 88-Day Structure Appears On Bitcoin Price Chart After Hitting $105,000 ATH",
-        "source": "https://cryptonews.net/news/bitcoin/30232720/",
-        "timestamp": "2024-12-16 09:45:04",
-        "sentToChannel": true
-    },
-    {
         "title": "BTC price 'base case' now $140K: 5 things to know in Bitcoin this week",
         "source": "https://cryptonews.net/news/bitcoin/30233220/",
         "timestamp": "2024-12-16 10:11:56",
@@ -1011,18 +963,18 @@
         "title": "Metaplanet Raises $30 Million Through Zero-Interest Bonds to Boost Bitcoin Holdings",
         "source": "https://cryptonews.net/news/bitcoin/30238879/",
         "timestamp": "2024-12-17 09:44:24",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Michael Saylor Says \u201cTrump Is Serious About Creating a Bitcoin Reserve\u201d, Reveals BTC Price Prediction",
         "source": "https://cryptonews.net/news/bitcoin/30238573/",
         "timestamp": "2024-12-17 09:44:24",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Top 10 Largest Bitcoin Holders: Governments, Exchanges, and Billionaires Exposed!",
         "source": "https://cryptonews.net/news/bitcoin/30238697/",
         "timestamp": "2024-12-17 09:44:24",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
