@@ -928,5 +928,23 @@
         "source": "https://cryptonews.net/news/bitcoin/30242486/",
         "timestamp": "2024-12-17 20:43:29",
         "sentToChannel": true
+    },
+    {
+        "title": "Bitcoin on the Brink: Taproot Wizard Calls for Action, Taaki Demands Core Disbandment",
+        "source": "https://cryptonews.net/news/bitcoin/30242797/",
+        "timestamp": "2024-12-17 21:08:21",
+        "sentToChannel": false
+    },
+    {
+        "title": "Bitwise predicts Ethereum revival in 2025 driven by institutional interest, RWA growth",
+        "source": "https://cryptonews.net/news/ethereum/30242465/",
+        "timestamp": "2024-12-17 21:08:21",
+        "sentToChannel": false
+    },
+    {
+        "title": "USDT Transfer Volume on TRON Reaches All-Time High of $587.2B",
+        "source": "https://cryptonews.net/news/altcoins/30242827/",
+        "timestamp": "2024-12-17 21:08:22",
+        "sentToChannel": false
     }
 ]
