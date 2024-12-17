@@ -1,53 +1,5 @@
 [
     {
-        "title": "BTC price 'base case' now $140K: 5 things to know in Bitcoin this week",
-        "source": "https://cryptonews.net/news/bitcoin/30233220/",
-        "timestamp": "2024-12-16 10:11:56",
-        "sentToChannel": true
-    },
-    {
-        "title": "The value of Bitcoin today is again at its highs",
-        "source": "https://cryptonews.net/news/bitcoin/30233301/",
-        "timestamp": "2024-12-16 10:38:44",
-        "sentToChannel": true
-    },
-    {
-        "title": "Latest BTC ATH Set at $106,488.25 as Silver-Tongued Analyst Predicts Next ATH Between $125,000 and $135,000",
-        "source": "https://cryptonews.net/news/bitcoin/30232264/",
-        "timestamp": "2024-12-16 10:38:44",
-        "sentToChannel": true
-    },
-    {
-        "title": "As Bitcoin Rally Stalls at $106K, Could $110K Be Next?",
-        "source": "https://cryptonews.net/news/bitcoin/30233067/",
-        "timestamp": "2024-12-16 10:38:44",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin Wallets Holding Over 100 BTC Spike Amidst $106K Milestone",
-        "source": "https://cryptonews.net/news/bitcoin/30233198/",
-        "timestamp": "2024-12-16 10:38:44",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin pumped to $106,000 on Sunday; Is a crash bound for Monday?",
-        "source": "https://cryptonews.net/news/bitcoin/30233426/",
-        "timestamp": "2024-12-16 10:49:08",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin to gold ratio posts new record as BTC sets new high",
-        "source": "https://cryptonews.net/news/bitcoin/30233443/",
-        "timestamp": "2024-12-16 10:49:08",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin Reaches $67 Billion: Details",
-        "source": "https://cryptonews.net/news/bitcoin/30233295/",
-        "timestamp": "2024-12-16 10:49:08",
-        "sentToChannel": true
-    },
-    {
         "title": "Will Ethereum Price Hit ATH This Week? Key Levels to Watch",
         "source": "https://cryptonews.net/news/ethereum/30233251/",
         "timestamp": "2024-12-16 11:10:29",
@@ -981,18 +933,18 @@
         "title": "Ethereum (ETH) Breaks $4,000: Historical Trends Signal Early Bull Phase",
         "source": "https://cryptonews.net/news/ethereum/30238600/",
         "timestamp": "2024-12-17 10:11:28",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "BlackRock Bitcoin ETF Put Options at $30, $35 Price Levels See Volume Spike",
         "source": "https://www.coindesk.com/markets/2024/12/16/black-rock-bitcoin-etf-put-options-at-30-35-price-levels-see-volume-spike",
         "timestamp": "2024-12-17 10:11:29",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "MicroStrategy's Addition to Nasdaq-100 May Pave Way for S&P 500 Inclusion: Benchmark",
         "source": "https://www.coindesk.com/markets/2024/12/17/micro-strategys-addition-to-nasdaq-100-may-pave-way-for-s-and-p-500-inclusion-benchmark",
         "timestamp": "2024-12-17 10:37:43",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
