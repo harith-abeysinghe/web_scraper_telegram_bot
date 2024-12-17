@@ -1,119 +1,5 @@
 [
     {
-        "title": "Bitcoin Critic Peter Schiff Reveals Key Reason Behind Latest ATH Milestone",
-        "source": "https://cryptonews.net/news/bitcoin/30234723/",
-        "timestamp": "2024-12-16 16:13:01",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin Adoption Skyrockets, Semler Scientific Buys $21.5M in BTC",
-        "source": "https://cryptonews.net/news/bitcoin/30234789/",
-        "timestamp": "2024-12-16 16:13:01",
-        "sentToChannel": true
-    },
-    {
-        "title": "Will the Bullish Mood in Bitcoin Continue? Analysis Company Announced, Gave a Date for $120,000!",
-        "source": "https://cryptonews.net/news/bitcoin/30234701/",
-        "timestamp": "2024-12-16 16:13:01",
-        "sentToChannel": true
-    },
-    {
-        "title": "Out-of-Control Surge in US National Debt Fueling Bitcoin Rallies, Says Anthony Pompliano",
-        "source": "https://cryptonews.net/news/bitcoin/30235432/",
-        "timestamp": "2024-12-16 16:13:01",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin Technical Analysis: Resistance at $106K Sparks Fierce Bull-Bear Battle",
-        "source": "https://cryptonews.net/news/bitcoin/30235098/",
-        "timestamp": "2024-12-16 16:13:01",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin\u2019s Price Surges Above $106,000, Setting a Historic High Against Gold",
-        "source": "https://cryptonews.net/news/bitcoin/30234533/",
-        "timestamp": "2024-12-16 16:13:01",
-        "sentToChannel": true
-    },
-    {
-        "title": "Hex Trust Expands Collaboration with Stacks Asia Foundation to Bolster sBTC Adoption",
-        "source": "https://cryptonews.net/news/altcoins/30235032/",
-        "timestamp": "2024-12-16 16:13:02",
-        "sentToChannel": true
-    },
-    {
-        "title": "Shiba Inu Makes Key MetaMask Ranking Despite Stalling Rally",
-        "source": "https://cryptonews.net/news/altcoins/30235042/",
-        "timestamp": "2024-12-16 16:13:02",
-        "sentToChannel": true
-    },
-    {
-        "title": "Ethena Price Jumps 4.54% as USDe Market Cap Hits $6B",
-        "source": "https://cryptonews.net/news/altcoins/30234633/",
-        "timestamp": "2024-12-16 16:13:02",
-        "sentToChannel": true
-    },
-    {
-        "title": "800 Million XRP Migrate From Top Global Exchange; Is This Start of Something Big?",
-        "source": "https://cryptonews.net/news/altcoins/30235039/",
-        "timestamp": "2024-12-16 16:13:02",
-        "sentToChannel": true
-    },
-    {
-        "title": "Chainlink Jumps by 22% Amid Whale Accumulation and Investor Optimism",
-        "source": "https://cryptonews.net/news/altcoins/30234511/",
-        "timestamp": "2024-12-16 16:13:02",
-        "sentToChannel": true
-    },
-    {
-        "title": "VIRTUAL hits new all-time high amid 26% surge",
-        "source": "https://cryptonews.net/news/altcoins/30234561/",
-        "timestamp": "2024-12-16 16:13:02",
-        "sentToChannel": true
-    },
-    {
-        "title": "Hedera Aims to Enhance DeFi and RWA Capabilities With Chainlink Data Integration",
-        "source": "https://cryptonews.net/news/altcoins/30234834/",
-        "timestamp": "2024-12-16 16:13:02",
-        "sentToChannel": true
-    },
-    {
-        "title": "Giant Whales Are Making a Splash with Their Altcoin Purchases! Here Are the Altcoins They Poured Millions of Dollars Into!",
-        "source": "https://cryptonews.net/news/altcoins/30235030/",
-        "timestamp": "2024-12-16 16:13:02",
-        "sentToChannel": true
-    },
-    {
-        "title": "Ripple to Roll Out RLUSD Stablecoin on Dec. 17, Adds Former Central Bankers to Advisory Board",
-        "source": "https://www.coindesk.com/business/2024/12/16/ripple-to-roll-out-rlusd-stablecoin-on-dec-17-adds-former-central-bankers-to-advisory-board",
-        "timestamp": "2024-12-16 16:13:04",
-        "sentToChannel": true
-    },
-    {
-        "title": "Here\u2019s What Needs to Happen for ETH to Break its All-Time High Soon: Ethereum Price Analysis",
-        "source": "https://cryptonews.net/news/ethereum/30234828/",
-        "timestamp": "2024-12-16 16:41:09",
-        "sentToChannel": true
-    },
-    {
-        "title": "Polygon\u2019s $1B yield plan under fire from former employee",
-        "source": "https://cryptonews.net/news/altcoins/30234848/",
-        "timestamp": "2024-12-16 16:41:10",
-        "sentToChannel": true
-    },
-    {
-        "title": "Helium revenues heat up just in time for a new DAWN",
-        "source": "https://cryptonews.net/news/altcoins/30234944/",
-        "timestamp": "2024-12-16 16:41:10",
-        "sentToChannel": true
-    },
-    {
-        "title": "$3.2 Billion Flood Crypto Market Last Week, Cardano (ADA) Gets Its Share Too",
-        "source": "https://cryptonews.net/news/altcoins/30235167/",
-        "timestamp": "2024-12-16 16:41:10",
-        "sentToChannel": true
-    },
-    {
         "title": "MicroStrategy to Enter Nasdaq 100, Exposing Bitcoin-Linked Stock to Billions in Passive Investment Flows",
         "source": "https://www.coindesk.com/markets/2024/12/12/microstrategy-to-enter-nasdaq-100-exposing-bitcoin-linked-stock-to-billions-in-passive-investment-flows",
         "timestamp": "2024-12-16 17:09:52",
@@ -1059,60 +945,60 @@
         "title": "SHIB Burns Skyrocket 319,571% \u2014 What's Happening?",
         "source": "https://cryptonews.net/news/altcoins/30241097/",
         "timestamp": "2024-12-17 15:45:17",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Pyth Network brings real-time oil data to over 80 blockchains",
         "source": "https://cryptonews.net/news/altcoins/30241423/",
         "timestamp": "2024-12-17 15:45:17",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "KuCoin Hints at Possible XRP ETF: Big Year Ahead for XRP?",
         "source": "https://cryptonews.net/news/altcoins/30240968/",
         "timestamp": "2024-12-17 15:45:17",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "XRP whales making optimistic buying moves ahead of RLUSD launch",
         "source": "https://cryptonews.net/news/altcoins/30241060/",
         "timestamp": "2024-12-17 15:45:17",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin and Ethereum Primed To Go Massively Higher Soon, According to Top Crypto Analyst \u2013 Here Are His Targets",
         "source": "https://cryptonews.net/news/bitcoin/30241534/",
         "timestamp": "2024-12-17 16:12:59",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Investment Company QCP Capital Draws Attention to Investors' Trends in Bitcoin! Here Are the Details",
         "source": "https://cryptonews.net/news/bitcoin/30241420/",
         "timestamp": "2024-12-17 16:12:59",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin Hits $108K For The First Time In History",
         "source": "https://cryptonews.net/news/bitcoin/30241317/",
         "timestamp": "2024-12-17 16:12:59",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Crypto trader makes $8.3 million in 20 minutes",
         "source": "https://cryptonews.net/news/altcoins/30241402/",
         "timestamp": "2024-12-17 16:13:00",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Stablecoin Payments Platform BVNK Raises $50M to Fuel U.S. Expansion",
         "source": "https://www.coindesk.com/business/2024/12/17/stablecoin-payments-platform-bvnk-raises-50-m-to-fuel-u-s-expansion",
         "timestamp": "2024-12-17 16:41:00",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Layer-2 Network Fuel to Airdrop 10% of New Token Supply to 200K Wallets",
         "source": "https://www.coindesk.com/business/2024/12/17/layer-2-network-fuel-to-airdrop-10-of-new-token-supply-to-200-k-wallets",
         "timestamp": "2024-12-17 16:41:00",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
