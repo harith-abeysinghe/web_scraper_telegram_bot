@@ -1,83 +1,5 @@
 [
     {
-        "title": "MicroStrategy to Enter Nasdaq 100, Exposing Bitcoin-Linked Stock to Billions in Passive Investment Flows",
-        "source": "https://www.coindesk.com/markets/2024/12/12/microstrategy-to-enter-nasdaq-100-exposing-bitcoin-linked-stock-to-billions-in-passive-investment-flows",
-        "timestamp": "2024-12-16 17:09:52",
-        "sentToChannel": true
-    },
-    {
-        "title": "Larger Cohorts Than U.S. ETFs or MicroStrategy Are Dictating Bitcoin Price: Van Straten",
-        "source": "https://www.coindesk.com/markets/2024/12/13/larger-cohorts-than-u-s-etfs-or-micro-strategy-are-dictating-bitcoin-price-van-straten",
-        "timestamp": "2024-12-16 17:09:52",
-        "sentToChannel": true
-    },
-    {
-        "title": "Miners Are Adopting the Same Bitcoin Acquisition Strategy as MicroStrategy: JPMorgan",
-        "source": "https://www.coindesk.com/markets/2024/12/13/miners-are-adopting-the-same-bitcoin-acquisition-strategy-as-micro-strategy-jp-morgan",
-        "timestamp": "2024-12-16 17:09:52",
-        "sentToChannel": true
-    },
-    {
-        "title": "Polygon DAO Weighs $1.3B Stablecoin Deployment to Generate $70M Annual Yield",
-        "source": "https://www.coindesk.com/markets/2024/12/13/polygon-dao-weighs-1-3-b-stablecoin-deployment-to-generate-70-m-annual-yield",
-        "timestamp": "2024-12-16 17:09:52",
-        "sentToChannel": true
-    },
-    {
-        "title": "Michael Novogratz's Galaxy Appoints Former Point72 Exec as CFO",
-        "source": "https://www.coindesk.com/business/2024/12/13/michael-novogratz-s-galaxy-appoints-former-point72-exec-as-cfo",
-        "timestamp": "2024-12-16 17:09:52",
-        "sentToChannel": true
-    },
-    {
-        "title": "Societe Generale Conducts Blockchain-Based Repo Transaction With French Central Bank",
-        "source": "https://www.coindesk.com/business/2024/12/13/societe-generale-conducts-blockchain-based-repo-transaction-with-french-central-bank",
-        "timestamp": "2024-12-16 17:09:52",
-        "sentToChannel": true
-    },
-    {
-        "title": "Activist Investor Starboard Has Built Stake in Bitcoin Miner Riot: WSJ",
-        "source": "https://www.coindesk.com/business/2024/12/12/activist-investor-starboard-has-built-stake-in-bitcoin-miner-riot-wsj",
-        "timestamp": "2024-12-16 17:09:52",
-        "sentToChannel": true
-    },
-    {
-        "title": "Michael Sonnenshein, Ex-Grayscale CEO, Joins Tokenization Firm Securitize as COO",
-        "source": "https://www.coindesk.com/business/2024/12/12/michael-sonnenshein-ex-grayscale-ceo-joins-tokenization-firm-securitize-as-coo",
-        "timestamp": "2024-12-16 17:09:52",
-        "sentToChannel": true
-    },
-    {
-        "title": "Ranger Finance Targets Crypto Perps Traders of 'Size' on Solana",
-        "source": "https://www.coindesk.com/business/2024/12/12/ranger-finance-targets-crypto-perps-traders-of-size-on-solana",
-        "timestamp": "2024-12-16 17:09:52",
-        "sentToChannel": true
-    },
-    {
-        "title": "Avalanche Raises $250M Amid Major Overhaul of Layer-1 Blockchain",
-        "source": "https://www.coindesk.com/business/2024/12/12/avalanche-raises-250-m-amid-major-overhaul-of-layer-1-blockchain",
-        "timestamp": "2024-12-16 17:09:52",
-        "sentToChannel": true
-    },
-    {
-        "title": "Stablecoin Trading Startup Perena Tries Its Luck on Solana",
-        "source": "https://www.coindesk.com/business/2024/12/11/stablecoin-trading-startup-perena-tries-its-luck-on-solana",
-        "timestamp": "2024-12-16 17:09:52",
-        "sentToChannel": true
-    },
-    {
-        "title": "Hut 8 Rises 12% Pre-Market Amid Social-Media Talk of Partnership With Meta",
-        "source": "https://www.coindesk.com/business/2024/12/12/hut-8-rises-12-pre-market-amid-social-media-talk-of-partnership-with-meta",
-        "timestamp": "2024-12-16 17:09:52",
-        "sentToChannel": true
-    },
-    {
-        "title": "Power-Hungry AI Fuels Crypto VC's Bet on Tokenized Uranium Startup",
-        "source": "https://www.coindesk.com/business/2024/12/12/power-hungry-ai-fuels-crypto-vc-s-bet-on-tokenized-uranium-startup",
-        "timestamp": "2024-12-16 17:09:52",
-        "sentToChannel": true
-    },
-    {
         "title": "Bitcoin hits new record high with surge to $107k",
         "source": "https://cryptonews.net/news/bitcoin/30236177/",
         "timestamp": "2024-12-16 18:14:19",
@@ -1005,84 +927,84 @@
         "title": "Ripple to Roll Out RLUSD Stablecoin on Dec. 17, Adds Former Central Bankers to Advisory Board",
         "source": "https://www.coindesk.com/business/2024/12/16/ripple-to-roll-out-rlusd-stablecoin-on-dec-17-adds-former-central-bankers-to-advisory-board",
         "timestamp": "2024-12-17 17:10:36",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin Delivers 26,931% 10-Year Return, While Stocks Gain 193% and Gold 126%: Analysis",
         "source": "https://cryptonews.net/news/bitcoin/30241572/",
         "timestamp": "2024-12-17 17:32:23",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin Technical Analysis: Breakout Looms as Resistance Nears $108K",
         "source": "https://cryptonews.net/news/bitcoin/30240902/",
         "timestamp": "2024-12-17 17:32:23",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Buying Bitcoin Is Easy, HODLing Is the Hard Part",
         "source": "https://cryptonews.net/news/bitcoin/30241975/",
         "timestamp": "2024-12-17 17:32:23",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Mike Novogratz Predicts Bitcoin Might Eclipse Gold in Five Years",
         "source": "https://cryptonews.net/news/bitcoin/30241631/",
         "timestamp": "2024-12-17 17:32:23",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin or University: Which Investment Yields Greater Financial Freedom?",
         "source": "https://cryptonews.net/news/bitcoin/30241801/",
         "timestamp": "2024-12-17 17:32:23",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin $108K all-time high lasts seconds as BTC price dives 2.4%",
         "source": "https://cryptonews.net/news/bitcoin/30242011/",
         "timestamp": "2024-12-17 17:32:23",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Are You Buying Bitcoin? Whales Add $7.3 Billion in BTC",
         "source": "https://cryptonews.net/news/bitcoin/30241546/",
         "timestamp": "2024-12-17 17:32:23",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Ethereum price stalls at key price but on-chain metrics point to a surge",
         "source": "https://cryptonews.net/news/ethereum/30241556/",
         "timestamp": "2024-12-17 17:32:24",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Sui Network Integrates Cross-Chain Transfer Protocol for USDC",
         "source": "https://cryptonews.net/news/altcoins/30241887/",
         "timestamp": "2024-12-17 17:32:24",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "RLUSD Stablecoin Goes Live: Price Fluctuates 20% Before Stabilizing",
         "source": "https://cryptonews.net/news/altcoins/30241320/",
         "timestamp": "2024-12-17 17:32:24",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Shiba Inu Whale Moves Explode 258%, Sparking Market Frenzy",
         "source": "https://cryptonews.net/news/altcoins/30241772/",
         "timestamp": "2024-12-17 17:32:24",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "If you invested $1,000 in XRP at the start of 2021, you\u2019d have this much now",
         "source": "https://cryptonews.net/news/altcoins/30241746/",
         "timestamp": "2024-12-17 17:32:24",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "How MicroStrategy and Others Are Taking on Billions in Debt to Buy More Bitcoin",
         "source": "https://www.coindesk.com/markets/2024/12/17/how-micro-strategy-and-others-are-taking-on-billions-in-debt-to-buy-more-bitcoin",
         "timestamp": "2024-12-17 17:43:44",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
