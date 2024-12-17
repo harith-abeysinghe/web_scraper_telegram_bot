@@ -1,23 +1,5 @@
 [
     {
-        "title": "Tesla\u2019s decision to ditch Bitcoin might\u2019ve been a great idea in 2021. But does it still hold up today?",
-        "source": "https://cryptonews.net/news/bitcoin/30237311/",
-        "timestamp": "2024-12-16 23:10:20",
-        "sentToChannel": true
-    },
-    {
-        "title": "Doge Meme Pup Owner's IP Move Could Decide 'Official' Neiro Coin",
-        "source": "https://cryptonews.net/news/altcoins/30237275/",
-        "timestamp": "2024-12-16 23:10:21",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitfinex projects Bitcoin peaking at $290k in early 2026 if historical patterns repeat",
-        "source": "https://cryptonews.net/news/bitcoin/30237363/",
-        "timestamp": "2024-12-16 23:29:19",
-        "sentToChannel": true
-    },
-    {
         "title": "Avalanche of Institutional Money Continues Into Crypto Products With $3,200,000,000 in Inflows: CoinShares",
         "source": "https://cryptonews.net/news/altcoins/30237398/",
         "timestamp": "2024-12-16 23:45:53",
@@ -939,24 +921,24 @@
         "title": "Bitcoin ETFs flip gold funds in AUM: K33 Research",
         "source": "https://cryptonews.net/news/bitcoin/30243220/",
         "timestamp": "2024-12-17 23:09:43",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "What\u2019s Next for MOCA? Whale Buy 9.5M MOCA Tokens Following Upbit Listing Hypes",
         "source": "https://cryptonews.net/news/altcoins/30243099/",
         "timestamp": "2024-12-17 23:09:45",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "\u201cThis will be the most pro-digital asset administration ever,\u201d says Sen. Cynthia Lummis",
         "source": "https://cryptonews.net/news/bitcoin/30243272/",
         "timestamp": "2024-12-17 23:25:26",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Ethereum Game 'Kaidro' Launching Ronin Token This Week",
         "source": "https://cryptonews.net/news/altcoins/30243132/",
         "timestamp": "2024-12-17 23:25:27",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
