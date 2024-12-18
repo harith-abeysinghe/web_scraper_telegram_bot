@@ -1,101 +1,5 @@
 [
     {
-        "title": "All Eyes on $110,730 After Bitcoin Sets New ATH of $107K",
-        "source": "https://cryptonews.net/news/bitcoin/30239355/",
-        "timestamp": "2024-12-17 12:19:58",
-        "sentToChannel": true
-    },
-    {
-        "title": "Mammoth $2.51 Billion in Bitcoin in Past 20 Hours \u2013 What\u2019s Going On?",
-        "source": "https://cryptonews.net/news/bitcoin/30239611/",
-        "timestamp": "2024-12-17 12:19:58",
-        "sentToChannel": true
-    },
-    {
-        "title": "VeChain News: New App LETSTOP Rewards Safe Driving with B3TR, Joins VeBetter Ecosystem",
-        "source": "https://cryptonews.net/news/altcoins/30239194/",
-        "timestamp": "2024-12-17 12:19:58",
-        "sentToChannel": true
-    },
-    {
-        "title": "Michael Saylor is throwing a bitcoin party for NYE, and you\u2019re not invited",
-        "source": "https://cryptonews.net/news/bitcoin/30239968/",
-        "timestamp": "2024-12-17 12:58:35",
-        "sentToChannel": true
-    },
-    {
-        "title": "\u2018No to CBDC, yes to Bitcoin\u2019 \u2014 European MP calls for EU BTC reserve",
-        "source": "https://cryptonews.net/news/bitcoin/30240033/",
-        "timestamp": "2024-12-17 12:58:35",
-        "sentToChannel": true
-    },
-    {
-        "title": "Ethereum Whale Dominance Hits Record High: What Comes Next?",
-        "source": "https://cryptonews.net/news/ethereum/30240027/",
-        "timestamp": "2024-12-17 12:58:36",
-        "sentToChannel": true
-    },
-    {
-        "title": "Ethereum Foundation Dump Another 100 ETH for $420k, ETH Price to Drop",
-        "source": "https://cryptonews.net/news/ethereum/30239743/",
-        "timestamp": "2024-12-17 12:58:36",
-        "sentToChannel": true
-    },
-    {
-        "title": "Ronin Bounties Introduced: Exclusive Quests in Ronin Wallet",
-        "source": "https://cryptonews.net/news/altcoins/30239897/",
-        "timestamp": "2024-12-17 12:58:37",
-        "sentToChannel": true
-    },
-    {
-        "title": "CRO Shot Up by 17% After Crypto.com CEO Met With Donald Trump",
-        "source": "https://cryptonews.net/news/altcoins/30239617/",
-        "timestamp": "2024-12-17 12:58:37",
-        "sentToChannel": true
-    },
-    {
-        "title": "HashKey Global\u2019s HSK soars to ATH, signaling rising market interest",
-        "source": "https://cryptonews.net/news/altcoins/30239596/",
-        "timestamp": "2024-12-17 12:58:37",
-        "sentToChannel": true
-    },
-    {
-        "title": "BlackRock vs. MicroStrategy: Who Holds the Better Bitcoin Strategy?",
-        "source": "https://cryptonews.net/news/bitcoin/30240337/",
-        "timestamp": "2024-12-17 13:27:28",
-        "sentToChannel": true
-    },
-    {
-        "title": "'Rich Dad Poor Dad\u2019 Author Kiyosaki Reacts to Bitcoin's All-Time High With Advice and Warning",
-        "source": "https://cryptonews.net/news/bitcoin/30240221/",
-        "timestamp": "2024-12-17 13:27:28",
-        "sentToChannel": true
-    },
-    {
-        "title": "Pudgy Penguins launch PENGU token on Solana with claims open for 88 days before being burned",
-        "source": "https://cryptonews.net/news/altcoins/30240460/",
-        "timestamp": "2024-12-17 13:27:29",
-        "sentToChannel": true
-    },
-    {
-        "title": "XRP Jumps 13% Ahead of Ripple Stablecoin Launch",
-        "source": "https://cryptonews.net/news/altcoins/30240292/",
-        "timestamp": "2024-12-17 13:27:29",
-        "sentToChannel": true
-    },
-    {
-        "title": "Tether Invests in MiCA-Compliant Stablecoin Issuer StablR",
-        "source": "https://www.coindesk.com/business/2024/12/17/tether-invests-in-mi-ca-compliant-stablecoin-issuer-stabl-r",
-        "timestamp": "2024-12-17 13:27:31",
-        "sentToChannel": true
-    },
-    {
-        "title": "Ethereum ETF staking yields could drive institutional adoption if regulatory barriers ease under Trump: analysts",
-        "source": "https://cryptonews.net/news/ethereum/30240497/",
-        "timestamp": "2024-12-17 13:42:54",
-        "sentToChannel": true
-    },
-    {
         "title": "Ripple\u2019s RLUSD Stablecoin Set to Go Live Despite the SEC\u2019s Allegations",
         "source": "https://cryptonews.net/news/altcoins/30240496/",
         "timestamp": "2024-12-17 13:52:03",
@@ -837,60 +741,60 @@
         "title": "Bitcoin Price Prediction \u2013 BTC Price Estimated to Reach $\u202f112,633 By Dec 23, 2024",
         "source": "https://cryptonews.net/news/bitcoin/30245279/",
         "timestamp": "2024-12-18 12:19:12",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Ethereum (ETH) Bulls Eye Another Shot at $4K",
         "source": "https://cryptonews.net/news/ethereum/30245472/",
         "timestamp": "2024-12-18 12:19:12",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Binance Abruptly Deletes Alpha Watchlist Tokens, Spurring Unforeseen Pump and Dump",
         "source": "https://www.coindesk.com/business/2024/12/18/binance-abruptly-deletes-alpha-watchlist-tokens-spurring-unforeseen-pump-and-dump",
         "timestamp": "2024-12-18 12:19:13",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitwise CIO Matt Hougan Says Bitcoin Will Hit $500,000 if US Reserve Bill Passes",
         "source": "https://cryptonews.net/news/bitcoin/30244572/",
         "timestamp": "2024-12-18 12:55:45",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin (BTC) Falls to $103K After Hitting Record High of $108K",
         "source": "https://cryptonews.net/news/bitcoin/30245469/",
         "timestamp": "2024-12-18 12:55:45",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "WazirX's WRX Plunges 60% After Binance Delisting, Dampening Hopes of a 'Fresh Start'",
         "source": "https://www.coindesk.com/markets/2024/12/18/wazir-xs-wrx-plunges-60-after-binance-delisting-dampening-hopes-of-a-fresh-start",
         "timestamp": "2024-12-18 12:55:46",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "RWA-Focused Network Plume Raises $20M from Brevan Howard and Others Ahead of Mainnet Launch",
         "source": "https://www.coindesk.com/business/2024/12/18/rwa-focused-network-plume-raises-20-m-from-brevan-howard-and-others-ahead-of-mainnet-launch",
         "timestamp": "2024-12-18 13:20:44",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Custody Firm Taurus Partners With Temenos Bringing Crypto Wallets to Thousands of Banks",
         "source": "https://www.coindesk.com/business/2024/12/18/custody-firm-taurus-partners-with-temenos-bringing-crypto-wallets-to-thousands-of-banks",
         "timestamp": "2024-12-18 13:20:44",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Ethereum Risks Breakdown to $3,378 as Bears Threaten $3,800 Support",
         "source": "https://cryptonews.net/news/ethereum/30245613/",
         "timestamp": "2024-12-18 13:39:53",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "IOTA News: Arnold Schwarzenegger Shows Interest in IOTA as Rebased Welcomes 3 New Validator Nodes",
         "source": "https://cryptonews.net/news/altcoins/30246110/",
         "timestamp": "2024-12-18 13:39:54",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
