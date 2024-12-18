@@ -1,83 +1,5 @@
 [
     {
-        "title": "Ripple\u2019s RLUSD Stablecoin Set to Go Live Despite the SEC\u2019s Allegations",
-        "source": "https://cryptonews.net/news/altcoins/30240496/",
-        "timestamp": "2024-12-17 13:52:03",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin Holder Semler Scientific's Shares Now Available for Options Trading",
-        "source": "https://www.coindesk.com/semler-scientific-options-trading-approval",
-        "timestamp": "2024-12-17 13:52:03",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin Bull Run Indicators Show Price Rally Is Far From Over",
-        "source": "https://cryptonews.net/news/bitcoin/30240218/",
-        "timestamp": "2024-12-17 14:10:04",
-        "sentToChannel": true
-    },
-    {
-        "title": "Will Bitcoin (BTC) Drive MicroStrategy into Bankruptcy? CryptoQuant CEO Explains!",
-        "source": "https://cryptonews.net/news/bitcoin/30240445/",
-        "timestamp": "2024-12-17 14:32:18",
-        "sentToChannel": true
-    },
-    {
-        "title": "Ethereum Price Momentum Strong Above $4,000, Targets $4,500 Next",
-        "source": "https://cryptonews.net/news/ethereum/30240801/",
-        "timestamp": "2024-12-17 14:32:19",
-        "sentToChannel": true
-    },
-    {
-        "title": "io.net Collaborates with Zerebro to Power New Ethereum Validator with GPU Compute",
-        "source": "https://cryptonews.net/news/altcoins/30240795/",
-        "timestamp": "2024-12-17 14:32:20",
-        "sentToChannel": true
-    },
-    {
-        "title": "Aurora Labs upgrades the TURBO ecosystem with TurboChain and TurboSwap",
-        "source": "https://cryptonews.net/news/altcoins/30240792/",
-        "timestamp": "2024-12-17 14:32:20",
-        "sentToChannel": true
-    },
-    {
-        "title": "XRP Is On The Rise Again! What Is The Reason For The Rise? Analysts Explained, Gave A Date For A New Record!",
-        "source": "https://cryptonews.net/news/altcoins/30240488/",
-        "timestamp": "2024-12-17 14:32:20",
-        "sentToChannel": true
-    },
-    {
-        "title": "GrokAI sets Bitcoin (BTC) price for December 31, 2024",
-        "source": "https://cryptonews.net/news/bitcoin/30240708/",
-        "timestamp": "2024-12-17 14:45:48",
-        "sentToChannel": true
-    },
-    {
-        "title": "Hyperliquid could have the most valuable airdrop ever",
-        "source": "https://cryptonews.net/news/altcoins/30240865/",
-        "timestamp": "2024-12-17 14:45:49",
-        "sentToChannel": true
-    },
-    {
-        "title": "Haliey Welch\u2019s HAWK token team breaks silence to shift the blame",
-        "source": "https://cryptonews.net/news/altcoins/30240860/",
-        "timestamp": "2024-12-17 14:45:49",
-        "sentToChannel": true
-    },
-    {
-        "title": "\ud83d\udd25Ripple USD (RLUSD) Launches on Global Exchanges, XRP Price Drop Ahead?",
-        "source": "https://cryptonews.net/news/altcoins/30240853/",
-        "timestamp": "2024-12-17 14:45:49",
-        "sentToChannel": true
-    },
-    {
-        "title": "Pudgy Penguins PENGU Token Debuts at $312M Market Cap",
-        "source": "https://www.coindesk.com/business/2024/12/17/pudgy-penguins-pengu-token-debuts-at-312-m-market-cap",
-        "timestamp": "2024-12-17 14:45:50",
-        "sentToChannel": true
-    },
-    {
         "title": "The Bitcoin \u2018train still has room to run' after the $107,000 record high",
         "source": "https://cryptonews.net/news/bitcoin/30240920/",
         "timestamp": "2024-12-17 15:10:49",
@@ -801,84 +723,84 @@
         "title": "Crypto whale turns $3.46M into $1.83M, takes big hit after PENGU airdrop",
         "source": "https://cryptonews.net/news/altcoins/30246101/",
         "timestamp": "2024-12-18 13:53:33",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Tether Invests in MiCA-Compliant Stablecoin Issuer StablR",
         "source": "https://www.coindesk.com/business/2024/12/17/tether-invests-in-mi-ca-compliant-stablecoin-issuer-stabl-r",
         "timestamp": "2024-12-18 13:53:34",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Coinbase Alums Patchwork Take Next Step Toward No-Code Blockchain Development",
         "source": "https://www.coindesk.com/business/2024/12/18/coinbase-alums-patchwork-take-next-step-toward-no-code-blockchain-development",
         "timestamp": "2024-12-18 14:09:50",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin Goes Haute Couture: Luxury Brands Embrace Crypto Payments",
         "source": "https://cryptonews.net/news/bitcoin/30246596/",
         "timestamp": "2024-12-18 14:30:48",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin to hit $1 million within 2 years based on new Satoshi Action Fund model",
         "source": "https://cryptonews.net/news/bitcoin/30246362/",
         "timestamp": "2024-12-18 14:30:48",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Youngest Ever Bitcoin Core Contributor Gets Bitcoin Scholarship",
         "source": "https://cryptonews.net/news/bitcoin/30246445/",
         "timestamp": "2024-12-18 14:30:48",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Trump\u2019s win boosts El Salvador\u2019s Bitcoin holdings, but hurts president Nayib Bukele\u2019s economic plans",
         "source": "https://cryptonews.net/news/bitcoin/30246261/",
         "timestamp": "2024-12-18 14:30:48",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin's Memecoin-Like 'Runes' Get a Boost With AMM Launch on Stacks",
         "source": "https://cryptonews.net/news/altcoins/30246842/",
         "timestamp": "2024-12-18 14:30:49",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Polygon rejects proposal to use over $1 billion of bridge stablecoins for yield generation",
         "source": "https://cryptonews.net/news/altcoins/30246845/",
         "timestamp": "2024-12-18 14:30:49",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Analytics Firm Announces Its Predictions for Today's FED Interest Rate Decision and Bitcoin (BTC): Up or Down?",
         "source": "https://cryptonews.net/news/bitcoin/30246610/",
         "timestamp": "2024-12-18 14:44:42",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "'Rich Dad Poor Dad' Author Predicts Bitcoin to Hit $350,000 Next Year",
         "source": "https://cryptonews.net/news/bitcoin/30246684/",
         "timestamp": "2024-12-18 14:44:42",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "'The Window to Accumulate Bitcoin Is Rapidly Closing': Samson Mow Warns",
         "source": "https://cryptonews.net/news/bitcoin/30246636/",
         "timestamp": "2024-12-18 14:44:42",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Flare Open Beta Completed, FXRP Debuts on Songbird",
         "source": "https://cryptonews.net/news/altcoins/30246408/",
         "timestamp": "2024-12-18 14:44:43",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Solana Smashes Record With 66.9M Daily Transactions as Pengu Token Debuts",
         "source": "https://www.coindesk.com/markets/2024/12/18/solana-smashes-record-with-66-9-m-daily-transactions-as-pengu-token-debuts",
         "timestamp": "2024-12-18 14:44:43",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
