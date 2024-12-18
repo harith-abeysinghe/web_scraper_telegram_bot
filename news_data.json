@@ -1,95 +1,5 @@
 [
     {
-        "title": "The Bitcoin \u2018train still has room to run' after the $107,000 record high",
-        "source": "https://cryptonews.net/news/bitcoin/30240920/",
-        "timestamp": "2024-12-17 15:10:49",
-        "sentToChannel": true
-    },
-    {
-        "title": "NEAR Redefines Cross-Chain Transactions with Over $250,000 in Volume",
-        "source": "https://cryptonews.net/news/altcoins/30241181/",
-        "timestamp": "2024-12-17 15:10:50",
-        "sentToChannel": true
-    },
-    {
-        "title": "CRV Price Eyes Strong Rally $2 as Curve Finance Founder Does $1.2 Million Buyback of CRV Tokens",
-        "source": "https://cryptonews.net/news/altcoins/30241144/",
-        "timestamp": "2024-12-17 15:10:50",
-        "sentToChannel": true
-    },
-    {
-        "title": "Ethena Rolls Out Stablecoin Backed by BlackRock's BUIDL Token",
-        "source": "https://www.coindesk.com/markets/2024/12/16/ethena-rolls-out-stablecoin-backed-by-black-rocks-buidl-token",
-        "timestamp": "2024-12-17 15:10:51",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin Mining Economics Continued to Improve in December, JPMorgan Says",
-        "source": "https://www.coindesk.com/markets/2024/12/16/bitcoin-mining-economics-continued-to-improve-in-december-jp-morgan-says",
-        "timestamp": "2024-12-17 15:10:51",
-        "sentToChannel": true
-    },
-    {
-        "title": "MicroStrategy Boosts Bitcoin Holdings to 439,000 BTC Following Nasdaq 100 Inclusion",
-        "source": "https://www.coindesk.com/markets/2024/12/16/micro-strategy-boosts-bitcoin-holdings-to-439-000-btc-following-nasdaq-100-inclusion",
-        "timestamp": "2024-12-17 15:10:51",
-        "sentToChannel": true
-    },
-    {
-        "title": "999 BTC Lands in Mega New Whale Wallet as Bitcoin Hits ATH",
-        "source": "https://cryptonews.net/news/bitcoin/30240959/",
-        "timestamp": "2024-12-17 15:32:48",
-        "sentToChannel": true
-    },
-    {
-        "title": "\ud83d\udd25\u2018No to CBDC, yes to Bitcoin\u2019 \u2014 European MP calls for EU BTC reserve",
-        "source": "https://cryptonews.net/news/bitcoin/30240033/",
-        "timestamp": "2024-12-17 15:32:48",
-        "sentToChannel": true
-    },
-    {
-        "title": "Pudgy Penguins PENGU Token Debuts at $2.3B Market Cap",
-        "source": "https://www.coindesk.com/business/2024/12/17/pudgy-penguins-pengu-token-debuts-at-312-m-market-cap",
-        "timestamp": "2024-12-17 15:32:51",
-        "sentToChannel": true
-    },
-    {
-        "title": "OpenSea Foundation Cayman Islands Registration Sparks Airdrop Speculation",
-        "source": "https://www.coindesk.com/business/2024/12/17/open-sea-cayman-islands-registration-sparks-airdrop-speculation",
-        "timestamp": "2024-12-17 15:32:51",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin Price Analysis: BTC Maintaining $100K Suggests Going After $110K and $120K Next",
-        "source": "https://cryptonews.net/news/bitcoin/30240965/",
-        "timestamp": "2024-12-17 15:45:16",
-        "sentToChannel": true
-    },
-    {
-        "title": "SHIB Burns Skyrocket 319,571% \u2014 What's Happening?",
-        "source": "https://cryptonews.net/news/altcoins/30241097/",
-        "timestamp": "2024-12-17 15:45:17",
-        "sentToChannel": true
-    },
-    {
-        "title": "Pyth Network brings real-time oil data to over 80 blockchains",
-        "source": "https://cryptonews.net/news/altcoins/30241423/",
-        "timestamp": "2024-12-17 15:45:17",
-        "sentToChannel": true
-    },
-    {
-        "title": "KuCoin Hints at Possible XRP ETF: Big Year Ahead for XRP?",
-        "source": "https://cryptonews.net/news/altcoins/30240968/",
-        "timestamp": "2024-12-17 15:45:17",
-        "sentToChannel": true
-    },
-    {
-        "title": "XRP whales making optimistic buying moves ahead of RLUSD launch",
-        "source": "https://cryptonews.net/news/altcoins/30241060/",
-        "timestamp": "2024-12-17 15:45:17",
-        "sentToChannel": true
-    },
-    {
         "title": "Bitcoin and Ethereum Primed To Go Massively Higher Soon, According to Top Crypto Analyst \u2013 Here Are His Targets",
         "source": "https://cryptonews.net/news/bitcoin/30241534/",
         "timestamp": "2024-12-17 16:12:59",
@@ -807,48 +717,48 @@
         "title": "US Bitcoin Reserve Proposal: Experts Discuss New Frontiers in Crypto and Global Finance",
         "source": "https://cryptonews.net/news/bitcoin/30246855/",
         "timestamp": "2024-12-18 15:10:27",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "The clarifications of the Cardano Foundation on governance",
         "source": "https://cryptonews.net/news/altcoins/30247098/",
         "timestamp": "2024-12-18 15:10:29",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin Holder Semler Scientific's Shares Now Available for Options Trading",
         "source": "https://www.coindesk.com/markets/2024/12/17/bitcoin-holder-semler-scientifics-shares-now-available-for-options-trading",
         "timestamp": "2024-12-18 15:10:29",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "What will the Bitcoin price be in 2025 and 2045?",
         "source": "https://cryptonews.net/news/bitcoin/30247298/",
         "timestamp": "2024-12-18 15:31:51",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Nic Carter Is Wrong About the US Strategic Bitcoin Reserve",
         "source": "https://cryptonews.net/news/bitcoin/30246851/",
         "timestamp": "2024-12-18 15:31:51",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin Closing In on Greater Move to Massive Price Target, According to Trader Who Called 2021 Market Collapse",
         "source": "https://cryptonews.net/news/bitcoin/30246198/",
         "timestamp": "2024-12-18 15:31:51",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin (BTC) Price Prediction for December 18",
         "source": "https://cryptonews.net/news/bitcoin/30246687/",
         "timestamp": "2024-12-18 15:31:51",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Ethereum Price Analysis: ETH Rejected at $4K Again, Is $3.5K Next?",
         "source": "https://cryptonews.net/news/ethereum/30246559/",
         "timestamp": "2024-12-18 15:44:27",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
