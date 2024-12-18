@@ -790,5 +790,47 @@
         "source": "https://cryptonews.net/news/bitcoin/30248968/",
         "timestamp": "2024-12-18 21:08:42",
         "sentToChannel": true
+    },
+    {
+        "title": "Self Custody For Me, But Not For Thee",
+        "source": "https://cryptonews.net/news/bitcoin/30248629/",
+        "timestamp": "2024-12-18 21:32:40",
+        "sentToChannel": false
+    },
+    {
+        "title": "Why Is Bitcoin Price Falling? There is Sudden Pullback",
+        "source": "https://cryptonews.net/news/bitcoin/30248956/",
+        "timestamp": "2024-12-18 21:32:40",
+        "sentToChannel": false
+    },
+    {
+        "title": "\ud83d\udd25BREAKING: FED Chairman Jerome Powell Talks About Strategic Bitcoin Reserve in the US",
+        "source": "https://cryptonews.net/news/bitcoin/30248882/",
+        "timestamp": "2024-12-18 21:32:40",
+        "sentToChannel": false
+    },
+    {
+        "title": "Meme coins drive Solana DApp revenue to $365m record",
+        "source": "https://cryptonews.net/news/altcoins/30248883/",
+        "timestamp": "2024-12-18 21:32:41",
+        "sentToChannel": false
+    },
+    {
+        "title": "HBAR Price Eyes Rally To ATH As EQTY Lab Unveils AI Verification Tool On Hedera",
+        "source": "https://cryptonews.net/news/altcoins/30248977/",
+        "timestamp": "2024-12-18 21:32:41",
+        "sentToChannel": false
+    },
+    {
+        "title": "Whale Buys Hyperliquid and Purr Worth $8.94 Million Amid HYPE and PURR Price Surge",
+        "source": "https://cryptonews.net/news/altcoins/30248560/",
+        "timestamp": "2024-12-18 21:32:41",
+        "sentToChannel": false
+    },
+    {
+        "title": "Coinbase Says It Nixed wBTC Because Justin Sun Posed 'Unacceptable Risk'",
+        "source": "https://www.coindesk.com/business/2024/12/17/coinbase-says-it-nixed-w-btc-because-justin-sun-posed-unacceptable-risk",
+        "timestamp": "2024-12-18 21:32:42",
+        "sentToChannel": false
     }
 ]
