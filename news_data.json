@@ -1,29 +1,5 @@
 [
     {
-        "title": "Bitcoin is \u201cunder-exposed\u201d to corporate adoption, says VanEck\u2019s Matthew Sigel",
-        "source": "https://cryptonews.net/news/bitcoin/30237817/",
-        "timestamp": "2024-12-17 04:47:37",
-        "sentToChannel": true
-    },
-    {
-        "title": "Upbit\u2019s MOCA Listing Sparks 7,500% Trading Volume Explosion",
-        "source": "https://cryptonews.net/news/altcoins/30237828/",
-        "timestamp": "2024-12-17 04:47:38",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin Soars to New Heights: $112K in Sight After Breaking Previous ATH",
-        "source": "https://cryptonews.net/news/bitcoin/30237865/",
-        "timestamp": "2024-12-17 05:10:52",
-        "sentToChannel": true
-    },
-    {
-        "title": "RLUSD Stablecoin Sparks Bidding War with Offers Up to $2,000",
-        "source": "https://cryptonews.net/news/altcoins/30237843/",
-        "timestamp": "2024-12-17 05:10:54",
-        "sentToChannel": true
-    },
-    {
         "title": "104 whale wallets now hold 57% of all Ether in bullish sign: Santiment",
         "source": "https://cryptonews.net/news/ethereum/30237925/",
         "timestamp": "2024-12-17 05:44:28",
@@ -897,24 +873,24 @@
         "title": "IP-Backed Meme Token CAT Bags Binance Spot Listing, Spiking Bullish Sentiment",
         "source": "https://www.coindesk.com/markets/2024/12/17/ip-backed-meme-token-cat-bags-binance-spot-listing-spiking-bullish-sentiment",
         "timestamp": "2024-12-18 04:52:35",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Google unveils \u2018Willow\u2019; Bernstein downplays quantum threat to Bitcoin",
         "source": "https://cryptonews.net/news/bitcoin/30243795/",
         "timestamp": "2024-12-18 05:10:35",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "New Binance Listings See ACT Lead with 2247% Surge",
         "source": "https://cryptonews.net/news/altcoins/30243764/",
         "timestamp": "2024-12-18 05:10:37",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin Enters Path to $200,000 ATHs as Analysts Mark Two Bullish Indicators on the BTC Price Chart",
         "source": "https://cryptonews.net/news/bitcoin/30243829/",
         "timestamp": "2024-12-18 05:32:03",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
