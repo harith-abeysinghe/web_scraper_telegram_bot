@@ -1,71 +1,5 @@
 [
     {
-        "title": "Trump-crypto CEO meeting about appointments, BTC reserve",
-        "source": "https://cryptonews.net/news/bitcoin/30242873/",
-        "timestamp": "2024-12-17 21:32:55",
-        "sentToChannel": true
-    },
-    {
-        "title": "Senator Cynthia Lummis Reaffirms Commitment To Implementing Strategic Bitcoin Reserve",
-        "source": "https://cryptonews.net/news/bitcoin/30242945/",
-        "timestamp": "2024-12-17 21:32:55",
-        "sentToChannel": true
-    },
-    {
-        "title": "Whale Swaps 348 ETH for 1.99M SPX6900 Tokens, Igniting Market Attention on SPX",
-        "source": "https://cryptonews.net/news/altcoins/30242819/",
-        "timestamp": "2024-12-17 21:32:56",
-        "sentToChannel": true
-    },
-    {
-        "title": "Namada proposal seeks approval for NAM airdrop to Coin Center donors",
-        "source": "https://cryptonews.net/news/altcoins/30242696/",
-        "timestamp": "2024-12-17 21:32:56",
-        "sentToChannel": true
-    },
-    {
-        "title": "Is the Hawk Tuah Girl Still Asleep? Hailey Welch MIA After Meme Coin Collapse",
-        "source": "https://cryptonews.net/news/altcoins/30242914/",
-        "timestamp": "2024-12-17 21:32:56",
-        "sentToChannel": true
-    },
-    {
-        "title": "Former finance minister says Germany is not recognizing Bitcoin\u2019s value",
-        "source": "https://cryptonews.net/news/bitcoin/30243042/",
-        "timestamp": "2024-12-17 21:42:06",
-        "sentToChannel": true
-    },
-    {
-        "title": "US Financial Advisors Who May Shape the Fate of Cryptocurrencies Speak: Have They Warmed To Cryptocurrencies After The Recent Rally?",
-        "source": "https://cryptonews.net/news/bitcoin/30242965/",
-        "timestamp": "2024-12-17 21:42:06",
-        "sentToChannel": true
-    },
-    {
-        "title": "The Unit Denomination of Bitcoin Does Not Need To Change",
-        "source": "https://cryptonews.net/news/bitcoin/30242798/",
-        "timestamp": "2024-12-17 21:42:06",
-        "sentToChannel": true
-    },
-    {
-        "title": "Ethereum (ETH)\u00a0In for \u2018Renewed Upside\u2019 After Continued Stability, Says Crypto Analyst \u2013 Here\u2019s His Outlook",
-        "source": "https://cryptonews.net/news/ethereum/30242944/",
-        "timestamp": "2024-12-17 21:42:06",
-        "sentToChannel": true
-    },
-    {
-        "title": "\ud83d\udd25Satoshi Action Fund reveals potential executive order draft to establish US Bitcoin Strategic Reserve",
-        "source": "https://cryptonews.net/news/bitcoin/30243040/",
-        "timestamp": "2024-12-17 21:52:01",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitwise launches solana staking ETP in Europe as US applications linger",
-        "source": "https://cryptonews.net/news/altcoins/30243052/",
-        "timestamp": "2024-12-17 21:52:02",
-        "sentToChannel": true
-    },
-    {
         "title": "Bitcoin ETFs flip gold funds in AUM: K33 Research",
         "source": "https://cryptonews.net/news/bitcoin/30243220/",
         "timestamp": "2024-12-17 23:09:43",
@@ -795,54 +729,54 @@
         "title": "Self Custody For Me, But Not For Thee",
         "source": "https://cryptonews.net/news/bitcoin/30248629/",
         "timestamp": "2024-12-18 21:32:40",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Why Is Bitcoin Price Falling? There is Sudden Pullback",
         "source": "https://cryptonews.net/news/bitcoin/30248956/",
         "timestamp": "2024-12-18 21:32:40",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "\ud83d\udd25BREAKING: FED Chairman Jerome Powell Talks About Strategic Bitcoin Reserve in the US",
         "source": "https://cryptonews.net/news/bitcoin/30248882/",
         "timestamp": "2024-12-18 21:32:40",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Meme coins drive Solana DApp revenue to $365m record",
         "source": "https://cryptonews.net/news/altcoins/30248883/",
         "timestamp": "2024-12-18 21:32:41",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "HBAR Price Eyes Rally To ATH As EQTY Lab Unveils AI Verification Tool On Hedera",
         "source": "https://cryptonews.net/news/altcoins/30248977/",
         "timestamp": "2024-12-18 21:32:41",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Whale Buys Hyperliquid and Purr Worth $8.94 Million Amid HYPE and PURR Price Surge",
         "source": "https://cryptonews.net/news/altcoins/30248560/",
         "timestamp": "2024-12-18 21:32:41",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Coinbase Says It Nixed wBTC Because Justin Sun Posed 'Unacceptable Risk'",
         "source": "https://www.coindesk.com/business/2024/12/17/coinbase-says-it-nixed-w-btc-because-justin-sun-posed-unacceptable-risk",
         "timestamp": "2024-12-18 21:32:42",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Aave-Chan initiates proposal to deploy Aave v3 on Sonic",
         "source": "https://cryptonews.net/news/altcoins/30249001/",
         "timestamp": "2024-12-18 21:42:05",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin slips after Fed\u2019s interest rate decision",
         "source": "https://cryptonews.net/news/bitcoin/30249153/",
         "timestamp": "2024-12-18 21:52:11",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
