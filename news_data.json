@@ -1,17 +1,5 @@
 [
     {
-        "title": "BREAKING: Bloomberg Analyst Reveals Four Altcoins That Might Get ETF Approval: Also a Surprise One \u2013 \u201cTwo First, Then The Other Two May Come\u201d",
-        "source": "https://cryptonews.net/news/altcoins/30242182/",
-        "timestamp": "2024-12-17 20:30:40",
-        "sentToChannel": true
-    },
-    {
-        "title": "MicroStrategy\u00a0blackout period could freeze bitcoin\u00a0buys in January",
-        "source": "https://cryptonews.net/news/bitcoin/30242486/",
-        "timestamp": "2024-12-17 20:43:29",
-        "sentToChannel": true
-    },
-    {
         "title": "Bitcoin on the Brink: Taproot Wizard Calls for Action, Taaki Demands Core Disbandment",
         "source": "https://cryptonews.net/news/bitcoin/30242797/",
         "timestamp": "2024-12-17 21:08:21",
@@ -801,24 +789,24 @@
         "title": "MicroStrategy is a \u2018desperate\u2019 Ponzi scheme: analyst",
         "source": "https://cryptonews.net/news/bitcoin/30248389/",
         "timestamp": "2024-12-18 20:31:10",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Double-digit drop in Bitcoin profit-taking metric hints that BTC is \u2018ready\u2019 to rally \u2014 Analyst",
         "source": "https://cryptonews.net/news/bitcoin/30248863/",
         "timestamp": "2024-12-18 20:31:10",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "BREAKING: Trump\u2019s Cryptocurrency Project Bought This Altcoin, According to Onchain Data",
         "source": "https://cryptonews.net/news/altcoins/30248846/",
         "timestamp": "2024-12-18 20:31:11",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin Slips to $101K, Altcoins Spiraling on Federal Reserve's Hawkish Tone",
         "source": "https://www.coindesk.com/markets/2024/12/18/fed-cuts-interest-rates-by-25-basis-points-bitcoin-slips-below-104-k-on-hawkish-tone",
         "timestamp": "2024-12-18 20:31:11",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
