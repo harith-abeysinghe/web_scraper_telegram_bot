@@ -820,5 +820,35 @@
         "source": "https://cryptonews.net/news/ethereum/30244331/",
         "timestamp": "2024-12-18 09:30:46",
         "sentToChannel": true
+    },
+    {
+        "title": "Bitcoin Drops Below $104K: Is a $100K Retest Imminent?",
+        "source": "https://cryptonews.net/news/bitcoin/30245130/",
+        "timestamp": "2024-12-18 10:11:11",
+        "sentToChannel": false
+    },
+    {
+        "title": "Castle Island Founder Issues Bold $900K Bitcoin Forecast, Says BTC Will Match Gold Market Cap",
+        "source": "https://cryptonews.net/news/bitcoin/30244994/",
+        "timestamp": "2024-12-18 10:11:11",
+        "sentToChannel": false
+    },
+    {
+        "title": "How Might Trump\u2019s US Bitcoin Reserve Influence BTC Price to Hit $1M?",
+        "source": "https://cryptonews.net/news/bitcoin/30244961/",
+        "timestamp": "2024-12-18 10:11:11",
+        "sentToChannel": false
+    },
+    {
+        "title": "BlackRock Rules Bitcoin and Ethereum ETF Game With Historic $860 Million Spike",
+        "source": "https://cryptonews.net/news/bitcoin/30244928/",
+        "timestamp": "2024-12-18 10:11:11",
+        "sentToChannel": false
+    },
+    {
+        "title": "BIO Protocol Expands to Solana: What This Means for DeSci",
+        "source": "https://cryptonews.net/news/altcoins/30244666/",
+        "timestamp": "2024-12-18 10:11:13",
+        "sentToChannel": false
     }
 ]
