@@ -796,5 +796,17 @@
         "source": "https://cryptonews.net/news/altcoins/30246110/",
         "timestamp": "2024-12-18 13:39:54",
         "sentToChannel": true
+    },
+    {
+        "title": "Crypto whale turns $3.46M into $1.83M, takes big hit after PENGU airdrop",
+        "source": "https://cryptonews.net/news/altcoins/30246101/",
+        "timestamp": "2024-12-18 13:53:33",
+        "sentToChannel": false
+    },
+    {
+        "title": "Tether Invests in MiCA-Compliant Stablecoin Issuer StablR",
+        "source": "https://www.coindesk.com/business/2024/12/17/tether-invests-in-mi-ca-compliant-stablecoin-issuer-stabl-r",
+        "timestamp": "2024-12-18 13:53:34",
+        "sentToChannel": false
     }
 ]
