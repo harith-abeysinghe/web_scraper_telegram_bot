@@ -1,29 +1,5 @@
 [
     {
-        "title": "Bitcoin ETFs flip gold funds in AUM: K33 Research",
-        "source": "https://cryptonews.net/news/bitcoin/30243220/",
-        "timestamp": "2024-12-17 23:09:43",
-        "sentToChannel": true
-    },
-    {
-        "title": "What\u2019s Next for MOCA? Whale Buy 9.5M MOCA Tokens Following Upbit Listing Hypes",
-        "source": "https://cryptonews.net/news/altcoins/30243099/",
-        "timestamp": "2024-12-17 23:09:45",
-        "sentToChannel": true
-    },
-    {
-        "title": "\u201cThis will be the most pro-digital asset administration ever,\u201d says Sen. Cynthia Lummis",
-        "source": "https://cryptonews.net/news/bitcoin/30243272/",
-        "timestamp": "2024-12-17 23:25:26",
-        "sentToChannel": true
-    },
-    {
-        "title": "Ethereum Game 'Kaidro' Launching Ronin Token This Week",
-        "source": "https://cryptonews.net/news/altcoins/30243132/",
-        "timestamp": "2024-12-17 23:25:27",
-        "sentToChannel": true
-    },
-    {
         "title": "Ohio lawmaker introduces Bitcoin reserve bill allowing state to buy BTC",
         "source": "https://cryptonews.net/news/bitcoin/30243464/",
         "timestamp": "2024-12-18 00:49:42",
@@ -783,6 +759,6 @@
         "title": "Bitcoin price drops to $100.3K after Fed rate cut and Powell\u2019s revised 2025 inflation outlook",
         "source": "https://cryptonews.net/news/bitcoin/30249361/",
         "timestamp": "2024-12-18 23:09:44",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
