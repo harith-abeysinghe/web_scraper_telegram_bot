@@ -1,59 +1,5 @@
 [
     {
-        "title": "Bitcoin as a lifeline for Palestine and nations without a central bank",
-        "source": "https://cryptonews.net/news/bitcoin/30237199/",
-        "timestamp": "2024-12-17 00:51:55",
-        "sentToChannel": true
-    },
-    {
-        "title": "Charles Hoskinson says Cardano is ready to \u201ctake over the world\u201d",
-        "source": "https://cryptonews.net/news/altcoins/30237427/",
-        "timestamp": "2024-12-17 00:51:56",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin Leads Now, Altcoin Season Looms",
-        "source": "https://cryptonews.net/news/bitcoin/30237617/",
-        "timestamp": "2024-12-17 02:22:07",
-        "sentToChannel": true
-    },
-    {
-        "title": "Ripple\u2019s RLUSD Stablecoin Attracts Frenzy Bids for 800 XRP Ahead of Release",
-        "source": "https://www.coindesk.com/markets/2024/12/17/ripple-s-rlusd-stablecoin-attracts-frenzy-bids-for-800-xrp-ahead-of-release",
-        "timestamp": "2024-12-17 02:22:08",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin\u2019s Next Big Move? Key Metric Reveals When to Cash In Profits",
-        "source": "https://cryptonews.net/news/bitcoin/30237704/",
-        "timestamp": "2024-12-17 03:12:06",
-        "sentToChannel": true
-    },
-    {
-        "title": "Ethereum (ETH) Bearish Signal, $3,500 the Next Target?",
-        "source": "https://cryptonews.net/news/ethereum/30237661/",
-        "timestamp": "2024-12-17 03:12:06",
-        "sentToChannel": true
-    },
-    {
-        "title": "Optimism high for Ethena\u2019s USDtb stablecoin as it clocks $65M TVL on day 1",
-        "source": "https://cryptonews.net/news/altcoins/30237705/",
-        "timestamp": "2024-12-17 03:12:07",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin Price Powers Ahead: Rally Shows No Signs of Slowing",
-        "source": "https://cryptonews.net/news/bitcoin/30237709/",
-        "timestamp": "2024-12-17 03:45:21",
-        "sentToChannel": true
-    },
-    {
-        "title": "Ripple\u2019s RLUSD Launch Date And Time Revealed: What To Expect Today?",
-        "source": "https://cryptonews.net/news/altcoins/30237720/",
-        "timestamp": "2024-12-17 03:45:23",
-        "sentToChannel": true
-    },
-    {
         "title": "Bitcoin-to-Gold Ratio Hits Historic Peak as Year-End Rally Soars",
         "source": "https://cryptonews.net/news/bitcoin/30237736/",
         "timestamp": "2024-12-17 03:56:28",
@@ -939,42 +885,42 @@
         "title": "Ohio lawmaker introduces Bitcoin reserve bill allowing state to buy BTC",
         "source": "https://cryptonews.net/news/bitcoin/30243464/",
         "timestamp": "2024-12-18 00:49:42",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin Soars to $108K Before Dropping Below $107K",
         "source": "https://cryptonews.net/news/bitcoin/30242503/",
         "timestamp": "2024-12-18 00:49:42",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin rally hinges on spot market activity as derivatives slow down",
         "source": "https://cryptonews.net/news/bitcoin/30243389/",
         "timestamp": "2024-12-18 00:49:42",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "First glance at what an American strategic Bitcoin reserve could look like",
         "source": "https://cryptonews.net/news/bitcoin/30243321/",
         "timestamp": "2024-12-18 00:49:42",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "BlackRock\u2019s IBIT becomes decade\u2019s top ETF for inflows, surpassing all rivals",
         "source": "https://cryptonews.net/news/bitcoin/30243282/",
         "timestamp": "2024-12-18 00:49:42",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin blasts past $108,000 \u2013 Is $210,000 next? Institutions think so",
         "source": "https://cryptonews.net/news/bitcoin/30243525/",
         "timestamp": "2024-12-18 03:04:09",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin Analyst Says $102K Support Holds Key to Avoid Liquidity Crash",
         "source": "https://cryptonews.net/news/bitcoin/30243515/",
         "timestamp": "2024-12-18 03:35:21",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
