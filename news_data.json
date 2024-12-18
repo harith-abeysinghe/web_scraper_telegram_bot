@@ -760,5 +760,53 @@
         "source": "https://cryptonews.net/news/ethereum/30246559/",
         "timestamp": "2024-12-18 15:44:27",
         "sentToChannel": true
+    },
+    {
+        "title": "WBTC Episode 'Reopened Old Wounds' of Centralized Failures: Bitcoin Builders Association",
+        "source": "https://cryptonews.net/news/bitcoin/30247162/",
+        "timestamp": "2024-12-18 16:12:37",
+        "sentToChannel": false
+    },
+    {
+        "title": "Top Trader Predicts \u2018Quick\u2019 Move to All-Time High for Ethereum, Sees ETH Outperforming Bitcoin From Here",
+        "source": "https://cryptonews.net/news/ethereum/30247424/",
+        "timestamp": "2024-12-18 16:12:37",
+        "sentToChannel": false
+    },
+    {
+        "title": "BlackRock Ethereum ETF Now Holds 1M ETH as Institutional Interest Grows",
+        "source": "https://cryptonews.net/news/ethereum/30247365/",
+        "timestamp": "2024-12-18 16:12:37",
+        "sentToChannel": false
+    },
+    {
+        "title": "Pyth Network Expands Its Decentralized Oracle Services with Real-Time Oil Market Data",
+        "source": "https://cryptonews.net/news/altcoins/30247471/",
+        "timestamp": "2024-12-18 16:12:38",
+        "sentToChannel": false
+    },
+    {
+        "title": "Bitwise Launches Solana Staking ETP in Europe",
+        "source": "https://cryptonews.net/news/altcoins/30247396/",
+        "timestamp": "2024-12-18 16:12:38",
+        "sentToChannel": false
+    },
+    {
+        "title": "Trump Administration Has Already Unlocked 'New Era' for U.S. Crypto: JPMorgan",
+        "source": "https://www.coindesk.com/markets/2024/12/18/trump-administration-has-already-unlocked-new-era-for-u-s-crypto-jp-morgan",
+        "timestamp": "2024-12-18 16:12:38",
+        "sentToChannel": false
+    },
+    {
+        "title": "Pudgy Penguins PENGU Token Debuts at $2.3B Market Cap",
+        "source": "https://www.coindesk.com/business/2024/12/17/pudgy-penguins-pengu-token-debuts-at-312-m-market-cap",
+        "timestamp": "2024-12-18 16:12:39",
+        "sentToChannel": false
+    },
+    {
+        "title": "OpenSea Foundation Cayman Islands Registration Sparks Airdrop Speculation",
+        "source": "https://www.coindesk.com/business/2024/12/17/open-sea-cayman-islands-registration-sparks-airdrop-speculation",
+        "timestamp": "2024-12-18 16:12:39",
+        "sentToChannel": false
     }
 ]
