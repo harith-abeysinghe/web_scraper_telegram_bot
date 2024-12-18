@@ -1,23 +1,5 @@
 [
     {
-        "title": "Bitcoin-to-Gold Ratio Hits Historic Peak as Year-End Rally Soars",
-        "source": "https://cryptonews.net/news/bitcoin/30237736/",
-        "timestamp": "2024-12-17 03:56:28",
-        "sentToChannel": true
-    },
-    {
-        "title": "Ethereum Gears Up for a Record High: Can It Break Through?",
-        "source": "https://cryptonews.net/news/ethereum/30237742/",
-        "timestamp": "2024-12-17 03:56:29",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin and Ethereum continue strong inflows for the 10th consecutive week",
-        "source": "https://cryptonews.net/news/bitcoin/30237794/",
-        "timestamp": "2024-12-17 04:15:59",
-        "sentToChannel": true
-    },
-    {
         "title": "MicroStrategy\u2019s $46 Billion Bitcoin Bet: A Double-Edged Sword for the Market",
         "source": "https://cryptonews.net/news/bitcoin/30237818/",
         "timestamp": "2024-12-17 04:36:23",
@@ -927,6 +909,6 @@
         "title": "Ripple\u2019s RLUSD Stablecoin Attracts Frenzy Bids for 800 XRP Ahead of Release",
         "source": "https://www.coindesk.com/markets/2024/12/17/ripple-s-rlusd-stablecoin-attracts-frenzy-bids-for-800-xrp-ahead-of-release",
         "timestamp": "2024-12-18 03:56:58",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
