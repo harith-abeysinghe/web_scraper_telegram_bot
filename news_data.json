@@ -880,5 +880,11 @@
         "source": "https://cryptonews.net/news/bitcoin/30243829/",
         "timestamp": "2024-12-18 05:32:03",
         "sentToChannel": true
+    },
+    {
+        "title": "Bitcoin Takes a Breather After Doji Candle in a Cautious Pre-Fed De-Risking",
+        "source": "https://www.coindesk.com/markets/2024/12/18/bitcoin-takes-a-breather-after-doji-candle-in-a-cautious-pre-fed-de-risking",
+        "timestamp": "2024-12-18 06:39:41",
+        "sentToChannel": false
     }
 ]
