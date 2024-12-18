@@ -1,41 +1,5 @@
 [
     {
-        "title": "OpenSea Cayman Islands Registration Sparks Airdrop Speculation",
-        "source": "https://www.coindesk.com/business/2024/12/17/open-sea-cayman-islands-registration-sparks-airdrop-speculation",
-        "timestamp": "2024-12-17 10:55:09",
-        "sentToChannel": true
-    },
-    {
-        "title": "69,300,000 XRP Hits Binance, Here\u2019s What\u2019s Happening",
-        "source": "https://cryptonews.net/news/altcoins/30239052/",
-        "timestamp": "2024-12-17 11:08:59",
-        "sentToChannel": true
-    },
-    {
-        "title": "Ripple Stablecoin: President Reveals What's Behind RLUSD",
-        "source": "https://cryptonews.net/news/altcoins/30238837/",
-        "timestamp": "2024-12-17 11:08:59",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin options expiry, explained: What it means for traders",
-        "source": "https://cryptonews.net/news/bitcoin/30239452/",
-        "timestamp": "2024-12-17 11:23:36",
-        "sentToChannel": true
-    },
-    {
-        "title": "Raghuram Rajan Joins Ripple to Guide RLUSD Stablecoin\u2019s Growth and Compliance",
-        "source": "https://cryptonews.net/news/altcoins/30238665/",
-        "timestamp": "2024-12-17 11:32:55",
-        "sentToChannel": true
-    },
-    {
-        "title": "Kontos Protocol announces its highly expected tokenomics details",
-        "source": "https://cryptonews.net/news/altcoins/30238627/",
-        "timestamp": "2024-12-17 11:32:55",
-        "sentToChannel": true
-    },
-    {
         "title": "Bitcoin spot ETF net inflow reaches $637m",
         "source": "https://cryptonews.net/news/bitcoin/30238706/",
         "timestamp": "2024-12-17 11:42:03",
@@ -855,24 +819,24 @@
         "title": "MicroStrategy's Addition to Nasdaq-100 May Pave Way for S&P 500 Inclusion: Benchmark",
         "source": "https://www.coindesk.com/markets/2024/12/17/micro-strategys-addition-to-nasdaq-100-may-pave-way-for-s-and-p-500-inclusion-benchmark",
         "timestamp": "2024-12-18 10:52:18",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Charles Hoskinson urges Cardano Foundation to leave Switzerland for community-driven governance",
         "source": "https://cryptonews.net/news/altcoins/30245353/",
         "timestamp": "2024-12-18 11:08:38",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "NFTs Are Making a Comeback as Trading Volumes Surge: Galaxy Research",
         "source": "https://www.coindesk.com/markets/2024/12/18/nfts-are-making-a-comeback-as-trading-volumes-surge-galaxy-research",
         "timestamp": "2024-12-18 11:08:39",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Dogecoin Pup\u2019s IP Owner Bags Rights to Neiro, Putting Namesake Memes in Focus",
         "source": "https://www.coindesk.com/markets/2024/12/18/dogecoin-pup-s-ip-owner-bags-rights-to-neiro-putting-namesake-memes-in-focus",
         "timestamp": "2024-12-18 11:22:42",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
