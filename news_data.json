@@ -1,23 +1,5 @@
 [
     {
-        "title": "Ethereum (ETH) Breaks $4,000: Historical Trends Signal Early Bull Phase",
-        "source": "https://cryptonews.net/news/ethereum/30238600/",
-        "timestamp": "2024-12-17 10:11:28",
-        "sentToChannel": true
-    },
-    {
-        "title": "BlackRock Bitcoin ETF Put Options at $30, $35 Price Levels See Volume Spike",
-        "source": "https://www.coindesk.com/markets/2024/12/16/black-rock-bitcoin-etf-put-options-at-30-35-price-levels-see-volume-spike",
-        "timestamp": "2024-12-17 10:11:29",
-        "sentToChannel": true
-    },
-    {
-        "title": "MicroStrategy's Addition to Nasdaq-100 May Pave Way for S&P 500 Inclusion: Benchmark",
-        "source": "https://www.coindesk.com/markets/2024/12/17/micro-strategys-addition-to-nasdaq-100-may-pave-way-for-s-and-p-500-inclusion-benchmark",
-        "timestamp": "2024-12-17 10:37:43",
-        "sentToChannel": true
-    },
-    {
         "title": "OpenSea Cayman Islands Registration Sparks Airdrop Speculation",
         "source": "https://www.coindesk.com/business/2024/12/17/open-sea-cayman-islands-registration-sparks-airdrop-speculation",
         "timestamp": "2024-12-17 10:55:09",
@@ -825,48 +807,48 @@
         "title": "Bitcoin Drops Below $104K: Is a $100K Retest Imminent?",
         "source": "https://cryptonews.net/news/bitcoin/30245130/",
         "timestamp": "2024-12-18 10:11:11",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Castle Island Founder Issues Bold $900K Bitcoin Forecast, Says BTC Will Match Gold Market Cap",
         "source": "https://cryptonews.net/news/bitcoin/30244994/",
         "timestamp": "2024-12-18 10:11:11",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "How Might Trump\u2019s US Bitcoin Reserve Influence BTC Price to Hit $1M?",
         "source": "https://cryptonews.net/news/bitcoin/30244961/",
         "timestamp": "2024-12-18 10:11:11",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "BlackRock Rules Bitcoin and Ethereum ETF Game With Historic $860 Million Spike",
         "source": "https://cryptonews.net/news/bitcoin/30244928/",
         "timestamp": "2024-12-18 10:11:11",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "BIO Protocol Expands to Solana: What This Means for DeSci",
         "source": "https://cryptonews.net/news/altcoins/30244666/",
         "timestamp": "2024-12-18 10:11:13",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "669,053,714 Transactions, Shibarium Set for New Milestone",
         "source": "https://cryptonews.net/news/altcoins/30245222/",
         "timestamp": "2024-12-18 10:35:33",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Magic Eden Staking Explained: A Complete Guide",
         "source": "https://cryptonews.net/news/altcoins/30244253/",
         "timestamp": "2024-12-18 10:35:33",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Trader Sells 10,000 XRP Worth $27,100 for 100 RLUSD, Losing $27,000",
         "source": "https://cryptonews.net/news/altcoins/30244863/",
         "timestamp": "2024-12-18 10:35:33",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
