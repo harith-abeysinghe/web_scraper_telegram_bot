@@ -1,83 +1,5 @@
 [
     {
-        "title": "Bitcoin Delivers 26,931% 10-Year Return, While Stocks Gain 193% and Gold 126%: Analysis",
-        "source": "https://cryptonews.net/news/bitcoin/30241572/",
-        "timestamp": "2024-12-17 17:32:23",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin Technical Analysis: Breakout Looms as Resistance Nears $108K",
-        "source": "https://cryptonews.net/news/bitcoin/30240902/",
-        "timestamp": "2024-12-17 17:32:23",
-        "sentToChannel": true
-    },
-    {
-        "title": "Buying Bitcoin Is Easy, HODLing Is the Hard Part",
-        "source": "https://cryptonews.net/news/bitcoin/30241975/",
-        "timestamp": "2024-12-17 17:32:23",
-        "sentToChannel": true
-    },
-    {
-        "title": "Mike Novogratz Predicts Bitcoin Might Eclipse Gold in Five Years",
-        "source": "https://cryptonews.net/news/bitcoin/30241631/",
-        "timestamp": "2024-12-17 17:32:23",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin or University: Which Investment Yields Greater Financial Freedom?",
-        "source": "https://cryptonews.net/news/bitcoin/30241801/",
-        "timestamp": "2024-12-17 17:32:23",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin $108K all-time high lasts seconds as BTC price dives 2.4%",
-        "source": "https://cryptonews.net/news/bitcoin/30242011/",
-        "timestamp": "2024-12-17 17:32:23",
-        "sentToChannel": true
-    },
-    {
-        "title": "Are You Buying Bitcoin? Whales Add $7.3 Billion in BTC",
-        "source": "https://cryptonews.net/news/bitcoin/30241546/",
-        "timestamp": "2024-12-17 17:32:23",
-        "sentToChannel": true
-    },
-    {
-        "title": "Ethereum price stalls at key price but on-chain metrics point to a surge",
-        "source": "https://cryptonews.net/news/ethereum/30241556/",
-        "timestamp": "2024-12-17 17:32:24",
-        "sentToChannel": true
-    },
-    {
-        "title": "Sui Network Integrates Cross-Chain Transfer Protocol for USDC",
-        "source": "https://cryptonews.net/news/altcoins/30241887/",
-        "timestamp": "2024-12-17 17:32:24",
-        "sentToChannel": true
-    },
-    {
-        "title": "RLUSD Stablecoin Goes Live: Price Fluctuates 20% Before Stabilizing",
-        "source": "https://cryptonews.net/news/altcoins/30241320/",
-        "timestamp": "2024-12-17 17:32:24",
-        "sentToChannel": true
-    },
-    {
-        "title": "Shiba Inu Whale Moves Explode 258%, Sparking Market Frenzy",
-        "source": "https://cryptonews.net/news/altcoins/30241772/",
-        "timestamp": "2024-12-17 17:32:24",
-        "sentToChannel": true
-    },
-    {
-        "title": "If you invested $1,000 in XRP at the start of 2021, you\u2019d have this much now",
-        "source": "https://cryptonews.net/news/altcoins/30241746/",
-        "timestamp": "2024-12-17 17:32:24",
-        "sentToChannel": true
-    },
-    {
-        "title": "How MicroStrategy and Others Are Taking on Billions in Debt to Buy More Bitcoin",
-        "source": "https://www.coindesk.com/markets/2024/12/17/how-micro-strategy-and-others-are-taking-on-billions-in-debt-to-buy-more-bitcoin",
-        "timestamp": "2024-12-17 17:43:44",
-        "sentToChannel": true
-    },
-    {
         "title": "Ethereum price eyes new all-time highs, but will $15K be the top?",
         "source": "https://cryptonews.net/news/ethereum/30242360/",
         "timestamp": "2024-12-17 18:14:40",
@@ -843,24 +765,24 @@
         "title": "VeChain-Powered VeBetterDAO Targets $16T Tokenization Market",
         "source": "https://cryptonews.net/news/altcoins/30247646/",
         "timestamp": "2024-12-18 16:50:45",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Ethereum (ETH) Whales Accumulate as Surge Past $4,100 Remains Delayed",
         "source": "https://cryptonews.net/news/ethereum/30247771/",
         "timestamp": "2024-12-18 17:09:19",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Stablecoin Payments Platform BVNK Raises $50M to Fuel U.S. Expansion",
         "source": "https://www.coindesk.com/business/2024/12/17/stablecoin-payments-platform-bvnk-raises-50-m-to-fuel-u-s-expansion",
         "timestamp": "2024-12-18 17:38:29",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Layer-2 Network Fuel to Airdrop 10% of New Token Supply to 200K Wallets",
         "source": "https://www.coindesk.com/business/2024/12/17/layer-2-network-fuel-to-airdrop-10-of-new-token-supply-to-200-k-wallets",
         "timestamp": "2024-12-18 17:38:29",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
