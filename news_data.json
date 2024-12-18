@@ -1,35 +1,5 @@
 [
     {
-        "title": "Bitcoin on the Brink: Taproot Wizard Calls for Action, Taaki Demands Core Disbandment",
-        "source": "https://cryptonews.net/news/bitcoin/30242797/",
-        "timestamp": "2024-12-17 21:08:21",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitwise predicts Ethereum revival in 2025 driven by institutional interest, RWA growth",
-        "source": "https://cryptonews.net/news/ethereum/30242465/",
-        "timestamp": "2024-12-17 21:08:21",
-        "sentToChannel": true
-    },
-    {
-        "title": "USDT Transfer Volume on TRON Reaches All-Time High of $587.2B",
-        "source": "https://cryptonews.net/news/altcoins/30242827/",
-        "timestamp": "2024-12-17 21:08:22",
-        "sentToChannel": true
-    },
-    {
-        "title": "Pudgy Penguins Launches PENGU on Solana With 88-Day Claim Period; Price Soars Over 800%",
-        "source": "https://cryptonews.net/news/altcoins/30242559/",
-        "timestamp": "2024-12-17 21:23:04",
-        "sentToChannel": true
-    },
-    {
-        "title": "Coinbase Says It Nixed wBTC Because Justin Sun Posed 'Unacceptable Risk'",
-        "source": "https://www.coindesk.com/business/2024/12/17/coinbase-says-it-nixed-w-btc-because-justin-sun-posed-unacceptable-risk",
-        "timestamp": "2024-12-17 21:23:04",
-        "sentToChannel": true
-    },
-    {
         "title": "Trump-crypto CEO meeting about appointments, BTC reserve",
         "source": "https://cryptonews.net/news/bitcoin/30242873/",
         "timestamp": "2024-12-17 21:32:55",
@@ -813,12 +783,12 @@
         "title": "Will Bitcoin Historical \u2018Santa Rally\u2019 Push the Price to $120,000 By Christmas Week?",
         "source": "https://cryptonews.net/news/bitcoin/30248414/",
         "timestamp": "2024-12-18 21:08:42",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Grayscale\u2019s Bitcoin Mini Trust ETF tops $1B in net inflows",
         "source": "https://cryptonews.net/news/bitcoin/30248968/",
         "timestamp": "2024-12-18 21:08:42",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
