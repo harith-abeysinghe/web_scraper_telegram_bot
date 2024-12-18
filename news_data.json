@@ -796,5 +796,29 @@
         "source": "https://www.coindesk.com/federal-reserve-cuts-benchmark-rate-bitcoin-reacts",
         "timestamp": "2024-12-18 19:24:34",
         "sentToChannel": true
+    },
+    {
+        "title": "MicroStrategy is a \u2018desperate\u2019 Ponzi scheme: analyst",
+        "source": "https://cryptonews.net/news/bitcoin/30248389/",
+        "timestamp": "2024-12-18 20:31:10",
+        "sentToChannel": false
+    },
+    {
+        "title": "Double-digit drop in Bitcoin profit-taking metric hints that BTC is \u2018ready\u2019 to rally \u2014 Analyst",
+        "source": "https://cryptonews.net/news/bitcoin/30248863/",
+        "timestamp": "2024-12-18 20:31:10",
+        "sentToChannel": false
+    },
+    {
+        "title": "BREAKING: Trump\u2019s Cryptocurrency Project Bought This Altcoin, According to Onchain Data",
+        "source": "https://cryptonews.net/news/altcoins/30248846/",
+        "timestamp": "2024-12-18 20:31:11",
+        "sentToChannel": false
+    },
+    {
+        "title": "Bitcoin Slips to $101K, Altcoins Spiraling on Federal Reserve's Hawkish Tone",
+        "source": "https://www.coindesk.com/markets/2024/12/18/fed-cuts-interest-rates-by-25-basis-points-bitcoin-slips-below-104-k-on-hawkish-tone",
+        "timestamp": "2024-12-18 20:31:11",
+        "sentToChannel": false
     }
 ]
