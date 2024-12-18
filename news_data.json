@@ -802,5 +802,23 @@
         "source": "https://www.coindesk.com/markets/2024/12/18/solana-smashes-record-with-66-9-m-daily-transactions-as-pengu-token-debuts",
         "timestamp": "2024-12-18 14:44:43",
         "sentToChannel": true
+    },
+    {
+        "title": "US Bitcoin Reserve Proposal: Experts Discuss New Frontiers in Crypto and Global Finance",
+        "source": "https://cryptonews.net/news/bitcoin/30246855/",
+        "timestamp": "2024-12-18 15:10:27",
+        "sentToChannel": false
+    },
+    {
+        "title": "The clarifications of the Cardano Foundation on governance",
+        "source": "https://cryptonews.net/news/altcoins/30247098/",
+        "timestamp": "2024-12-18 15:10:29",
+        "sentToChannel": false
+    },
+    {
+        "title": "Bitcoin Holder Semler Scientific's Shares Now Available for Options Trading",
+        "source": "https://www.coindesk.com/markets/2024/12/17/bitcoin-holder-semler-scientifics-shares-now-available-for-options-trading",
+        "timestamp": "2024-12-18 15:10:29",
+        "sentToChannel": false
     }
 ]
