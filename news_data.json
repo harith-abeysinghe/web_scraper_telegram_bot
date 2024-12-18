@@ -1,29 +1,5 @@
 [
     {
-        "title": "Ethereum price eyes new all-time highs, but will $15K be the top?",
-        "source": "https://cryptonews.net/news/ethereum/30242360/",
-        "timestamp": "2024-12-17 18:14:40",
-        "sentToChannel": true
-    },
-    {
-        "title": "Michael Novogratz's Galaxy Appoints Former Point72 Exec as CFO",
-        "source": "https://www.coindesk.com/business/2024/12/13/michael-novogratz-s-galaxy-appoints-former-point72-exec-as-cfo",
-        "timestamp": "2024-12-17 18:14:41",
-        "sentToChannel": true
-    },
-    {
-        "title": "Societe Generale Conducts Blockchain-Based Repo Transaction With French Central Bank",
-        "source": "https://www.coindesk.com/business/2024/12/13/societe-generale-conducts-blockchain-based-repo-transaction-with-french-central-bank",
-        "timestamp": "2024-12-17 18:14:41",
-        "sentToChannel": true
-    },
-    {
-        "title": "Activist Investor Starboard Has Built Stake in Bitcoin Miner Riot: WSJ",
-        "source": "https://www.coindesk.com/business/2024/12/12/activist-investor-starboard-has-built-stake-in-bitcoin-miner-riot-wsj",
-        "timestamp": "2024-12-17 18:14:41",
-        "sentToChannel": true
-    },
-    {
         "title": "Staking Will Define Bitcoin's Role in the Global Digital Economy in 2025",
         "source": "https://cryptonews.net/news/bitcoin/30241963/",
         "timestamp": "2024-12-17 18:41:22",
@@ -789,24 +765,24 @@
         "title": "Analysis Company Shares The Level Bitcoin Must Surpass \u2013 \u201cIf This Level Is Exceeded, These Are The Targets In 2025\u201d",
         "source": "https://cryptonews.net/news/bitcoin/30247951/",
         "timestamp": "2024-12-18 17:52:17",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "What is the Bitcoin Puell Multiple Indicator and How Does It Work?",
         "source": "https://cryptonews.net/news/bitcoin/30247913/",
         "timestamp": "2024-12-18 17:52:17",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "BlackRock\u2019s New Bitcoin Ad Is A Monumental Paradigm Shift",
         "source": "https://cryptonews.net/news/bitcoin/30247852/",
         "timestamp": "2024-12-18 17:52:17",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "How MicroStrategy and Others Are Taking on Billions in Debt to Buy More Bitcoin",
         "source": "https://www.coindesk.com/markets/2024/12/17/how-micro-strategy-and-others-are-taking-on-billions-in-debt-to-buy-more-bitcoin",
         "timestamp": "2024-12-18 17:52:18",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
