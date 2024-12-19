@@ -1,11 +1,5 @@
 [
     {
-        "title": "Bitcoin Traders No Longer Chasing Record Price Rally Like Before, Options Data Show",
-        "source": "https://www.coindesk.com/markets/2024/12/17/bitcoin-traders-no-longer-chasing-record-price-rally-like-before-options-data-show",
-        "timestamp": "2024-12-18 07:26:01",
-        "sentToChannel": true
-    },
-    {
         "title": "Why Bitwise Strategist Juan Leon Calls Ethereum ($ETH) \u2018The Comeback Kid of 2025\u2019",
         "source": "https://cryptonews.net/news/ethereum/30243083/",
         "timestamp": "2024-12-18 08:37:52",
@@ -759,24 +753,24 @@
         "title": "Bitcoin Hits $99,997 Low as Crypto Market Faces Sharp Declines",
         "source": "https://cryptonews.net/news/bitcoin/30249752/",
         "timestamp": "2024-12-19 07:28:37",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Ethereum Price Forecast: ETH plunges 6% following Fed rate decision, eyes a bounce at the $3,550 level",
         "source": "https://cryptonews.net/news/ethereum/30249729/",
         "timestamp": "2024-12-19 07:28:37",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Binance SOL Liquid Staking Token Surpasses $1 Billion in Total Value Locked",
         "source": "https://cryptonews.net/news/altcoins/30249549/",
         "timestamp": "2024-12-19 07:28:38",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Hawkish Fed Has Bitcoin Market Feeling Most Fearful in 3 Months",
         "source": "https://www.coindesk.com/markets/2024/12/19/hawkish-fed-has-bitcoin-market-showing-strongest-bias-for-downside-protection-in-3-months",
         "timestamp": "2024-12-19 07:28:38",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
