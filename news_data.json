@@ -1,29 +1,5 @@
 [
     {
-        "title": "MicroStrategy is a \u2018desperate\u2019 Ponzi scheme: analyst",
-        "source": "https://cryptonews.net/news/bitcoin/30248389/",
-        "timestamp": "2024-12-18 20:31:10",
-        "sentToChannel": true
-    },
-    {
-        "title": "Double-digit drop in Bitcoin profit-taking metric hints that BTC is \u2018ready\u2019 to rally \u2014 Analyst",
-        "source": "https://cryptonews.net/news/bitcoin/30248863/",
-        "timestamp": "2024-12-18 20:31:10",
-        "sentToChannel": true
-    },
-    {
-        "title": "BREAKING: Trump\u2019s Cryptocurrency Project Bought This Altcoin, According to Onchain Data",
-        "source": "https://cryptonews.net/news/altcoins/30248846/",
-        "timestamp": "2024-12-18 20:31:11",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin Slips to $101K, Altcoins Spiraling on Federal Reserve's Hawkish Tone",
-        "source": "https://www.coindesk.com/markets/2024/12/18/fed-cuts-interest-rates-by-25-basis-points-bitcoin-slips-below-104-k-on-hawkish-tone",
-        "timestamp": "2024-12-18 20:31:11",
-        "sentToChannel": true
-    },
-    {
         "title": "Will Bitcoin Historical \u2018Santa Rally\u2019 Push the Price to $120,000 By Christmas Week?",
         "source": "https://cryptonews.net/news/bitcoin/30248414/",
         "timestamp": "2024-12-18 21:08:42",
@@ -801,30 +777,30 @@
         "title": "YouTuber\u2019s meme coin Unicorn Fart Dust hits $240 million market cap in just 48 hours",
         "source": "https://cryptonews.net/news/altcoins/30254828/",
         "timestamp": "2024-12-19 20:10:59",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Crypto trader turns $90 into $3.25 million in just two days",
         "source": "https://cryptonews.net/news/altcoins/30254713/",
         "timestamp": "2024-12-19 20:10:59",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bollinger Bands point to explosive Bitcoin price upside, but how high?",
         "source": "https://cryptonews.net/news/bitcoin/30254977/",
         "timestamp": "2024-12-19 20:29:54",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "El Salvador plans to ramp up Bitcoin purchases next year for its strategic reserve",
         "source": "https://cryptonews.net/news/bitcoin/30254567/",
         "timestamp": "2024-12-19 20:29:54",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin Dips Below $96K While CoinDesk 20 Plunges 10% Amid Fed-Spurred Rout; SOL Surrenders Post-Election Rally",
         "source": "https://www.coindesk.com/markets/2024/12/19/bitcoin-dips-below-98-k-while-coin-desk-20-plunges-10-amid-fed-spurred-rout-sol-surrenders-post-election-rally",
         "timestamp": "2024-12-19 20:29:56",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
