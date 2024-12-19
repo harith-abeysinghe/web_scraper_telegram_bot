@@ -807,6 +807,6 @@
         "title": "Bitcoin Slips to $101K, Altcoins Spiraling on Federal Reserve's Hawkish Tone",
         "source": "https://www.coindesk.com/markets/2024/12/18/fed-cuts-interest-rates-by-25-basis-points-bitcoin-slips-below-104-k-on-hawkish-tone",
         "timestamp": "2024-12-19 20:45:56",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
