@@ -844,5 +844,11 @@
         "source": "https://cryptonews.net/news/bitcoin/30255350/",
         "timestamp": "2024-12-19 22:38:46",
         "sentToChannel": true
+    },
+    {
+        "title": "21Shares registers Polkadot Trust in Delaware",
+        "source": "https://cryptonews.net/news/altcoins/30255530/",
+        "timestamp": "2024-12-19 23:24:25",
+        "sentToChannel": false
     }
 ]
