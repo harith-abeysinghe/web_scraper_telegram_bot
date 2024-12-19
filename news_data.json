@@ -766,5 +766,11 @@
         "source": "https://cryptonews.net/news/altcoins/30249772/",
         "timestamp": "2024-12-19 03:05:54",
         "sentToChannel": true
+    },
+    {
+        "title": "Bitcoin drops below $100,000 after Fed Chair Powell\u2019s comment against BTC reserve",
+        "source": "https://cryptonews.net/news/bitcoin/30249899/",
+        "timestamp": "2024-12-19 04:12:48",
+        "sentToChannel": false
     }
 ]
