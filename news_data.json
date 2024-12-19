@@ -1,47 +1,5 @@
 [
     {
-        "title": "Ohio lawmaker introduces Bitcoin reserve bill allowing state to buy BTC",
-        "source": "https://cryptonews.net/news/bitcoin/30243464/",
-        "timestamp": "2024-12-18 00:49:42",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin Soars to $108K Before Dropping Below $107K",
-        "source": "https://cryptonews.net/news/bitcoin/30242503/",
-        "timestamp": "2024-12-18 00:49:42",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin rally hinges on spot market activity as derivatives slow down",
-        "source": "https://cryptonews.net/news/bitcoin/30243389/",
-        "timestamp": "2024-12-18 00:49:42",
-        "sentToChannel": true
-    },
-    {
-        "title": "First glance at what an American strategic Bitcoin reserve could look like",
-        "source": "https://cryptonews.net/news/bitcoin/30243321/",
-        "timestamp": "2024-12-18 00:49:42",
-        "sentToChannel": true
-    },
-    {
-        "title": "BlackRock\u2019s IBIT becomes decade\u2019s top ETF for inflows, surpassing all rivals",
-        "source": "https://cryptonews.net/news/bitcoin/30243282/",
-        "timestamp": "2024-12-18 00:49:42",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin blasts past $108,000 \u2013 Is $210,000 next? Institutions think so",
-        "source": "https://cryptonews.net/news/bitcoin/30243525/",
-        "timestamp": "2024-12-18 03:04:09",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin Analyst Says $102K Support Holds Key to Avoid Liquidity Crash",
-        "source": "https://cryptonews.net/news/bitcoin/30243515/",
-        "timestamp": "2024-12-18 03:35:21",
-        "sentToChannel": true
-    },
-    {
         "title": "Ripple\u2019s RLUSD Stablecoin Attracts Frenzy Bids for 800 XRP Ahead of Release",
         "source": "https://www.coindesk.com/markets/2024/12/17/ripple-s-rlusd-stablecoin-attracts-frenzy-bids-for-800-xrp-ahead-of-release",
         "timestamp": "2024-12-18 03:56:58",
@@ -765,48 +723,48 @@
         "title": "Solana meme coin Fartcoin hits $1 billion market cap",
         "source": "https://cryptonews.net/news/altcoins/30249463/",
         "timestamp": "2024-12-18 23:52:09",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitwise CIO Matt Hougan Says Ethereum To Outpace Solana in 2025, Here\u2019s Why",
         "source": "https://cryptonews.net/news/ethereum/30249500/",
         "timestamp": "2024-12-19 00:50:14",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin sees wealth shift from long-term holders to new investors \u2013 Glassnode",
         "source": "https://cryptonews.net/news/bitcoin/30249584/",
         "timestamp": "2024-12-19 02:18:37",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Is Ethereum Price Going Parabolic? Long-Term Holders Signal 'Greed Mode'",
         "source": "https://cryptonews.net/news/ethereum/30248582/",
         "timestamp": "2024-12-19 02:18:37",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "American Strategic Bitcoin Reserve: Pros, Cons, and Possibilities",
         "source": "https://cryptonews.net/news/bitcoin/30249616/",
         "timestamp": "2024-12-19 03:05:53",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "BlackRock sparks Bitcoin 21M debate, saying \u2018no guarantee\u2019 it won\u2019t change",
         "source": "https://cryptonews.net/news/bitcoin/30249744/",
         "timestamp": "2024-12-19 03:05:53",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "SunPump Partners with Meme City to Redefine Memecoin Ecosystem",
         "source": "https://cryptonews.net/news/altcoins/30249640/",
         "timestamp": "2024-12-19 03:05:54",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Sky doubles down on token overhaul: Making MKR unusable, launching subDAOs",
         "source": "https://cryptonews.net/news/altcoins/30249772/",
         "timestamp": "2024-12-19 03:05:54",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
