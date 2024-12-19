@@ -1,59 +1,5 @@
 [
     {
-        "title": "Ethereum ETF Hot Steak Continues Amid Trump Regulatory Optimism",
-        "source": "https://cryptonews.net/news/ethereum/30247845/",
-        "timestamp": "2024-12-18 19:11:11",
-        "sentToChannel": true
-    },
-    {
-        "title": "Hedera and RedSwan CRE\u2019s Partnership Brings Tokenized Real Estate to the Masses: Will HBAR Fuel Growth?",
-        "source": "https://cryptonews.net/news/altcoins/30248050/",
-        "timestamp": "2024-12-18 19:11:11",
-        "sentToChannel": true
-    },
-    {
-        "title": "IOTA Set to Launch $vUSD Stablecoin in January, Focusing on AI Agents and Payments in 2025",
-        "source": "https://cryptonews.net/news/altcoins/30247831/",
-        "timestamp": "2024-12-18 19:11:11",
-        "sentToChannel": true
-    },
-    {
-        "title": "Fantom\u2019s Sonic Protocol Goes Live on Mainnet, Will It Spark FTM Revival?",
-        "source": "https://cryptonews.net/news/altcoins/30248184/",
-        "timestamp": "2024-12-18 19:11:11",
-        "sentToChannel": true
-    },
-    {
-        "title": "Avara founder backs proposal to offboard Polygon markets from Aave",
-        "source": "https://cryptonews.net/news/altcoins/30248469/",
-        "timestamp": "2024-12-18 19:11:11",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin in \u2018dip-buying mood\u2019 as BTC price skirts $105K into FOMC",
-        "source": "https://cryptonews.net/news/bitcoin/30248525/",
-        "timestamp": "2024-12-18 19:24:31",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin Price Prediction: Can BTC 2x to $200,000?",
-        "source": "https://cryptonews.net/news/bitcoin/30248041/",
-        "timestamp": "2024-12-18 19:24:31",
-        "sentToChannel": true
-    },
-    {
-        "title": "MicroStrategy spent $17.5B on bitcoin in the last 2 months",
-        "source": "https://cryptonews.net/news/bitcoin/30247649/",
-        "timestamp": "2024-12-18 19:24:31",
-        "sentToChannel": true
-    },
-    {
-        "title": "Fed Cuts Interest Rates by 25 Basis Points, Bitcoin Slips Below $104K on Hawkish Tone",
-        "source": "https://www.coindesk.com/federal-reserve-cuts-benchmark-rate-bitcoin-reacts",
-        "timestamp": "2024-12-18 19:24:34",
-        "sentToChannel": true
-    },
-    {
         "title": "MicroStrategy is a \u2018desperate\u2019 Ponzi scheme: analyst",
         "source": "https://cryptonews.net/news/bitcoin/30248389/",
         "timestamp": "2024-12-18 20:31:10",
@@ -813,30 +759,30 @@
         "title": "Bitcoin price has legs above $100K despite holders booking record profits \u2014 Analysis",
         "source": "https://cryptonews.net/news/bitcoin/30254656/",
         "timestamp": "2024-12-19 19:07:29",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Hawk Tuah Investors Sue Meme Coin Promoters, Allege Securities Violations",
         "source": "https://cryptonews.net/news/altcoins/30254325/",
         "timestamp": "2024-12-19 19:07:30",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Ethereum (ETH) Loses Steam as Fed Rate Cut Fails to Fuel $4,500 Breakout",
         "source": "https://cryptonews.net/news/ethereum/30254611/",
         "timestamp": "2024-12-19 19:19:56",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Ethereum Ecosystem Is Top Performer among Crypto Sectors in the Past 7 Days",
         "source": "https://cryptonews.net/news/altcoins/30254478/",
         "timestamp": "2024-12-19 19:19:56",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Sonic and Injective Team Up to Build Industry's First Cross-Chain Smart Agent Hub with Solana",
         "source": "https://cryptonews.net/news/altcoins/30254469/",
         "timestamp": "2024-12-19 19:19:56",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
