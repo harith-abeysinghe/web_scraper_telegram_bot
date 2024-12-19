@@ -886,5 +886,23 @@
         "source": "https://www.coindesk.com/business/2024/12/18/coinbase-alums-patchwork-take-next-step-toward-no-code-blockchain-development",
         "timestamp": "2024-12-19 15:43:45",
         "sentToChannel": true
+    },
+    {
+        "title": "Is the UAE Secretly Stockpiling Bitcoin Reserves?",
+        "source": "https://cryptonews.net/news/bitcoin/30253501/",
+        "timestamp": "2024-12-19 16:11:19",
+        "sentToChannel": false
+    },
+    {
+        "title": "\ud83d\udd25NVIDIA and Intel Eye Hedera for Verifiable AI Compute",
+        "source": "https://cryptonews.net/news/altcoins/30253578/",
+        "timestamp": "2024-12-19 16:11:20",
+        "sentToChannel": false
+    },
+    {
+        "title": "IOTA Rebased Welcomed by the Community",
+        "source": "https://cryptonews.net/news/altcoins/30253175/",
+        "timestamp": "2024-12-19 16:11:20",
+        "sentToChannel": false
     }
 ]
