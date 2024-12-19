@@ -1,11 +1,5 @@
 [
     {
-        "title": "Solana meme coin Fartcoin hits $1 billion market cap",
-        "source": "https://cryptonews.net/news/altcoins/30249463/",
-        "timestamp": "2024-12-18 23:52:09",
-        "sentToChannel": true
-    },
-    {
         "title": "Bitwise CIO Matt Hougan Says Ethereum To Outpace Solana in 2025, Here\u2019s Why",
         "source": "https://cryptonews.net/news/ethereum/30249500/",
         "timestamp": "2024-12-19 00:50:14",
@@ -849,18 +843,18 @@
         "title": "21Shares registers Polkadot Trust in Delaware",
         "source": "https://cryptonews.net/news/altcoins/30255530/",
         "timestamp": "2024-12-19 23:24:25",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Rapidly-growing stablecoin issuer Usual latest to use M^0 infrastructure to launch token",
         "source": "https://cryptonews.net/news/altcoins/30255636/",
         "timestamp": "2024-12-19 23:32:38",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Solana (SOL)-Based Decentralized Real Estate Trading Platform Token Rises and Falls Following Coinbase Listing",
         "source": "https://cryptonews.net/news/altcoins/30255614/",
         "timestamp": "2024-12-19 23:42:04",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
