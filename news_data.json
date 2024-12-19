@@ -802,5 +802,53 @@
         "source": "https://cryptonews.net/news/bitcoin/30250434/",
         "timestamp": "2024-12-19 11:52:07",
         "sentToChannel": false
+    },
+    {
+        "title": "As Bitcoin (BTC) Price Drops to $98k: Will It Crash to $90k?",
+        "source": "https://cryptonews.net/news/bitcoin/30251646/",
+        "timestamp": "2024-12-19 12:19:09",
+        "sentToChannel": false
+    },
+    {
+        "title": "10% of Ethereum validators signal gas limit increase",
+        "source": "https://cryptonews.net/news/ethereum/30251960/",
+        "timestamp": "2024-12-19 12:19:10",
+        "sentToChannel": false
+    },
+    {
+        "title": "Is an Ethereum Price Crash Imminent?",
+        "source": "https://cryptonews.net/news/ethereum/30251873/",
+        "timestamp": "2024-12-19 12:19:10",
+        "sentToChannel": false
+    },
+    {
+        "title": "Ethereum (ETH) Price Prediction For December 19: Sell Signals Emerge",
+        "source": "https://cryptonews.net/news/ethereum/30251492/",
+        "timestamp": "2024-12-19 12:19:10",
+        "sentToChannel": false
+    },
+    {
+        "title": "Hoskinson Denies XRP and HBAR Inclusion in Trump\u2019s Crypto Reserve Plan",
+        "source": "https://cryptonews.net/news/altcoins/30251585/",
+        "timestamp": "2024-12-19 12:19:11",
+        "sentToChannel": false
+    },
+    {
+        "title": "Ripple CTO Explains Why XRP Still Matters",
+        "source": "https://cryptonews.net/news/altcoins/30251637/",
+        "timestamp": "2024-12-19 12:19:11",
+        "sentToChannel": false
+    },
+    {
+        "title": "IOTA Rebased Welcomes Next Round of Testnet Validators",
+        "source": "https://cryptonews.net/news/altcoins/30251931/",
+        "timestamp": "2024-12-19 12:19:11",
+        "sentToChannel": false
+    },
+    {
+        "title": "VIX's Second-Largest Spike in History Indicates a Local Bottom for Bitcoin: Van Straten",
+        "source": "https://www.coindesk.com/markets/2024/12/19/vixs-second-largest-spike-in-history-indicates-a-local-bottom-for-bitcoin-van-straten",
+        "timestamp": "2024-12-19 12:19:12",
+        "sentToChannel": false
     }
 ]
