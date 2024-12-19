@@ -1,41 +1,5 @@
 [
     {
-        "title": "Stablecoin Payments Platform BVNK Raises $50M to Fuel U.S. Expansion",
-        "source": "https://www.coindesk.com/business/2024/12/17/stablecoin-payments-platform-bvnk-raises-50-m-to-fuel-u-s-expansion",
-        "timestamp": "2024-12-18 17:38:29",
-        "sentToChannel": true
-    },
-    {
-        "title": "Layer-2 Network Fuel to Airdrop 10% of New Token Supply to 200K Wallets",
-        "source": "https://www.coindesk.com/business/2024/12/17/layer-2-network-fuel-to-airdrop-10-of-new-token-supply-to-200-k-wallets",
-        "timestamp": "2024-12-18 17:38:29",
-        "sentToChannel": true
-    },
-    {
-        "title": "Analysis Company Shares The Level Bitcoin Must Surpass \u2013 \u201cIf This Level Is Exceeded, These Are The Targets In 2025\u201d",
-        "source": "https://cryptonews.net/news/bitcoin/30247951/",
-        "timestamp": "2024-12-18 17:52:17",
-        "sentToChannel": true
-    },
-    {
-        "title": "What is the Bitcoin Puell Multiple Indicator and How Does It Work?",
-        "source": "https://cryptonews.net/news/bitcoin/30247913/",
-        "timestamp": "2024-12-18 17:52:17",
-        "sentToChannel": true
-    },
-    {
-        "title": "BlackRock\u2019s New Bitcoin Ad Is A Monumental Paradigm Shift",
-        "source": "https://cryptonews.net/news/bitcoin/30247852/",
-        "timestamp": "2024-12-18 17:52:17",
-        "sentToChannel": true
-    },
-    {
-        "title": "How MicroStrategy and Others Are Taking on Billions in Debt to Buy More Bitcoin",
-        "source": "https://www.coindesk.com/markets/2024/12/17/how-micro-strategy-and-others-are-taking-on-billions-in-debt-to-buy-more-bitcoin",
-        "timestamp": "2024-12-18 17:52:18",
-        "sentToChannel": true
-    },
-    {
         "title": "Ethereum ETF Hot Steak Continues Amid Trump Regulatory Optimism",
         "source": "https://cryptonews.net/news/ethereum/30247845/",
         "timestamp": "2024-12-18 19:11:11",
@@ -807,24 +771,24 @@
         "title": "Ethereum (ETH) Whales Accumulate as Surge Past $4,100 Remains Delayed",
         "source": "https://cryptonews.net/news/ethereum/30247771/",
         "timestamp": "2024-12-19 17:42:21",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Comet Protocol integrates Neo X into Instant Gas feature",
         "source": "https://cryptonews.net/news/altcoins/30254221/",
         "timestamp": "2024-12-19 17:42:21",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Michael Saylor interview with Tom Bilyeu on Impact Theory \u2013 Why Bitcoin at $13 million is inevitable",
         "source": "https://cryptonews.net/news/bitcoin/30254144/",
         "timestamp": "2024-12-19 17:51:45",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Michael Saylor, Elon Musk's Bitcoin 2020 Discussion Flashback: Details",
         "source": "https://cryptonews.net/news/bitcoin/30254115/",
         "timestamp": "2024-12-19 17:51:45",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
