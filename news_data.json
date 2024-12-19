@@ -838,5 +838,35 @@
         "source": "https://www.coindesk.com/business/2024/12/19/founder-of-de-fi-giant-curve-gets-liquidated-again-as-crv-slumps",
         "timestamp": "2024-12-19 13:47:06",
         "sentToChannel": true
+    },
+    {
+        "title": "WazirX's WRX Plunges 60% After Binance Delisting, Dampening Hopes of a 'Fresh Start'",
+        "source": "https://www.coindesk.com/markets/2024/12/18/wazir-xs-wrx-plunges-60-after-binance-delisting-dampening-hopes-of-a-fresh-start",
+        "timestamp": "2024-12-19 14:09:35",
+        "sentToChannel": false
+    },
+    {
+        "title": "More Than Half of Crypto Tokens Debuted in 2024 Were Malicious: Blockaid",
+        "source": "https://www.coindesk.com/business/2024/12/19/more-than-half-of-crypto-tokens-debuted-in-2024-were-malicious-blockaid",
+        "timestamp": "2024-12-19 14:09:35",
+        "sentToChannel": false
+    },
+    {
+        "title": "RWA-Focused Network Plume Raises $20M from Brevan Howard and Others Ahead of Mainnet Launch",
+        "source": "https://www.coindesk.com/business/2024/12/18/rwa-focused-network-plume-raises-20-m-from-brevan-howard-and-others-ahead-of-mainnet-launch",
+        "timestamp": "2024-12-19 14:09:35",
+        "sentToChannel": false
+    },
+    {
+        "title": "Custody Firm Taurus Partners With Temenos Bringing Crypto Wallets to Thousands of Banks",
+        "source": "https://www.coindesk.com/business/2024/12/18/custody-firm-taurus-partners-with-temenos-bringing-crypto-wallets-to-thousands-of-banks",
+        "timestamp": "2024-12-19 14:09:35",
+        "sentToChannel": false
+    },
+    {
+        "title": "Binance Abruptly Deletes Alpha Watchlist Tokens, Spurring Unforeseen Pump and Dump",
+        "source": "https://www.coindesk.com/business/2024/12/18/binance-abruptly-deletes-alpha-watchlist-tokens-spurring-unforeseen-pump-and-dump",
+        "timestamp": "2024-12-19 14:09:35",
+        "sentToChannel": false
     }
 ]
