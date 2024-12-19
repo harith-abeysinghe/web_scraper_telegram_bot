@@ -1,119 +1,5 @@
 [
     {
-        "title": "Coinbase Alums Patchwork Take Next Step Toward No-Code Blockchain Development",
-        "source": "https://www.coindesk.com/business/2024/12/18/coinbase-alums-patchwork-take-next-step-toward-no-code-blockchain-development",
-        "timestamp": "2024-12-18 14:09:50",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin Goes Haute Couture: Luxury Brands Embrace Crypto Payments",
-        "source": "https://cryptonews.net/news/bitcoin/30246596/",
-        "timestamp": "2024-12-18 14:30:48",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin to hit $1 million within 2 years based on new Satoshi Action Fund model",
-        "source": "https://cryptonews.net/news/bitcoin/30246362/",
-        "timestamp": "2024-12-18 14:30:48",
-        "sentToChannel": true
-    },
-    {
-        "title": "Youngest Ever Bitcoin Core Contributor Gets Bitcoin Scholarship",
-        "source": "https://cryptonews.net/news/bitcoin/30246445/",
-        "timestamp": "2024-12-18 14:30:48",
-        "sentToChannel": true
-    },
-    {
-        "title": "Trump\u2019s win boosts El Salvador\u2019s Bitcoin holdings, but hurts president Nayib Bukele\u2019s economic plans",
-        "source": "https://cryptonews.net/news/bitcoin/30246261/",
-        "timestamp": "2024-12-18 14:30:48",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin's Memecoin-Like 'Runes' Get a Boost With AMM Launch on Stacks",
-        "source": "https://cryptonews.net/news/altcoins/30246842/",
-        "timestamp": "2024-12-18 14:30:49",
-        "sentToChannel": true
-    },
-    {
-        "title": "Polygon rejects proposal to use over $1 billion of bridge stablecoins for yield generation",
-        "source": "https://cryptonews.net/news/altcoins/30246845/",
-        "timestamp": "2024-12-18 14:30:49",
-        "sentToChannel": true
-    },
-    {
-        "title": "Analytics Firm Announces Its Predictions for Today's FED Interest Rate Decision and Bitcoin (BTC): Up or Down?",
-        "source": "https://cryptonews.net/news/bitcoin/30246610/",
-        "timestamp": "2024-12-18 14:44:42",
-        "sentToChannel": true
-    },
-    {
-        "title": "'Rich Dad Poor Dad' Author Predicts Bitcoin to Hit $350,000 Next Year",
-        "source": "https://cryptonews.net/news/bitcoin/30246684/",
-        "timestamp": "2024-12-18 14:44:42",
-        "sentToChannel": true
-    },
-    {
-        "title": "'The Window to Accumulate Bitcoin Is Rapidly Closing': Samson Mow Warns",
-        "source": "https://cryptonews.net/news/bitcoin/30246636/",
-        "timestamp": "2024-12-18 14:44:42",
-        "sentToChannel": true
-    },
-    {
-        "title": "Flare Open Beta Completed, FXRP Debuts on Songbird",
-        "source": "https://cryptonews.net/news/altcoins/30246408/",
-        "timestamp": "2024-12-18 14:44:43",
-        "sentToChannel": true
-    },
-    {
-        "title": "Solana Smashes Record With 66.9M Daily Transactions as Pengu Token Debuts",
-        "source": "https://www.coindesk.com/markets/2024/12/18/solana-smashes-record-with-66-9-m-daily-transactions-as-pengu-token-debuts",
-        "timestamp": "2024-12-18 14:44:43",
-        "sentToChannel": true
-    },
-    {
-        "title": "US Bitcoin Reserve Proposal: Experts Discuss New Frontiers in Crypto and Global Finance",
-        "source": "https://cryptonews.net/news/bitcoin/30246855/",
-        "timestamp": "2024-12-18 15:10:27",
-        "sentToChannel": true
-    },
-    {
-        "title": "The clarifications of the Cardano Foundation on governance",
-        "source": "https://cryptonews.net/news/altcoins/30247098/",
-        "timestamp": "2024-12-18 15:10:29",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin Holder Semler Scientific's Shares Now Available for Options Trading",
-        "source": "https://www.coindesk.com/markets/2024/12/17/bitcoin-holder-semler-scientifics-shares-now-available-for-options-trading",
-        "timestamp": "2024-12-18 15:10:29",
-        "sentToChannel": true
-    },
-    {
-        "title": "What will the Bitcoin price be in 2025 and 2045?",
-        "source": "https://cryptonews.net/news/bitcoin/30247298/",
-        "timestamp": "2024-12-18 15:31:51",
-        "sentToChannel": true
-    },
-    {
-        "title": "Nic Carter Is Wrong About the US Strategic Bitcoin Reserve",
-        "source": "https://cryptonews.net/news/bitcoin/30246851/",
-        "timestamp": "2024-12-18 15:31:51",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin Closing In on Greater Move to Massive Price Target, According to Trader Who Called 2021 Market Collapse",
-        "source": "https://cryptonews.net/news/bitcoin/30246198/",
-        "timestamp": "2024-12-18 15:31:51",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin (BTC) Price Prediction for December 18",
-        "source": "https://cryptonews.net/news/bitcoin/30246687/",
-        "timestamp": "2024-12-18 15:31:51",
-        "sentToChannel": true
-    },
-    {
         "title": "Ethereum Price Analysis: ETH Rejected at $4K Again, Is $3.5K Next?",
         "source": "https://cryptonews.net/news/ethereum/30246559/",
         "timestamp": "2024-12-18 15:44:27",
@@ -843,102 +729,102 @@
         "title": "WazirX's WRX Plunges 60% After Binance Delisting, Dampening Hopes of a 'Fresh Start'",
         "source": "https://www.coindesk.com/markets/2024/12/18/wazir-xs-wrx-plunges-60-after-binance-delisting-dampening-hopes-of-a-fresh-start",
         "timestamp": "2024-12-19 14:09:35",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "More Than Half of Crypto Tokens Debuted in 2024 Were Malicious: Blockaid",
         "source": "https://www.coindesk.com/business/2024/12/19/more-than-half-of-crypto-tokens-debuted-in-2024-were-malicious-blockaid",
         "timestamp": "2024-12-19 14:09:35",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "RWA-Focused Network Plume Raises $20M from Brevan Howard and Others Ahead of Mainnet Launch",
         "source": "https://www.coindesk.com/business/2024/12/18/rwa-focused-network-plume-raises-20-m-from-brevan-howard-and-others-ahead-of-mainnet-launch",
         "timestamp": "2024-12-19 14:09:35",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Custody Firm Taurus Partners With Temenos Bringing Crypto Wallets to Thousands of Banks",
         "source": "https://www.coindesk.com/business/2024/12/18/custody-firm-taurus-partners-with-temenos-bringing-crypto-wallets-to-thousands-of-banks",
         "timestamp": "2024-12-19 14:09:35",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Binance Abruptly Deletes Alpha Watchlist Tokens, Spurring Unforeseen Pump and Dump",
         "source": "https://www.coindesk.com/business/2024/12/18/binance-abruptly-deletes-alpha-watchlist-tokens-spurring-unforeseen-pump-and-dump",
         "timestamp": "2024-12-19 14:09:35",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "MARA Bitcoin Investment: $1.53B Spent to Acquire 15,574 BTC",
         "source": "https://cryptonews.net/news/bitcoin/30252786/",
         "timestamp": "2024-12-19 14:30:21",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Over 72% of PENGU holders dump all tokens immediately after launch",
         "source": "https://cryptonews.net/news/altcoins/30252651/",
         "timestamp": "2024-12-19 14:30:22",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "VeChain Selects Lukka to Drive Sustainable Blockchain Adoption",
         "source": "https://cryptonews.net/news/altcoins/30252726/",
         "timestamp": "2024-12-19 14:30:22",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin trader sees 'larger' BTC price dip next month as $100K holds",
         "source": "https://cryptonews.net/news/bitcoin/30252878/",
         "timestamp": "2024-12-19 14:44:18",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin risks not holding the 100k?",
         "source": "https://cryptonews.net/news/bitcoin/30252525/",
         "timestamp": "2024-12-19 14:44:18",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin Rises Marginally, With Support At $100,000",
         "source": "https://cryptonews.net/news/bitcoin/30252074/",
         "timestamp": "2024-12-19 14:44:18",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "The IMF Just Improved El Salvador\u2019s Bitcoin Law",
         "source": "https://cryptonews.net/news/bitcoin/30253029/",
         "timestamp": "2024-12-19 14:51:49",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Dutch Entrepreneur Calls on Dutch Government to Create Bitcoin Reserve",
         "source": "https://cryptonews.net/news/bitcoin/30253156/",
         "timestamp": "2024-12-19 15:10:24",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin Price Analysis: BTC Risks Facing Extended Retracement If it Loses This Level",
         "source": "https://cryptonews.net/news/bitcoin/30252997/",
         "timestamp": "2024-12-19 15:10:24",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Don't Fall for the Bitcoin Crash \u2013 It's Just a Breather",
         "source": "https://cryptonews.net/news/bitcoin/30253032/",
         "timestamp": "2024-12-19 15:10:24",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Ethereum price crashes to key support as ETH ETF inflows surge",
         "source": "https://cryptonews.net/news/ethereum/30252711/",
         "timestamp": "2024-12-19 15:10:24",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "HBAR Targets ATH, EQTY Lab Unveils AI Verification Tool",
         "source": "https://cryptonews.net/news/altcoins/30253097/",
         "timestamp": "2024-12-19 15:10:25",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
