@@ -742,5 +742,17 @@
         "source": "https://cryptonews.net/news/altcoins/30249938/",
         "timestamp": "2024-12-19 05:10:53",
         "sentToChannel": true
+    },
+    {
+        "title": "Bitcoin's Nosedive to Under $100K Shaves $700M Crypto Longs, XRP Drops 5%",
+        "source": "https://www.coindesk.com/markets/2024/12/19/bitcoins-nosedive-to-under-100-k-shaves-700-m-crypto-longs-xrp-drops-5",
+        "timestamp": "2024-12-19 06:53:07",
+        "sentToChannel": false
+    },
+    {
+        "title": "Bitcoin Takes a Breather After Doji Candle in a Cautious Pre-Fed De-Risking",
+        "source": "https://www.coindesk.com/markets/2024/12/18/bitcoin-takes-a-breather-after-doji-candle-in-a-cautious-pre-fed-de-risking",
+        "timestamp": "2024-12-19 06:53:07",
+        "sentToChannel": false
     }
 ]
