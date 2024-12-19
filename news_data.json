@@ -1,83 +1,5 @@
 [
     {
-        "title": "Coinbase Premium Suggests Caution Amid Bitcoin Sell-off",
-        "source": "https://cryptonews.net/news/bitcoin/30247528/",
-        "timestamp": "2024-12-18 16:38:10",
-        "sentToChannel": true
-    },
-    {
-        "title": "Economist slams Michael Saylor's MSTR-Bitcoin strategy as a \u2018shell game\u2019",
-        "source": "https://cryptonews.net/news/bitcoin/30247460/",
-        "timestamp": "2024-12-18 16:38:10",
-        "sentToChannel": true
-    },
-    {
-        "title": "$400,000,000 Destroyed as Bitcoin (BTC) Drops Below ATH",
-        "source": "https://cryptonews.net/news/bitcoin/30247051/",
-        "timestamp": "2024-12-18 16:38:10",
-        "sentToChannel": true
-    },
-    {
-        "title": "Circle\u2019s USDC Cross-Chain Transfer Protocol (CCTP) is now live on Sui Network",
-        "source": "https://cryptonews.net/news/altcoins/30247629/",
-        "timestamp": "2024-12-18 16:38:12",
-        "sentToChannel": true
-    },
-    {
-        "title": "OpenSea: Everything You Need to Know About the Token Airdrop Speculation",
-        "source": "https://cryptonews.net/news/altcoins/30247616/",
-        "timestamp": "2024-12-18 16:38:12",
-        "sentToChannel": true
-    },
-    {
-        "title": "\ud83d\udd25Cardano ADA Builder Reveals Ambitious Five-Year Roadmap for Cardano",
-        "source": "https://cryptonews.net/news/altcoins/30247483/",
-        "timestamp": "2024-12-18 16:38:12",
-        "sentToChannel": true
-    },
-    {
-        "title": "Here's How to Track Ripple USD (RLUSD) Metrics",
-        "source": "https://cryptonews.net/news/altcoins/30247418/",
-        "timestamp": "2024-12-18 16:38:12",
-        "sentToChannel": true
-    },
-    {
-        "title": "Valour introduces Hedera ETP on Euronext Amsterdam",
-        "source": "https://cryptonews.net/news/altcoins/30247378/",
-        "timestamp": "2024-12-18 16:38:12",
-        "sentToChannel": true
-    },
-    {
-        "title": "Ripple's RLUSD Records Major Changes in One Day: Details",
-        "source": "https://cryptonews.net/news/altcoins/30247142/",
-        "timestamp": "2024-12-18 16:38:12",
-        "sentToChannel": true
-    },
-    {
-        "title": "Ripple CTO Reveals XRP Ledger TPS True Potential",
-        "source": "https://cryptonews.net/news/altcoins/30247077/",
-        "timestamp": "2024-12-18 16:38:12",
-        "sentToChannel": true
-    },
-    {
-        "title": "Santiment Announces 10 Altcoins in Focus of Developers! First Rank Changed in the List!",
-        "source": "https://cryptonews.net/news/altcoins/30247407/",
-        "timestamp": "2024-12-18 16:38:12",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin\u2019s 8-10% Pullback Could Be the Reset Traders Are Waiting For",
-        "source": "https://cryptonews.net/news/bitcoin/30247745/",
-        "timestamp": "2024-12-18 16:50:43",
-        "sentToChannel": true
-    },
-    {
-        "title": "VeChain-Powered VeBetterDAO Targets $16T Tokenization Market",
-        "source": "https://cryptonews.net/news/altcoins/30247646/",
-        "timestamp": "2024-12-18 16:50:45",
-        "sentToChannel": true
-    },
-    {
         "title": "Ethereum (ETH) Whales Accumulate as Surge Past $4,100 Remains Delayed",
         "source": "https://cryptonews.net/news/ethereum/30247771/",
         "timestamp": "2024-12-18 17:09:19",
@@ -861,6 +783,6 @@
         "title": "Trump Administration Has Already Unlocked 'New Era' for U.S. Crypto: JPMorgan",
         "source": "https://www.coindesk.com/markets/2024/12/18/trump-administration-has-already-unlocked-new-era-for-u-s-crypto-jp-morgan",
         "timestamp": "2024-12-19 16:46:55",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
