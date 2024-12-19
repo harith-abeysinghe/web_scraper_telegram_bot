@@ -1,23 +1,5 @@
 [
     {
-        "title": "Charles Hoskinson urges Cardano Foundation to leave Switzerland for community-driven governance",
-        "source": "https://cryptonews.net/news/altcoins/30245353/",
-        "timestamp": "2024-12-18 11:08:38",
-        "sentToChannel": true
-    },
-    {
-        "title": "NFTs Are Making a Comeback as Trading Volumes Surge: Galaxy Research",
-        "source": "https://www.coindesk.com/markets/2024/12/18/nfts-are-making-a-comeback-as-trading-volumes-surge-galaxy-research",
-        "timestamp": "2024-12-18 11:08:39",
-        "sentToChannel": true
-    },
-    {
-        "title": "Dogecoin Pup\u2019s IP Owner Bags Rights to Neiro, Putting Namesake Memes in Focus",
-        "source": "https://www.coindesk.com/markets/2024/12/18/dogecoin-pup-s-ip-owner-bags-rights-to-neiro-putting-namesake-memes-in-focus",
-        "timestamp": "2024-12-18 11:22:42",
-        "sentToChannel": true
-    },
-    {
         "title": "Bitcoin Price Prediction \u2013 BTC Price Estimated to Reach $\u202f112,633 By Dec 23, 2024",
         "source": "https://cryptonews.net/news/bitcoin/30245279/",
         "timestamp": "2024-12-18 12:19:12",
@@ -783,18 +765,18 @@
         "title": "Why Is Bitcoin Down Today? BTC Price Sees Sharpest Drop in 135 Days",
         "source": "https://cryptonews.net/news/bitcoin/30250815/",
         "timestamp": "2024-12-19 11:08:38",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin on Cusp of Rallying Higher as One Indicator Turns Bullish, Says Kevin Svenson \u2013 But There\u2019s a Catch",
         "source": "https://cryptonews.net/news/bitcoin/30251344/",
         "timestamp": "2024-12-19 11:08:38",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Did Powell\u2019s hawkish speech trigger Bitcoin\u2019s fall below $100K and $780M in liquidations?",
         "source": "https://cryptonews.net/news/bitcoin/30251123/",
         "timestamp": "2024-12-19 11:08:38",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
