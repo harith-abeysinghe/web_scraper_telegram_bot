@@ -820,5 +820,35 @@
         "source": "https://cryptonews.net/news/altcoins/30255053/",
         "timestamp": "2024-12-19 21:23:53",
         "sentToChannel": true
+    },
+    {
+        "title": "Analyst Justin Bennett Issues Bitcoin Alert, Says BTC Headed Lower if Bulls Lose Momentum \u2013 Here\u2019s His Target",
+        "source": "https://cryptonews.net/news/bitcoin/30255181/",
+        "timestamp": "2024-12-19 21:41:51",
+        "sentToChannel": false
+    },
+    {
+        "title": "An ATH for ETH?",
+        "source": "https://cryptonews.net/news/ethereum/30255187/",
+        "timestamp": "2024-12-19 21:41:51",
+        "sentToChannel": false
+    },
+    {
+        "title": "Doodles NFT collection teases potential token launch",
+        "source": "https://cryptonews.net/news/altcoins/30255290/",
+        "timestamp": "2024-12-19 21:41:52",
+        "sentToChannel": false
+    },
+    {
+        "title": "Aptos Labs CEO Mo Shaikh Quits; Avery Ching to Take His Place",
+        "source": "https://www.coindesk.com/business/2024/12/19/aptos-labs-ceo-mo-shaikh-quits-avery-ching-to-take-his-place",
+        "timestamp": "2024-12-19 21:41:53",
+        "sentToChannel": false
+    },
+    {
+        "title": "Coinbase Says It Nixed wBTC Because Justin Sun Posed 'Unacceptable Risk'",
+        "source": "https://www.coindesk.com/business/2024/12/17/coinbase-says-it-nixed-w-btc-because-justin-sun-posed-unacceptable-risk",
+        "timestamp": "2024-12-19 21:41:53",
+        "sentToChannel": false
     }
 ]
