@@ -1,11 +1,5 @@
 [
     {
-        "title": "Ripple\u2019s RLUSD Stablecoin Attracts Frenzy Bids for 800 XRP Ahead of Release",
-        "source": "https://www.coindesk.com/markets/2024/12/17/ripple-s-rlusd-stablecoin-attracts-frenzy-bids-for-800-xrp-ahead-of-release",
-        "timestamp": "2024-12-18 03:56:58",
-        "sentToChannel": true
-    },
-    {
         "title": "IP-Backed Meme Token CAT Bags Binance Spot Listing, Spiking Bullish Sentiment",
         "source": "https://www.coindesk.com/markets/2024/12/17/ip-backed-meme-token-cat-bags-binance-spot-listing-spiking-bullish-sentiment",
         "timestamp": "2024-12-18 04:52:35",
@@ -771,6 +765,6 @@
         "title": "Bitcoin drops below $100,000 after Fed Chair Powell\u2019s comment against BTC reserve",
         "source": "https://cryptonews.net/news/bitcoin/30249899/",
         "timestamp": "2024-12-19 04:12:48",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
