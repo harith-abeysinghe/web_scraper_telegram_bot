@@ -778,5 +778,23 @@
         "source": "https://cryptonews.net/news/bitcoin/30251123/",
         "timestamp": "2024-12-19 11:08:38",
         "sentToChannel": true
+    },
+    {
+        "title": "Bitcoin Miners Are Expected to be Profitable in December, Jefferies Says",
+        "source": "https://www.coindesk.com/markets/2024/12/19/bitcoin-miners-are-expected-to-be-profitable-in-december-jefferies-says",
+        "timestamp": "2024-12-19 11:32:45",
+        "sentToChannel": false
+    },
+    {
+        "title": "Dogecoin Pup\u2019s IP Owner Bags Rights to Neiro, Putting Namesake Memes in Focus",
+        "source": "https://www.coindesk.com/markets/2024/12/18/dogecoin-pup-s-ip-owner-bags-rights-to-neiro-putting-namesake-memes-in-focus",
+        "timestamp": "2024-12-19 11:32:45",
+        "sentToChannel": false
+    },
+    {
+        "title": "Bitcoin Miner Hut 8 Buys $100M BTC Boosting Total Total Stash to $1B",
+        "source": "https://www.coindesk.com/business/2024/12/19/bitcoin-miner-hut-8-buys-usd100m-btc-boosting-total-total-stash-to-usd1b",
+        "timestamp": "2024-12-19 11:32:46",
+        "sentToChannel": false
     }
 ]
