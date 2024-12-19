@@ -1,59 +1,5 @@
 [
     {
-        "title": "Will Bitcoin Historical \u2018Santa Rally\u2019 Push the Price to $120,000 By Christmas Week?",
-        "source": "https://cryptonews.net/news/bitcoin/30248414/",
-        "timestamp": "2024-12-18 21:08:42",
-        "sentToChannel": true
-    },
-    {
-        "title": "Grayscale\u2019s Bitcoin Mini Trust ETF tops $1B in net inflows",
-        "source": "https://cryptonews.net/news/bitcoin/30248968/",
-        "timestamp": "2024-12-18 21:08:42",
-        "sentToChannel": true
-    },
-    {
-        "title": "Self Custody For Me, But Not For Thee",
-        "source": "https://cryptonews.net/news/bitcoin/30248629/",
-        "timestamp": "2024-12-18 21:32:40",
-        "sentToChannel": true
-    },
-    {
-        "title": "Why Is Bitcoin Price Falling? There is Sudden Pullback",
-        "source": "https://cryptonews.net/news/bitcoin/30248956/",
-        "timestamp": "2024-12-18 21:32:40",
-        "sentToChannel": true
-    },
-    {
-        "title": "\ud83d\udd25BREAKING: FED Chairman Jerome Powell Talks About Strategic Bitcoin Reserve in the US",
-        "source": "https://cryptonews.net/news/bitcoin/30248882/",
-        "timestamp": "2024-12-18 21:32:40",
-        "sentToChannel": true
-    },
-    {
-        "title": "Meme coins drive Solana DApp revenue to $365m record",
-        "source": "https://cryptonews.net/news/altcoins/30248883/",
-        "timestamp": "2024-12-18 21:32:41",
-        "sentToChannel": true
-    },
-    {
-        "title": "HBAR Price Eyes Rally To ATH As EQTY Lab Unveils AI Verification Tool On Hedera",
-        "source": "https://cryptonews.net/news/altcoins/30248977/",
-        "timestamp": "2024-12-18 21:32:41",
-        "sentToChannel": true
-    },
-    {
-        "title": "Whale Buys Hyperliquid and Purr Worth $8.94 Million Amid HYPE and PURR Price Surge",
-        "source": "https://cryptonews.net/news/altcoins/30248560/",
-        "timestamp": "2024-12-18 21:32:41",
-        "sentToChannel": true
-    },
-    {
-        "title": "Coinbase Says It Nixed wBTC Because Justin Sun Posed 'Unacceptable Risk'",
-        "source": "https://www.coindesk.com/business/2024/12/17/coinbase-says-it-nixed-w-btc-because-justin-sun-posed-unacceptable-risk",
-        "timestamp": "2024-12-18 21:32:42",
-        "sentToChannel": true
-    },
-    {
         "title": "Aave-Chan initiates proposal to deploy Aave v3 on Sonic",
         "source": "https://cryptonews.net/news/altcoins/30249001/",
         "timestamp": "2024-12-18 21:42:05",
@@ -813,66 +759,66 @@
         "title": "Bukele Is The President of El Salvador, Not Bitcoin",
         "source": "https://cryptonews.net/news/bitcoin/30254940/",
         "timestamp": "2024-12-19 21:09:00",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Sent. Cynthia Lummis to Empower Federal to Hold Bitcoins",
         "source": "https://cryptonews.net/news/bitcoin/30254908/",
         "timestamp": "2024-12-19 21:09:00",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Institutions absorb 8 years\u2019 worth of Bitcoin issuance in 2024",
         "source": "https://cryptonews.net/news/bitcoin/30254793/",
         "timestamp": "2024-12-19 21:09:00",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin Still Viewed as Highly Speculative Asset by Most CFOs",
         "source": "https://cryptonews.net/news/bitcoin/30254653/",
         "timestamp": "2024-12-19 21:09:00",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Is Mt. Gox Behind $1.18 Billion Crypto Liquidations? Here\u2019s What Happened",
         "source": "https://cryptonews.net/news/bitcoin/30255132/",
         "timestamp": "2024-12-19 21:23:51",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin May Rally to $120K After 7% Drop :Says Analyst",
         "source": "https://cryptonews.net/news/bitcoin/30255135/",
         "timestamp": "2024-12-19 21:23:51",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Ohio introduces second Bitcoin reserve bill",
         "source": "https://cryptonews.net/news/bitcoin/30255091/",
         "timestamp": "2024-12-19 21:23:51",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin (BTC) Eyes Potential 11% Drop as Bearish Signals Strengthen",
         "source": "https://cryptonews.net/news/bitcoin/30255120/",
         "timestamp": "2024-12-19 21:23:51",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin loses $100k as markets continue to slide in reaction to Fed\u2019s slower pace for 2025",
         "source": "https://cryptonews.net/news/bitcoin/30255038/",
         "timestamp": "2024-12-19 21:23:51",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Giant Whale Also Lose: Stop-Loss Activated on Altcoin Trade, Where He Previously Made Millions of Dollars in Profit, Sold at a Loss",
         "source": "https://cryptonews.net/news/altcoins/30255105/",
         "timestamp": "2024-12-19 21:23:53",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "The Avalanche Foundation Launches infraBUIDL(AI) Program with up to $15M in Developer Funding",
         "source": "https://cryptonews.net/news/altcoins/30255053/",
         "timestamp": "2024-12-19 21:23:53",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
