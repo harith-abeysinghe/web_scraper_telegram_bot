@@ -754,5 +754,23 @@
         "source": "https://cryptonews.net/news/altcoins/30250224/",
         "timestamp": "2024-12-19 09:11:52",
         "sentToChannel": true
+    },
+    {
+        "title": "Ethereum spot ETF net inflow reaches $145m",
+        "source": "https://cryptonews.net/news/ethereum/30244331/",
+        "timestamp": "2024-12-19 09:43:00",
+        "sentToChannel": false
+    },
+    {
+        "title": "VeChain\u2019s Latest Patent Approval Signals Big Moves Ahead for VET",
+        "source": "https://cryptonews.net/news/altcoins/30250144/",
+        "timestamp": "2024-12-19 09:43:00",
+        "sentToChannel": false
+    },
+    {
+        "title": "Trump-Backed World Liberty Financial Swaps Its cbBTC for WBTC After Sun Joins as Adviser",
+        "source": "https://www.coindesk.com/markets/2024/12/19/trump-backed-world-liberty-financial-swaps-its-cbbtc-for-wbtc-after-sun-joins-as-adviser",
+        "timestamp": "2024-12-19 09:43:00",
+        "sentToChannel": false
     }
 ]
