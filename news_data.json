@@ -1,77 +1,5 @@
 [
     {
-        "title": "Bitcoin Price Prediction \u2013 BTC Price Estimated to Reach $\u202f112,633 By Dec 23, 2024",
-        "source": "https://cryptonews.net/news/bitcoin/30245279/",
-        "timestamp": "2024-12-18 12:19:12",
-        "sentToChannel": true
-    },
-    {
-        "title": "Ethereum (ETH) Bulls Eye Another Shot at $4K",
-        "source": "https://cryptonews.net/news/ethereum/30245472/",
-        "timestamp": "2024-12-18 12:19:12",
-        "sentToChannel": true
-    },
-    {
-        "title": "Binance Abruptly Deletes Alpha Watchlist Tokens, Spurring Unforeseen Pump and Dump",
-        "source": "https://www.coindesk.com/business/2024/12/18/binance-abruptly-deletes-alpha-watchlist-tokens-spurring-unforeseen-pump-and-dump",
-        "timestamp": "2024-12-18 12:19:13",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitwise CIO Matt Hougan Says Bitcoin Will Hit $500,000 if US Reserve Bill Passes",
-        "source": "https://cryptonews.net/news/bitcoin/30244572/",
-        "timestamp": "2024-12-18 12:55:45",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin (BTC) Falls to $103K After Hitting Record High of $108K",
-        "source": "https://cryptonews.net/news/bitcoin/30245469/",
-        "timestamp": "2024-12-18 12:55:45",
-        "sentToChannel": true
-    },
-    {
-        "title": "WazirX's WRX Plunges 60% After Binance Delisting, Dampening Hopes of a 'Fresh Start'",
-        "source": "https://www.coindesk.com/markets/2024/12/18/wazir-xs-wrx-plunges-60-after-binance-delisting-dampening-hopes-of-a-fresh-start",
-        "timestamp": "2024-12-18 12:55:46",
-        "sentToChannel": true
-    },
-    {
-        "title": "RWA-Focused Network Plume Raises $20M from Brevan Howard and Others Ahead of Mainnet Launch",
-        "source": "https://www.coindesk.com/business/2024/12/18/rwa-focused-network-plume-raises-20-m-from-brevan-howard-and-others-ahead-of-mainnet-launch",
-        "timestamp": "2024-12-18 13:20:44",
-        "sentToChannel": true
-    },
-    {
-        "title": "Custody Firm Taurus Partners With Temenos Bringing Crypto Wallets to Thousands of Banks",
-        "source": "https://www.coindesk.com/business/2024/12/18/custody-firm-taurus-partners-with-temenos-bringing-crypto-wallets-to-thousands-of-banks",
-        "timestamp": "2024-12-18 13:20:44",
-        "sentToChannel": true
-    },
-    {
-        "title": "Ethereum Risks Breakdown to $3,378 as Bears Threaten $3,800 Support",
-        "source": "https://cryptonews.net/news/ethereum/30245613/",
-        "timestamp": "2024-12-18 13:39:53",
-        "sentToChannel": true
-    },
-    {
-        "title": "IOTA News: Arnold Schwarzenegger Shows Interest in IOTA as Rebased Welcomes 3 New Validator Nodes",
-        "source": "https://cryptonews.net/news/altcoins/30246110/",
-        "timestamp": "2024-12-18 13:39:54",
-        "sentToChannel": true
-    },
-    {
-        "title": "Crypto whale turns $3.46M into $1.83M, takes big hit after PENGU airdrop",
-        "source": "https://cryptonews.net/news/altcoins/30246101/",
-        "timestamp": "2024-12-18 13:53:33",
-        "sentToChannel": true
-    },
-    {
-        "title": "Tether Invests in MiCA-Compliant Stablecoin Issuer StablR",
-        "source": "https://www.coindesk.com/business/2024/12/17/tether-invests-in-mi-ca-compliant-stablecoin-issuer-stabl-r",
-        "timestamp": "2024-12-18 13:53:34",
-        "sentToChannel": true
-    },
-    {
         "title": "Coinbase Alums Patchwork Take Next Step Toward No-Code Blockchain Development",
         "source": "https://www.coindesk.com/business/2024/12/18/coinbase-alums-patchwork-take-next-step-toward-no-code-blockchain-development",
         "timestamp": "2024-12-18 14:09:50",
@@ -801,114 +729,114 @@
         "title": "Will Bitcoin Price Crash to $40,000?",
         "source": "https://cryptonews.net/news/bitcoin/30250434/",
         "timestamp": "2024-12-19 11:52:07",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "As Bitcoin (BTC) Price Drops to $98k: Will It Crash to $90k?",
         "source": "https://cryptonews.net/news/bitcoin/30251646/",
         "timestamp": "2024-12-19 12:19:09",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "10% of Ethereum validators signal gas limit increase",
         "source": "https://cryptonews.net/news/ethereum/30251960/",
         "timestamp": "2024-12-19 12:19:10",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Is an Ethereum Price Crash Imminent?",
         "source": "https://cryptonews.net/news/ethereum/30251873/",
         "timestamp": "2024-12-19 12:19:10",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Ethereum (ETH) Price Prediction For December 19: Sell Signals Emerge",
         "source": "https://cryptonews.net/news/ethereum/30251492/",
         "timestamp": "2024-12-19 12:19:10",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Hoskinson Denies XRP and HBAR Inclusion in Trump\u2019s Crypto Reserve Plan",
         "source": "https://cryptonews.net/news/altcoins/30251585/",
         "timestamp": "2024-12-19 12:19:11",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Ripple CTO Explains Why XRP Still Matters",
         "source": "https://cryptonews.net/news/altcoins/30251637/",
         "timestamp": "2024-12-19 12:19:11",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "IOTA Rebased Welcomes Next Round of Testnet Validators",
         "source": "https://cryptonews.net/news/altcoins/30251931/",
         "timestamp": "2024-12-19 12:19:11",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "VIX's Second-Largest Spike in History Indicates a Local Bottom for Bitcoin: Van Straten",
         "source": "https://www.coindesk.com/markets/2024/12/19/vixs-second-largest-spike-in-history-indicates-a-local-bottom-for-bitcoin-van-straten",
         "timestamp": "2024-12-19 12:19:12",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Chinese Company That Is A Master At Finding Bottoms And Tops Bought This Altcoin During The Recent Drop!",
         "source": "https://cryptonews.net/news/ethereum/30251830/",
         "timestamp": "2024-12-19 12:56:21",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Ethereum (ETH) Comeback Imminent? Key Reasons Why $5,000 Is Real Again",
         "source": "https://cryptonews.net/news/ethereum/30251846/",
         "timestamp": "2024-12-19 12:56:21",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "131.2 Million SHIB Torched, But There's Big Catch Here",
         "source": "https://cryptonews.net/news/altcoins/30252019/",
         "timestamp": "2024-12-19 12:56:21",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "WallStreetBets Founder Tips Cardano To Become \u201cOfficial Lobbyist Currency\u201d in 2025",
         "source": "https://cryptonews.net/news/altcoins/30251921/",
         "timestamp": "2024-12-19 12:56:21",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Ripple President Sheds Key Light on RLUSD Days After Launch",
         "source": "https://cryptonews.net/news/altcoins/30251915/",
         "timestamp": "2024-12-19 12:56:21",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Michael Saylor Makes Bold Statements About Bitcoin (BTC) and Trump: \"We Will Change Our Strategy!\"",
         "source": "https://cryptonews.net/news/bitcoin/30252298/",
         "timestamp": "2024-12-19 13:21:26",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin's market cap reaches new all-time high against gold",
         "source": "https://cryptonews.net/news/bitcoin/30252385/",
         "timestamp": "2024-12-19 13:21:26",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Terra Luna Classic Votes on Proposal to Revise LUNC Burn Tax to 1.5%",
         "source": "https://cryptonews.net/news/altcoins/30252132/",
         "timestamp": "2024-12-19 13:21:28",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Human Rights Foundation Donates 700,000,000 Satoshis To Fund Bitcoin Development And Projects",
         "source": "https://cryptonews.net/news/bitcoin/30252409/",
         "timestamp": "2024-12-19 13:40:06",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Founder of DeFi Giant Curve Gets Liquidated Again as CRV Slumps",
         "source": "https://www.coindesk.com/business/2024/12/19/founder-of-de-fi-giant-curve-gets-liquidated-again-as-crv-slumps",
         "timestamp": "2024-12-19 13:47:06",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
