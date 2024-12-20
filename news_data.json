@@ -1,47 +1,5 @@
 [
     {
-        "title": "Early Shiba Inu Investor Sells 400B SHIB in Latest Dip, Nets $9.59M Profit",
-        "source": "https://cryptonews.net/news/altcoins/30250501/",
-        "timestamp": "2024-12-19 10:11:18",
-        "sentToChannel": true
-    },
-    {
-        "title": "Polygon \u2013 Assessing impact of $41.2M whale dump on POL",
-        "source": "https://cryptonews.net/news/altcoins/30251204/",
-        "timestamp": "2024-12-19 10:11:18",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin Exchange Reserves Hit Record Low Could Hit $120K Soon!",
-        "source": "https://cryptonews.net/news/bitcoin/30251050/",
-        "timestamp": "2024-12-19 10:36:01",
-        "sentToChannel": true
-    },
-    {
-        "title": "Expert Says Bitcoin is The Best Trade You Ever See But Warns Against Leverage Use",
-        "source": "https://cryptonews.net/news/bitcoin/30250782/",
-        "timestamp": "2024-12-19 10:36:01",
-        "sentToChannel": true
-    },
-    {
-        "title": "Dutch Entrepreneur Urges Netherlands Gov to Establish Bitcoin Reserve",
-        "source": "https://cryptonews.net/news/bitcoin/30251167/",
-        "timestamp": "2024-12-19 10:36:01",
-        "sentToChannel": true
-    },
-    {
-        "title": "Pundit Says Don\u2019t Sell Your XRP Until These Seven Things Happen",
-        "source": "https://cryptonews.net/news/altcoins/30250633/",
-        "timestamp": "2024-12-19 10:36:02",
-        "sentToChannel": true
-    },
-    {
-        "title": "U.S. Listed Spot Bitcoin ETFs on the Verge of Surpassing Gold ETFs",
-        "source": "https://www.coindesk.com/markets/2024/12/19/u-s-listed-spot-bitcoin-etfs-on-the-verge-of-surpassing-gold-etfs",
-        "timestamp": "2024-12-19 10:36:02",
-        "sentToChannel": true
-    },
-    {
         "title": "Massive 400 Billion SHIB from Early Whale Stuns Major US Exchange",
         "source": "https://cryptonews.net/news/altcoins/30250972/",
         "timestamp": "2024-12-19 10:46:33",
@@ -867,36 +825,36 @@
         "title": "Bitcoin Dips and Kiyosaki\u2019s Buying Message Gains Traction",
         "source": "https://cryptonews.net/news/bitcoin/30257595/",
         "timestamp": "2024-12-20 10:33:29",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Ark Investment CEO Cathie Wood predicts Bitcoin to hit $1M by 2030",
         "source": "https://cryptonews.net/news/bitcoin/30257134/",
         "timestamp": "2024-12-20 10:33:29",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Ethereum price drop forces whales to sell ETH in millions to repay debts",
         "source": "https://cryptonews.net/news/ethereum/30257067/",
         "timestamp": "2024-12-20 10:33:30",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Injective and Sonic SVM Partners to Launch the First Cross-Chain AI Agent Platform",
         "source": "https://cryptonews.net/news/altcoins/30257571/",
         "timestamp": "2024-12-20 10:33:30",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Shiba Inu to $0.01 Closer to Reality? Why a Key Chainlink Partnership is Stirring Hopes",
         "source": "https://cryptonews.net/news/altcoins/30256737/",
         "timestamp": "2024-12-20 10:33:30",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Crypto Custody Firm Copper Withdraws U.K Registration Application",
         "source": "https://www.coindesk.com/business/2024/12/20/crypto-custody-firm-copper-withdraws-u-k-registration-application",
         "timestamp": "2024-12-20 10:33:34",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
