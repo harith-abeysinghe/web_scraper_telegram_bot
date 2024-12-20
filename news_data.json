@@ -1,35 +1,5 @@
 [
     {
-        "title": "Bitcoin Exchange Holdings Plummet: 200K BTC Withdrawn in 60 Days",
-        "source": "https://cryptonews.net/news/bitcoin/30250442/",
-        "timestamp": "2024-12-19 08:13:48",
-        "sentToChannel": true
-    },
-    {
-        "title": "BTC reclaims $100K but weekly chart forming \u2018bearish engulfing\u2019 candlestick",
-        "source": "https://cryptonews.net/news/bitcoin/30250479/",
-        "timestamp": "2024-12-19 08:13:48",
-        "sentToChannel": true
-    },
-    {
-        "title": "Hawkish Fed Has Bitcoin Market Showing Strongest Bias for Downside Protection in 3 Months",
-        "source": "https://cryptonews.net/news/bitcoin/30250383/",
-        "timestamp": "2024-12-19 08:36:27",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin's Astronomical Returns: 14,211 New Millionaires and 4 New Billionaires Emerge",
-        "source": "https://cryptonews.net/news/bitcoin/30250086/",
-        "timestamp": "2024-12-19 08:48:52",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin Slips Below $100K: Is The Rally Losing Steam?",
-        "source": "https://cryptonews.net/news/bitcoin/30249801/",
-        "timestamp": "2024-12-19 08:48:52",
-        "sentToChannel": true
-    },
-    {
         "title": "$1.50 Trillion Wiped Out of US Stock Market, So Why is the Crypto Market Dumping and When Will it Recover?",
         "source": "https://cryptonews.net/news/bitcoin/30250127/",
         "timestamp": "2024-12-19 08:55:30",
@@ -855,90 +825,90 @@
         "title": "Bitcoin's trajectory shows similarities with previous cycles as long-term holders book profits of $2.1 billion",
         "source": "https://cryptonews.net/news/bitcoin/30256310/",
         "timestamp": "2024-12-20 08:13:15",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "This Man Sold His House for Bitcoin in 2017\u2014Now He Can Buy 25 Homes",
         "source": "https://cryptonews.net/news/bitcoin/30254857/",
         "timestamp": "2024-12-20 08:13:15",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin Technical Analysis: Intraday Support at $98K Tested as $104K Resistance Looms",
         "source": "https://cryptonews.net/news/bitcoin/30252807/",
         "timestamp": "2024-12-20 08:13:15",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Blockstream\u2019s Adam Back defends BlackRock ad that questioned Bitcoin\u2019s 21M cap",
         "source": "https://cryptonews.net/news/bitcoin/30256295/",
         "timestamp": "2024-12-20 08:34:29",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Top Football Prospect to Be Paid in Bitcoin After Cinching College Contract",
         "source": "https://cryptonews.net/news/bitcoin/30256818/",
         "timestamp": "2024-12-20 08:34:29",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Metaplanet Bitcoin Strategy: $33M Bonds Issued to Expand BTC Holdings",
         "source": "https://cryptonews.net/news/bitcoin/30256360/",
         "timestamp": "2024-12-20 08:34:29",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "New El Salvador Bitcoin Purchase Boosted With 11 BTC",
         "source": "https://cryptonews.net/news/bitcoin/30256916/",
         "timestamp": "2024-12-20 08:34:29",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Stablecoins are the \u201ckiller use case\u201d for crypto, says experts amid MoonPay and RLUSD partnership",
         "source": "https://cryptonews.net/news/altcoins/30256373/",
         "timestamp": "2024-12-20 08:34:30",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Polygon AggLayer Testnet Launched: Is POL Heading to $1?",
         "source": "https://cryptonews.net/news/altcoins/30256742/",
         "timestamp": "2024-12-20 08:34:30",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "US Bitcoin ETFs see historic outflows as brutal sell-off shakes crypto markets",
         "source": "https://cryptonews.net/news/bitcoin/30256562/",
         "timestamp": "2024-12-20 08:46:16",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Crypto chatter about \u2018buying the dip\u2019 hits 8-month high: Santiment",
         "source": "https://cryptonews.net/news/bitcoin/30257012/",
         "timestamp": "2024-12-20 08:46:16",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "\ud83d\udd25As Bitcoin's Post-Fed Price Dip Extends, This Key Contrary Indicator Offers Fresh Hope: Godbole",
         "source": "https://cryptonews.net/news/bitcoin/30256407/",
         "timestamp": "2024-12-20 08:46:16",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Trump Crypto Project Buys 722 Ethereum Worth $2.5M Amid Dip",
         "source": "https://cryptonews.net/news/ethereum/30256598/",
         "timestamp": "2024-12-20 08:46:17",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "GalaChain Pioneers BFT on Hyperledger, Paving the Way for Next-Level Decentralization",
         "source": "https://cryptonews.net/news/altcoins/30256430/",
         "timestamp": "2024-12-20 08:46:17",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "BG Labs Partners with IOST to Revolutionize Web3 Gaming and DApps",
         "source": "https://cryptonews.net/news/altcoins/30256468/",
         "timestamp": "2024-12-20 08:46:17",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
