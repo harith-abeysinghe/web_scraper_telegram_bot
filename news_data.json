@@ -1,11 +1,5 @@
 [
     {
-        "title": "Watch Out: Shiba Inu (SHIB) Team Issues a Crucial Warning to the Community",
-        "source": "https://cryptonews.net/news/altcoins/30249938/",
-        "timestamp": "2024-12-19 05:10:53",
-        "sentToChannel": true
-    },
-    {
         "title": "Bitcoin's Nosedive to Under $100K Shaves $700M Crypto Longs, XRP Drops 5%",
         "source": "https://www.coindesk.com/markets/2024/12/19/bitcoins-nosedive-to-under-100-k-shaves-700-m-crypto-longs-xrp-drops-5",
         "timestamp": "2024-12-19 06:53:07",
@@ -885,6 +879,6 @@
         "title": "Ethereum (ETH) Price Prediction For December 20",
         "source": "https://cryptonews.net/news/ethereum/30256286/",
         "timestamp": "2024-12-20 05:09:58",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
