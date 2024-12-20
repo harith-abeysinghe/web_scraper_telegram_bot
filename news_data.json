@@ -922,5 +922,17 @@
         "source": "https://www.coindesk.com/business/2024/12/19/bitcoin-miner-hut-8-buys-usd100m-btc-boosting-total-total-stash-to-usd1b",
         "timestamp": "2024-12-20 11:52:09",
         "sentToChannel": true
+    },
+    {
+        "title": "Bitcoin Demand Hits 3-Year High; Signs of 2015-2018 Bull Run Reappear",
+        "source": "https://cryptonews.net/news/bitcoin/30258141/",
+        "timestamp": "2024-12-20 12:52:12",
+        "sentToChannel": false
+    },
+    {
+        "title": "Ripple\u2019s XRP Ledger Leads Institutional RWA Tokenization With New Partnerships",
+        "source": "https://cryptonews.net/news/altcoins/30258429/",
+        "timestamp": "2024-12-20 12:52:13",
+        "sentToChannel": false
     }
 ]
