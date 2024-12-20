@@ -1,35 +1,5 @@
 [
     {
-        "title": "Bitcoin in Bhutan: Charting Its Own Course of Economic Development",
-        "source": "https://cryptonews.net/news/bitcoin/30254047/",
-        "timestamp": "2024-12-19 18:37:15",
-        "sentToChannel": true
-    },
-    {
-        "title": "Stablecoin Payments Platform BVNK Raises $50M to Fuel U.S. Expansion",
-        "source": "https://www.coindesk.com/business/2024/12/17/stablecoin-payments-platform-bvnk-raises-50-m-to-fuel-u-s-expansion",
-        "timestamp": "2024-12-19 18:37:19",
-        "sentToChannel": true
-    },
-    {
-        "title": "Layer-2 Network Fuel to Airdrop 10% of New Token Supply to 200K Wallets",
-        "source": "https://www.coindesk.com/business/2024/12/17/layer-2-network-fuel-to-airdrop-10-of-new-token-supply-to-200-k-wallets",
-        "timestamp": "2024-12-19 18:37:19",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin price has legs above $100K despite holders booking record profits \u2014 Analysis",
-        "source": "https://cryptonews.net/news/bitcoin/30254656/",
-        "timestamp": "2024-12-19 19:07:29",
-        "sentToChannel": true
-    },
-    {
-        "title": "Hawk Tuah Investors Sue Meme Coin Promoters, Allege Securities Violations",
-        "source": "https://cryptonews.net/news/altcoins/30254325/",
-        "timestamp": "2024-12-19 19:07:30",
-        "sentToChannel": true
-    },
-    {
         "title": "Ethereum (ETH) Loses Steam as Fed Rate Cut Fails to Fuel $4,500 Breakout",
         "source": "https://cryptonews.net/news/ethereum/30254611/",
         "timestamp": "2024-12-19 19:19:56",
@@ -777,60 +747,60 @@
         "title": "Top Reasons Why Ethereum Price is Down Today?",
         "source": "https://cryptonews.net/news/ethereum/30260342/",
         "timestamp": "2024-12-20 18:13:01",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin Comeback? Ex-Binance CEO CZ Teases New All-Time High",
         "source": "https://cryptonews.net/news/bitcoin/30260104/",
         "timestamp": "2024-12-20 18:35:39",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin (BTC) Price Prediction for December 20",
         "source": "https://cryptonews.net/news/bitcoin/30259890/",
         "timestamp": "2024-12-20 18:35:39",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin dips to $92K in \u2018optimal dip-buying\u2019 move as PCE boosts crypto",
         "source": "https://cryptonews.net/news/bitcoin/30260520/",
         "timestamp": "2024-12-20 18:35:39",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Why is Bitcoin Crashing? How Low Could the Price Go?",
         "source": "https://cryptonews.net/news/bitcoin/30259843/",
         "timestamp": "2024-12-20 18:35:39",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Mystery 666 BTC Transfer Leads to Half Billion Bitcoin Puzzle",
         "source": "https://cryptonews.net/news/bitcoin/30259887/",
         "timestamp": "2024-12-20 18:35:39",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Ethereum ETFs surge in December as inflows hit $1.66 billion, dominated by BlackRock's ETHA",
         "source": "https://cryptonews.net/news/ethereum/30260548/",
         "timestamp": "2024-12-20 18:35:39",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Haliey Welch has \u2018woken up\u2019 weeks after Hawk Tuah crypto crash",
         "source": "https://cryptonews.net/news/altcoins/30260182/",
         "timestamp": "2024-12-20 18:35:40",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Hyperliquid\u2019s HYPE token surges past $10 billion market cap",
         "source": "https://cryptonews.net/news/altcoins/30260357/",
         "timestamp": "2024-12-20 18:46:10",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Quantum BioPharma invests $1M in BTC, cryptos for treasury diversification",
         "source": "https://cryptonews.net/news/bitcoin/30260639/",
         "timestamp": "2024-12-20 18:53:04",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
