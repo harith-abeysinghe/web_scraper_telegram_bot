@@ -1,11 +1,5 @@
 [
     {
-        "title": "Bitcoin drops below $100,000 after Fed Chair Powell\u2019s comment against BTC reserve",
-        "source": "https://cryptonews.net/news/bitcoin/30249899/",
-        "timestamp": "2024-12-19 04:12:48",
-        "sentToChannel": true
-    },
-    {
         "title": "Watch Out: Shiba Inu (SHIB) Team Issues a Crucial Warning to the Community",
         "source": "https://cryptonews.net/news/altcoins/30249938/",
         "timestamp": "2024-12-19 05:10:53",
@@ -879,12 +873,12 @@
         "title": "Ethereum Price Takes a Plunge: Can Bulls Step In?",
         "source": "https://cryptonews.net/news/ethereum/30255991/",
         "timestamp": "2024-12-20 04:12:22",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Arbitrum Whales Bought 40 Million ARB Tokens over the Past One Week: Crypto Trader Ali Martinez",
         "source": "https://cryptonews.net/news/altcoins/30255986/",
         "timestamp": "2024-12-20 04:12:23",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
