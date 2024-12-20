@@ -1,11 +1,5 @@
 [
     {
-        "title": "Will Bitcoin Price Crash to $40,000?",
-        "source": "https://cryptonews.net/news/bitcoin/30250434/",
-        "timestamp": "2024-12-19 11:52:07",
-        "sentToChannel": true
-    },
-    {
         "title": "As Bitcoin (BTC) Price Drops to $98k: Will It Crash to $90k?",
         "source": "https://cryptonews.net/news/bitcoin/30251646/",
         "timestamp": "2024-12-19 12:19:09",
@@ -921,12 +915,12 @@
         "title": "Bitcoin Miners Are Expected to be Profitable in December, Jefferies Says",
         "source": "https://www.coindesk.com/markets/2024/12/19/bitcoin-miners-are-expected-to-be-profitable-in-december-jefferies-says",
         "timestamp": "2024-12-20 11:52:08",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin Miner Hut 8 Buys $100M BTC Boosting Total Total Stash to $1B",
         "source": "https://www.coindesk.com/business/2024/12/19/bitcoin-miner-hut-8-buys-usd100m-btc-boosting-total-total-stash-to-usd1b",
         "timestamp": "2024-12-20 11:52:09",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
