@@ -814,5 +814,11 @@
         "source": "https://cryptonews.net/news/bitcoin/30260195/",
         "timestamp": "2024-12-20 20:37:58",
         "sentToChannel": true
+    },
+    {
+        "title": "Bitcoin Dips Below $96K While CoinDesk 20 Plunges 10% Amid Fed-Spurred Rout; SOL Surrenders Post-Election Rally",
+        "source": "https://www.coindesk.com/markets/2024/12/19/bitcoin-dips-below-98-k-while-coin-desk-20-plunges-10-amid-fed-spurred-rout-sol-surrenders-post-election-rally",
+        "timestamp": "2024-12-20 20:52:10",
+        "sentToChannel": false
     }
 ]
