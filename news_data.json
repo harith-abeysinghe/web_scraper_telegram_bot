@@ -1,11 +1,5 @@
 [
     {
-        "title": "21Shares registers Polkadot Trust in Delaware",
-        "source": "https://cryptonews.net/news/altcoins/30255530/",
-        "timestamp": "2024-12-19 23:24:25",
-        "sentToChannel": true
-    },
-    {
         "title": "Rapidly-growing stablecoin issuer Usual latest to use M^0 infrastructure to launch token",
         "source": "https://cryptonews.net/news/altcoins/30255636/",
         "timestamp": "2024-12-19 23:32:38",
@@ -801,6 +795,6 @@
         "title": "Scaramucci defends MicroStrategy\u2019s Bitcoin spending, says there is nothing for investors to fear",
         "source": "https://cryptonews.net/news/bitcoin/30261412/",
         "timestamp": "2024-12-20 23:09:07",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
