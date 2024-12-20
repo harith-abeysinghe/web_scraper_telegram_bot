@@ -874,5 +874,17 @@
         "source": "https://cryptonews.net/news/bitcoin/30255977/",
         "timestamp": "2024-12-20 03:35:10",
         "sentToChannel": true
+    },
+    {
+        "title": "Ethereum Price Takes a Plunge: Can Bulls Step In?",
+        "source": "https://cryptonews.net/news/ethereum/30255991/",
+        "timestamp": "2024-12-20 04:12:22",
+        "sentToChannel": false
+    },
+    {
+        "title": "Arbitrum Whales Bought 40 Million ARB Tokens over the Past One Week: Crypto Trader Ali Martinez",
+        "source": "https://cryptonews.net/news/altcoins/30255986/",
+        "timestamp": "2024-12-20 04:12:23",
+        "sentToChannel": false
     }
 ]
