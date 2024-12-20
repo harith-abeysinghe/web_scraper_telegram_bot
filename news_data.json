@@ -844,5 +844,23 @@
         "source": "https://www.coindesk.com/markets/2024/12/19/vixs-second-largest-spike-in-history-indicates-a-local-bottom-for-bitcoin-van-straten",
         "timestamp": "2024-12-20 13:41:49",
         "sentToChannel": true
+    },
+    {
+        "title": "Debate over Ethereum gas limit: Lower fees vs. Network stability",
+        "source": "https://cryptonews.net/news/ethereum/30258627/",
+        "timestamp": "2024-12-20 14:08:58",
+        "sentToChannel": false
+    },
+    {
+        "title": "VeChain Simplifies Web3 with Social Login Wallet Management",
+        "source": "https://cryptonews.net/news/altcoins/30258641/",
+        "timestamp": "2024-12-20 14:08:58",
+        "sentToChannel": false
+    },
+    {
+        "title": "Founder of DeFi Giant Curve Gets Liquidated Again as CRV Slumps",
+        "source": "https://www.coindesk.com/business/2024/12/19/founder-of-de-fi-giant-curve-gets-liquidated-again-as-crv-slumps",
+        "timestamp": "2024-12-20 14:08:59",
+        "sentToChannel": false
     }
 ]
