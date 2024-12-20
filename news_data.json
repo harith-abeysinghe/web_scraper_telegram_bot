@@ -1,35 +1,5 @@
 [
     {
-        "title": "YouTuber\u2019s meme coin Unicorn Fart Dust hits $240 million market cap in just 48 hours",
-        "source": "https://cryptonews.net/news/altcoins/30254828/",
-        "timestamp": "2024-12-19 20:10:59",
-        "sentToChannel": true
-    },
-    {
-        "title": "Crypto trader turns $90 into $3.25 million in just two days",
-        "source": "https://cryptonews.net/news/altcoins/30254713/",
-        "timestamp": "2024-12-19 20:10:59",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bollinger Bands point to explosive Bitcoin price upside, but how high?",
-        "source": "https://cryptonews.net/news/bitcoin/30254977/",
-        "timestamp": "2024-12-19 20:29:54",
-        "sentToChannel": true
-    },
-    {
-        "title": "El Salvador plans to ramp up Bitcoin purchases next year for its strategic reserve",
-        "source": "https://cryptonews.net/news/bitcoin/30254567/",
-        "timestamp": "2024-12-19 20:29:54",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin Dips Below $96K While CoinDesk 20 Plunges 10% Amid Fed-Spurred Rout; SOL Surrenders Post-Election Rally",
-        "source": "https://www.coindesk.com/markets/2024/12/19/bitcoin-dips-below-98-k-while-coin-desk-20-plunges-10-amid-fed-spurred-rout-sol-surrenders-post-election-rally",
-        "timestamp": "2024-12-19 20:29:56",
-        "sentToChannel": true
-    },
-    {
         "title": "Bitcoin Slips to $101K, Altcoins Spiraling on Federal Reserve's Hawkish Tone",
         "source": "https://www.coindesk.com/markets/2024/12/18/fed-cuts-interest-rates-by-25-basis-points-bitcoin-slips-below-104-k-on-hawkish-tone",
         "timestamp": "2024-12-19 20:45:56",
@@ -783,66 +753,66 @@
         "title": "Bitcoin Balances on a Razor's Edge: Is a Breakout or Breakdown Looming?",
         "source": "https://cryptonews.net/news/bitcoin/30260763/",
         "timestamp": "2024-12-20 20:10:56",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin (BTC) Hourly Death Cross Emerges: Details",
         "source": "https://cryptonews.net/news/bitcoin/30260144/",
         "timestamp": "2024-12-20 20:29:17",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Ethereum to ramp up gas limit as Pectra progresses",
         "source": "https://cryptonews.net/news/ethereum/30260487/",
         "timestamp": "2024-12-20 20:29:19",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "ETH Whale Selling? Ethereum Price Risks $3000 Collapse",
         "source": "https://cryptonews.net/news/ethereum/30260694/",
         "timestamp": "2024-12-20 20:29:19",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Ether ETFs poised to surge in 2025, analysts say",
         "source": "https://cryptonews.net/news/ethereum/30260912/",
         "timestamp": "2024-12-20 20:29:19",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Top Gainers in the Crypto Market: $CKP Leads With a 45.6% Surge",
         "source": "https://cryptonews.net/news/altcoins/30260194/",
         "timestamp": "2024-12-20 20:29:19",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "DeFi Protocol Usual's Surge Catapults Hashnote's Tokenized Treasury Over BlackRock's BUIDL",
         "source": "https://www.coindesk.com/markets/2024/12/20/de-fi-protocol-usuals-surge-catapults-hashnotes-tokenized-treasury-over-black-rocks-buidl",
         "timestamp": "2024-12-20 20:29:20",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin Under Siege: Bearish Pressure Keeps Price Below $99,575",
         "source": "https://cryptonews.net/news/bitcoin/30260298/",
         "timestamp": "2024-12-20 20:37:58",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "BTC\u2019s Technical Outlook: Is $96K the New Battleground for Bulls?",
         "source": "https://cryptonews.net/news/bitcoin/30261005/",
         "timestamp": "2024-12-20 20:37:58",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "I don\u2019t support a Strategic Bitcoin Reserve, and neither should you",
         "source": "https://cryptonews.net/news/bitcoin/30260246/",
         "timestamp": "2024-12-20 20:37:58",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Michael Saylor Issues Bitcoin Statement Amid Ongoing Crypto Market Turmoil",
         "source": "https://cryptonews.net/news/bitcoin/30260195/",
         "timestamp": "2024-12-20 20:37:58",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
