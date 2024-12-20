@@ -778,5 +778,35 @@
         "source": "https://cryptonews.net/news/bitcoin/30261180/",
         "timestamp": "2024-12-20 21:51:58",
         "sentToChannel": true
+    },
+    {
+        "title": "Donald Trump's WLFI Buys the Dip with $2.5M Ethereum",
+        "source": "https://cryptonews.net/news/ethereum/30261447/",
+        "timestamp": "2024-12-20 22:28:02",
+        "sentToChannel": false
+    },
+    {
+        "title": "Solana liquid staking startup Sanctum trials \u2018creator coins\u2019",
+        "source": "https://cryptonews.net/news/altcoins/30261422/",
+        "timestamp": "2024-12-20 22:28:03",
+        "sentToChannel": false
+    },
+    {
+        "title": "Hedera Foundation Appoints Charles Adkins as CEO, What\u2019s Next?",
+        "source": "https://cryptonews.net/news/altcoins/30261258/",
+        "timestamp": "2024-12-20 22:28:03",
+        "sentToChannel": false
+    },
+    {
+        "title": "Tether Takes $775M Stake in Video-Sharing Platform Rumble; RUM Shares Soar 41%",
+        "source": "https://www.coindesk.com/business/2024/12/20/tether-takes-75-m-stake-in-video-sharing-platform-rumble",
+        "timestamp": "2024-12-20 22:28:04",
+        "sentToChannel": false
+    },
+    {
+        "title": "Aptos Labs CEO Mo Shaikh Quits; Avery Ching to Take His Place",
+        "source": "https://www.coindesk.com/business/2024/12/19/aptos-labs-ceo-mo-shaikh-quits-avery-ching-to-take-his-place",
+        "timestamp": "2024-12-20 22:28:04",
+        "sentToChannel": false
     }
 ]
