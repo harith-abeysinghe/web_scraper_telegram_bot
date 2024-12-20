@@ -1,17 +1,5 @@
 [
     {
-        "title": "Human Rights Foundation Donates 700,000,000 Satoshis To Fund Bitcoin Development And Projects",
-        "source": "https://cryptonews.net/news/bitcoin/30252409/",
-        "timestamp": "2024-12-19 13:40:06",
-        "sentToChannel": true
-    },
-    {
-        "title": "Founder of DeFi Giant Curve Gets Liquidated Again as CRV Slumps",
-        "source": "https://www.coindesk.com/business/2024/12/19/founder-of-de-fi-giant-curve-gets-liquidated-again-as-crv-slumps",
-        "timestamp": "2024-12-19 13:47:06",
-        "sentToChannel": true
-    },
-    {
         "title": "WazirX's WRX Plunges 60% After Binance Delisting, Dampening Hopes of a 'Fresh Start'",
         "source": "https://www.coindesk.com/markets/2024/12/18/wazir-xs-wrx-plunges-60-after-binance-delisting-dampening-hopes-of-a-fresh-start",
         "timestamp": "2024-12-19 14:09:35",
@@ -855,6 +843,6 @@
         "title": "VIX's Second-Largest Spike in History Indicates a Local Bottom for Bitcoin: Van Straten",
         "source": "https://www.coindesk.com/markets/2024/12/19/vixs-second-largest-spike-in-history-indicates-a-local-bottom-for-bitcoin-van-straten",
         "timestamp": "2024-12-20 13:41:49",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
