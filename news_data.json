@@ -856,5 +856,11 @@
         "source": "https://www.coindesk.com/business/2024/12/20/crypto-custody-firm-copper-withdraws-u-k-registration-application",
         "timestamp": "2024-12-20 10:33:34",
         "sentToChannel": true
+    },
+    {
+        "title": "U.S. Listed Spot Bitcoin ETFs on the Verge of Surpassing Gold ETFs",
+        "source": "https://www.coindesk.com/markets/2024/12/19/u-s-listed-spot-bitcoin-etfs-on-the-verge-of-surpassing-gold-etfs",
+        "timestamp": "2024-12-20 10:52:11",
+        "sentToChannel": false
     }
 ]
