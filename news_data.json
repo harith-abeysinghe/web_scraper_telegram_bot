@@ -1,17 +1,5 @@
 [
     {
-        "title": "Shiba Inu Team Explains What Shibarium Has Done for SHIB",
-        "source": "https://cryptonews.net/news/altcoins/30250346/",
-        "timestamp": "2024-12-19 09:52:10",
-        "sentToChannel": true
-    },
-    {
-        "title": "Michael Egorov Dismisses Curve DAO Liquidation Claim, CRV Dips 13%",
-        "source": "https://cryptonews.net/news/altcoins/30250548/",
-        "timestamp": "2024-12-19 09:52:10",
-        "sentToChannel": true
-    },
-    {
         "title": "Early Shiba Inu Investor Sells 400B SHIB in Latest Dip, Nets $9.59M Profit",
         "source": "https://cryptonews.net/news/altcoins/30250501/",
         "timestamp": "2024-12-19 10:11:18",
@@ -867,12 +855,12 @@
         "title": "Spot Bitcoin ETFs See Record Withdrawals as CME Futures Premium Signals Weaker Demand",
         "source": "https://www.coindesk.com/markets/2024/12/20/spot-bitcoin-etfs-see-record-withdrawals-as-cme-futures-premium-signals-weaker-demand",
         "timestamp": "2024-12-20 09:52:07",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Trump-Backed World Liberty Financial Swaps Its cbBTC for WBTC After Sun Joins as Adviser",
         "source": "https://www.coindesk.com/markets/2024/12/19/trump-backed-world-liberty-financial-swaps-its-cbbtc-for-wbtc-after-sun-joins-as-adviser",
         "timestamp": "2024-12-20 09:52:07",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
