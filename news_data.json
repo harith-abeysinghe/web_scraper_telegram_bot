@@ -1,23 +1,5 @@
 [
     {
-        "title": "Mint Unleashes 50M $MINT and 750K $OP to Accelerate NFT Innovation",
-        "source": "https://cryptonews.net/news/altcoins/30249818/",
-        "timestamp": "2024-12-19 07:43:27",
-        "sentToChannel": true
-    },
-    {
-        "title": "Fund Created in the US for a Surprise Altcoin \u2013 ETF Footsteps?",
-        "source": "https://cryptonews.net/news/altcoins/30249103/",
-        "timestamp": "2024-12-19 07:43:27",
-        "sentToChannel": true
-    },
-    {
-        "title": "\ud83d\udd25Bitcoin price drops to $100.3K after Fed rate cut and Powell\u2019s revised 2025 inflation outlook",
-        "source": "https://cryptonews.net/news/bitcoin/30249361/",
-        "timestamp": "2024-12-19 07:52:08",
-        "sentToChannel": true
-    },
-    {
         "title": "Bitcoin Exchange Holdings Plummet: 200K BTC Withdrawn in 60 Days",
         "source": "https://cryptonews.net/news/bitcoin/30250442/",
         "timestamp": "2024-12-19 08:13:48",
@@ -867,6 +849,6 @@
         "title": "Hawkish Fed Has Bitcoin Market Feeling Most Fearful in 3 Months",
         "source": "https://www.coindesk.com/markets/2024/12/19/hawkish-fed-has-bitcoin-market-showing-strongest-bias-for-downside-protection-in-3-months",
         "timestamp": "2024-12-20 07:42:04",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
