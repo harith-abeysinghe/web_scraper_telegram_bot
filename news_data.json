@@ -862,5 +862,17 @@
         "source": "https://cryptonews.net/news/altcoins/30256468/",
         "timestamp": "2024-12-20 08:46:17",
         "sentToChannel": true
+    },
+    {
+        "title": "Spot Bitcoin ETFs See Record Withdrawals as CME Futures Premium Signals Weaker Demand",
+        "source": "https://www.coindesk.com/markets/2024/12/20/spot-bitcoin-etfs-see-record-withdrawals-as-cme-futures-premium-signals-weaker-demand",
+        "timestamp": "2024-12-20 09:52:07",
+        "sentToChannel": false
+    },
+    {
+        "title": "Trump-Backed World Liberty Financial Swaps Its cbBTC for WBTC After Sun Joins as Adviser",
+        "source": "https://www.coindesk.com/markets/2024/12/19/trump-backed-world-liberty-financial-swaps-its-cbbtc-for-wbtc-after-sun-joins-as-adviser",
+        "timestamp": "2024-12-20 09:52:07",
+        "sentToChannel": false
     }
 ]
