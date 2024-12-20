@@ -1,77 +1,5 @@
 [
     {
-        "title": "Bitcoin Slips to $101K, Altcoins Spiraling on Federal Reserve's Hawkish Tone",
-        "source": "https://www.coindesk.com/markets/2024/12/18/fed-cuts-interest-rates-by-25-basis-points-bitcoin-slips-below-104-k-on-hawkish-tone",
-        "timestamp": "2024-12-19 20:45:56",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bukele Is The President of El Salvador, Not Bitcoin",
-        "source": "https://cryptonews.net/news/bitcoin/30254940/",
-        "timestamp": "2024-12-19 21:09:00",
-        "sentToChannel": true
-    },
-    {
-        "title": "Sent. Cynthia Lummis to Empower Federal to Hold Bitcoins",
-        "source": "https://cryptonews.net/news/bitcoin/30254908/",
-        "timestamp": "2024-12-19 21:09:00",
-        "sentToChannel": true
-    },
-    {
-        "title": "Institutions absorb 8 years\u2019 worth of Bitcoin issuance in 2024",
-        "source": "https://cryptonews.net/news/bitcoin/30254793/",
-        "timestamp": "2024-12-19 21:09:00",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin Still Viewed as Highly Speculative Asset by Most CFOs",
-        "source": "https://cryptonews.net/news/bitcoin/30254653/",
-        "timestamp": "2024-12-19 21:09:00",
-        "sentToChannel": true
-    },
-    {
-        "title": "Is Mt. Gox Behind $1.18 Billion Crypto Liquidations? Here\u2019s What Happened",
-        "source": "https://cryptonews.net/news/bitcoin/30255132/",
-        "timestamp": "2024-12-19 21:23:51",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin May Rally to $120K After 7% Drop :Says Analyst",
-        "source": "https://cryptonews.net/news/bitcoin/30255135/",
-        "timestamp": "2024-12-19 21:23:51",
-        "sentToChannel": true
-    },
-    {
-        "title": "Ohio introduces second Bitcoin reserve bill",
-        "source": "https://cryptonews.net/news/bitcoin/30255091/",
-        "timestamp": "2024-12-19 21:23:51",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin (BTC) Eyes Potential 11% Drop as Bearish Signals Strengthen",
-        "source": "https://cryptonews.net/news/bitcoin/30255120/",
-        "timestamp": "2024-12-19 21:23:51",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin loses $100k as markets continue to slide in reaction to Fed\u2019s slower pace for 2025",
-        "source": "https://cryptonews.net/news/bitcoin/30255038/",
-        "timestamp": "2024-12-19 21:23:51",
-        "sentToChannel": true
-    },
-    {
-        "title": "Giant Whale Also Lose: Stop-Loss Activated on Altcoin Trade, Where He Previously Made Millions of Dollars in Profit, Sold at a Loss",
-        "source": "https://cryptonews.net/news/altcoins/30255105/",
-        "timestamp": "2024-12-19 21:23:53",
-        "sentToChannel": true
-    },
-    {
-        "title": "The Avalanche Foundation Launches infraBUIDL(AI) Program with up to $15M in Developer Funding",
-        "source": "https://cryptonews.net/news/altcoins/30255053/",
-        "timestamp": "2024-12-19 21:23:53",
-        "sentToChannel": true
-    },
-    {
         "title": "Analyst Justin Bennett Issues Bitcoin Alert, Says BTC Headed Lower if Bulls Lose Momentum \u2013 Here\u2019s His Target",
         "source": "https://cryptonews.net/news/bitcoin/30255181/",
         "timestamp": "2024-12-19 21:41:51",
@@ -819,54 +747,54 @@
         "title": "Bitcoin Dips Below $96K While CoinDesk 20 Plunges 10% Amid Fed-Spurred Rout; SOL Surrenders Post-Election Rally",
         "source": "https://www.coindesk.com/markets/2024/12/19/bitcoin-dips-below-98-k-while-coin-desk-20-plunges-10-amid-fed-spurred-rout-sol-surrenders-post-election-rally",
         "timestamp": "2024-12-20 20:52:10",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Scaramucci Says Some Alts Had Their 'Last Hurrah'",
         "source": "https://cryptonews.net/news/bitcoin/30260742/",
         "timestamp": "2024-12-20 21:08:34",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Chainlink Celebrates 2024 as a Year of Growth, Collaboration, and Innovation",
         "source": "https://cryptonews.net/news/altcoins/30260679/",
         "timestamp": "2024-12-20 21:08:35",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Hawk Tuah girl Haliey Welch resurfaces to address her meme coin fiasco, only to get roasted by the internet",
         "source": "https://cryptonews.net/news/altcoins/30260822/",
         "timestamp": "2024-12-20 21:08:35",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "EigenLayer restaking protocol's slashing testnet now live",
         "source": "https://cryptonews.net/news/altcoins/30261126/",
         "timestamp": "2024-12-20 21:08:35",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "\ud83d\udd25Bitcoin correction \u2018almost done\u2019 as realized losses rise above weekly average",
         "source": "https://cryptonews.net/news/bitcoin/30261212/",
         "timestamp": "2024-12-20 21:23:04",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bought Bitcoin at $108,000? Don't Panic",
         "source": "https://cryptonews.net/news/bitcoin/30261087/",
         "timestamp": "2024-12-20 21:23:04",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Solana (SOL) Relative Capital Flow Hints Further Growth Ahead: Glassnode",
         "source": "https://cryptonews.net/news/altcoins/30261129/",
         "timestamp": "2024-12-20 21:23:06",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Roaring Kitty\u2019s Cryptic Message Could Spark the GME Ethereum ($GME) Breakout",
         "source": "https://cryptonews.net/news/altcoins/30260872/",
         "timestamp": "2024-12-20 21:23:06",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
