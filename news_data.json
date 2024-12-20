@@ -1,11 +1,5 @@
 [
     {
-        "title": "Massive 400 Billion SHIB from Early Whale Stuns Major US Exchange",
-        "source": "https://cryptonews.net/news/altcoins/30250972/",
-        "timestamp": "2024-12-19 10:46:33",
-        "sentToChannel": true
-    },
-    {
         "title": "Why Is Bitcoin Down Today? BTC Price Sees Sharpest Drop in 135 Days",
         "source": "https://cryptonews.net/news/bitcoin/30250815/",
         "timestamp": "2024-12-19 11:08:38",
@@ -861,6 +855,6 @@
         "title": "U.S. Listed Spot Bitcoin ETFs on the Verge of Surpassing Gold ETFs",
         "source": "https://www.coindesk.com/markets/2024/12/19/u-s-listed-spot-bitcoin-etfs-on-the-verge-of-surpassing-gold-etfs",
         "timestamp": "2024-12-20 10:52:11",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
