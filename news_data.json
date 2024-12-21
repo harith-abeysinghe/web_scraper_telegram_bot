@@ -784,5 +784,23 @@
         "source": "https://cryptonews.net/news/bitcoin/30261412/",
         "timestamp": "2024-12-20 23:09:07",
         "sentToChannel": true
+    },
+    {
+        "title": "We Need In-Kind Redemptions For The Spot Bitcoin ETFs",
+        "source": "https://cryptonews.net/news/bitcoin/30261657/",
+        "timestamp": "2024-12-21 00:45:47",
+        "sentToChannel": false
+    },
+    {
+        "title": "It\u2019s Not Unusual: Stablecoin Platform Altcoin USUAL Bucks Crypto Downtrend Following Binance Listing",
+        "source": "https://cryptonews.net/news/altcoins/30261611/",
+        "timestamp": "2024-12-21 00:45:49",
+        "sentToChannel": false
+    },
+    {
+        "title": "3rd largest blockchain by stablecoin cap, $100M+ in RWA \u2013 What went right for Arbitrum in 2024?",
+        "source": "https://cryptonews.net/news/altcoins/30261665/",
+        "timestamp": "2024-12-21 00:45:49",
+        "sentToChannel": false
     }
 ]
