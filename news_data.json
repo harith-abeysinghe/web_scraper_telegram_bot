@@ -778,5 +778,17 @@
         "source": "https://cryptonews.net/news/altcoins/30261988/",
         "timestamp": "2024-12-21 04:32:00",
         "sentToChannel": true
+    },
+    {
+        "title": "Bitcoin on the Rise: Higher Highs, Higher Lows Signal $113K Target",
+        "source": "https://cryptonews.net/news/bitcoin/30262032/",
+        "timestamp": "2024-12-21 05:27:04",
+        "sentToChannel": false
+    },
+    {
+        "title": "Ripple Pledges $5M XRP to Donald Trump's Inauguration Fund",
+        "source": "https://cryptonews.net/news/altcoins/30261488/",
+        "timestamp": "2024-12-21 05:27:05",
+        "sentToChannel": false
     }
 ]
