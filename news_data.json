@@ -778,5 +778,17 @@
         "source": "https://cryptonews.net/news/ethereum/30261904/",
         "timestamp": "2024-12-21 03:32:04",
         "sentToChannel": true
+    },
+    {
+        "title": "Bitcoin Whales Scoop Up $1 Billion Worth of BTC During Dip",
+        "source": "https://cryptonews.net/news/bitcoin/30261981/",
+        "timestamp": "2024-12-21 04:31:59",
+        "sentToChannel": false
+    },
+    {
+        "title": "Whale Profits from Strategic $LINK Trading as Market Dips",
+        "source": "https://cryptonews.net/news/altcoins/30261988/",
+        "timestamp": "2024-12-21 04:32:00",
+        "sentToChannel": false
     }
 ]
