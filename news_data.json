@@ -1,23 +1,5 @@
 [
     {
-        "title": "Samson Mow on Bitcoin Crash: 'Supply Shock Is Coming'",
-        "source": "https://cryptonews.net/news/bitcoin/30258036/",
-        "timestamp": "2024-12-20 11:32:31",
-        "sentToChannel": true
-    },
-    {
-        "title": "Will Ethereum Whale Selloff Trigger ETH Price Crash Under $2,800?",
-        "source": "https://cryptonews.net/news/ethereum/30258046/",
-        "timestamp": "2024-12-20 11:32:32",
-        "sentToChannel": true
-    },
-    {
-        "title": "Ethereum Price Dips Below $3,400: Will $3,035 Support Hold?",
-        "source": "https://cryptonews.net/news/ethereum/30258048/",
-        "timestamp": "2024-12-20 11:32:32",
-        "sentToChannel": true
-    },
-    {
         "title": "Bitcoin Miners Are Expected to be Profitable in December, Jefferies Says",
         "source": "https://www.coindesk.com/markets/2024/12/19/bitcoin-miners-are-expected-to-be-profitable-in-december-jefferies-says",
         "timestamp": "2024-12-20 11:52:08",
@@ -657,6 +639,6 @@
         "title": "Long-Term Bitcoin Holders Have Sold 1M BTC Since September: Van Straten",
         "source": "https://www.coindesk.com/markets/2024/12/20/long-term-bitcoin-holders-have-sold-1-m-btc-since-september-van-straten",
         "timestamp": "2024-12-21 11:32:59",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
