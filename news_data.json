@@ -1,53 +1,5 @@
 [
     {
-        "title": "Scaramucci Says Some Alts Had Their 'Last Hurrah'",
-        "source": "https://cryptonews.net/news/bitcoin/30260742/",
-        "timestamp": "2024-12-20 21:08:34",
-        "sentToChannel": true
-    },
-    {
-        "title": "Chainlink Celebrates 2024 as a Year of Growth, Collaboration, and Innovation",
-        "source": "https://cryptonews.net/news/altcoins/30260679/",
-        "timestamp": "2024-12-20 21:08:35",
-        "sentToChannel": true
-    },
-    {
-        "title": "Hawk Tuah girl Haliey Welch resurfaces to address her meme coin fiasco, only to get roasted by the internet",
-        "source": "https://cryptonews.net/news/altcoins/30260822/",
-        "timestamp": "2024-12-20 21:08:35",
-        "sentToChannel": true
-    },
-    {
-        "title": "EigenLayer restaking protocol's slashing testnet now live",
-        "source": "https://cryptonews.net/news/altcoins/30261126/",
-        "timestamp": "2024-12-20 21:08:35",
-        "sentToChannel": true
-    },
-    {
-        "title": "\ud83d\udd25Bitcoin correction \u2018almost done\u2019 as realized losses rise above weekly average",
-        "source": "https://cryptonews.net/news/bitcoin/30261212/",
-        "timestamp": "2024-12-20 21:23:04",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bought Bitcoin at $108,000? Don't Panic",
-        "source": "https://cryptonews.net/news/bitcoin/30261087/",
-        "timestamp": "2024-12-20 21:23:04",
-        "sentToChannel": true
-    },
-    {
-        "title": "Solana (SOL) Relative Capital Flow Hints Further Growth Ahead: Glassnode",
-        "source": "https://cryptonews.net/news/altcoins/30261129/",
-        "timestamp": "2024-12-20 21:23:06",
-        "sentToChannel": true
-    },
-    {
-        "title": "Roaring Kitty\u2019s Cryptic Message Could Spark the GME Ethereum ($GME) Breakout",
-        "source": "https://cryptonews.net/news/altcoins/30260872/",
-        "timestamp": "2024-12-20 21:23:06",
-        "sentToChannel": true
-    },
-    {
         "title": "OpenSea Teases OCEAN Token Launch From New X Account",
         "source": "https://cryptonews.net/news/altcoins/30261192/",
         "timestamp": "2024-12-20 21:41:48",
@@ -585,6 +537,6 @@
         "title": "Bitcoin Dips Below $96K While CoinDesk 20 Plunges 10% Amid Fed-Spurred Rout; SOL Surrenders Post-Election Rally",
         "source": "https://www.coindesk.com/markets/2024/12/19/bitcoin-dips-below-98-k-while-coin-desk-20-plunges-10-amid-fed-spurred-rout-sol-surrenders-post-election-rally",
         "timestamp": "2024-12-21 21:21:53",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
