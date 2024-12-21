@@ -1,11 +1,5 @@
 [
     {
-        "title": "Hawkish Fed Has Bitcoin Market Feeling Most Fearful in 3 Months",
-        "source": "https://www.coindesk.com/markets/2024/12/19/hawkish-fed-has-bitcoin-market-showing-strongest-bias-for-downside-protection-in-3-months",
-        "timestamp": "2024-12-20 07:42:04",
-        "sentToChannel": true
-    },
-    {
         "title": "Bitcoin's trajectory shows similarities with previous cycles as long-term holders book profits of $2.1 billion",
         "source": "https://cryptonews.net/news/bitcoin/30256310/",
         "timestamp": "2024-12-20 08:13:15",
@@ -777,6 +771,6 @@
         "title": "Dogecoin's 11% Drop Leads Losses in Crypto Majors as Bitcoin Sours Festive Mood",
         "source": "https://www.coindesk.com/markets/2024/12/20/dogecoin-s-11-drop-leads-losses-in-crypto-majors-as-bitcoin-sours-festive-mood",
         "timestamp": "2024-12-21 07:32:34",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
