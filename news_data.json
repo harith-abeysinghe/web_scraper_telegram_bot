@@ -1,29 +1,5 @@
 [
     {
-        "title": "More Than Half of Crypto Tokens Debuted in 2024 Were Malicious: Blockaid",
-        "source": "https://www.coindesk.com/business/2024/12/19/more-than-half-of-crypto-tokens-debuted-in-2024-were-malicious-blockaid",
-        "timestamp": "2024-12-20 14:52:15",
-        "sentToChannel": true
-    },
-    {
-        "title": "RWA-Focused Network Plume Raises $20M from Brevan Howard and Others Ahead of Mainnet Launch",
-        "source": "https://www.coindesk.com/business/2024/12/18/rwa-focused-network-plume-raises-20-m-from-brevan-howard-and-others-ahead-of-mainnet-launch",
-        "timestamp": "2024-12-20 14:52:15",
-        "sentToChannel": true
-    },
-    {
-        "title": "Custody Firm Taurus Partners With Temenos Bringing Crypto Wallets to Thousands of Banks",
-        "source": "https://www.coindesk.com/business/2024/12/18/custody-firm-taurus-partners-with-temenos-bringing-crypto-wallets-to-thousands-of-banks",
-        "timestamp": "2024-12-20 14:52:15",
-        "sentToChannel": true
-    },
-    {
-        "title": "Binance Abruptly Deletes Alpha Watchlist Tokens, Spurring Unforeseen Pump and Dump",
-        "source": "https://www.coindesk.com/business/2024/12/18/binance-abruptly-deletes-alpha-watchlist-tokens-spurring-unforeseen-pump-and-dump",
-        "timestamp": "2024-12-20 14:52:15",
-        "sentToChannel": true
-    },
-    {
         "title": "21Shares Registers Polkadot Trust in Delaware",
         "source": "https://cryptonews.net/news/altcoins/30259378/",
         "timestamp": "2024-12-20 15:09:42",
@@ -603,12 +579,12 @@
         "title": "Ethereum Price Crash amid ETF Developments \u2013 What\u2019s Happening?",
         "source": "https://cryptonews.net/news/ethereum/30258729/",
         "timestamp": "2024-12-21 14:52:03",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "What Happened to Bitcoin's Santa Rally?",
         "source": "https://www.coindesk.com/markets/2024/12/20/what-happened-to-bitcoins-santa-rally",
         "timestamp": "2024-12-21 14:52:05",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
