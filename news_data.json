@@ -1,53 +1,5 @@
 [
     {
-        "title": "Spot Bitcoin ETFs See Record Withdrawals as CME Futures Premium Signals Weaker Demand",
-        "source": "https://www.coindesk.com/markets/2024/12/20/spot-bitcoin-etfs-see-record-withdrawals-as-cme-futures-premium-signals-weaker-demand",
-        "timestamp": "2024-12-20 09:52:07",
-        "sentToChannel": true
-    },
-    {
-        "title": "Trump-Backed World Liberty Financial Swaps Its cbBTC for WBTC After Sun Joins as Adviser",
-        "source": "https://www.coindesk.com/markets/2024/12/19/trump-backed-world-liberty-financial-swaps-its-cbbtc-for-wbtc-after-sun-joins-as-adviser",
-        "timestamp": "2024-12-20 09:52:07",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin Dips and Kiyosaki\u2019s Buying Message Gains Traction",
-        "source": "https://cryptonews.net/news/bitcoin/30257595/",
-        "timestamp": "2024-12-20 10:33:29",
-        "sentToChannel": true
-    },
-    {
-        "title": "Ark Investment CEO Cathie Wood predicts Bitcoin to hit $1M by 2030",
-        "source": "https://cryptonews.net/news/bitcoin/30257134/",
-        "timestamp": "2024-12-20 10:33:29",
-        "sentToChannel": true
-    },
-    {
-        "title": "Ethereum price drop forces whales to sell ETH in millions to repay debts",
-        "source": "https://cryptonews.net/news/ethereum/30257067/",
-        "timestamp": "2024-12-20 10:33:30",
-        "sentToChannel": true
-    },
-    {
-        "title": "Injective and Sonic SVM Partners to Launch the First Cross-Chain AI Agent Platform",
-        "source": "https://cryptonews.net/news/altcoins/30257571/",
-        "timestamp": "2024-12-20 10:33:30",
-        "sentToChannel": true
-    },
-    {
-        "title": "Shiba Inu to $0.01 Closer to Reality? Why a Key Chainlink Partnership is Stirring Hopes",
-        "source": "https://cryptonews.net/news/altcoins/30256737/",
-        "timestamp": "2024-12-20 10:33:30",
-        "sentToChannel": true
-    },
-    {
-        "title": "Crypto Custody Firm Copper Withdraws U.K Registration Application",
-        "source": "https://www.coindesk.com/business/2024/12/20/crypto-custody-firm-copper-withdraws-u-k-registration-application",
-        "timestamp": "2024-12-20 10:33:34",
-        "sentToChannel": true
-    },
-    {
         "title": "U.S. Listed Spot Bitcoin ETFs on the Verge of Surpassing Gold ETFs",
         "source": "https://www.coindesk.com/markets/2024/12/19/u-s-listed-spot-bitcoin-etfs-on-the-verge-of-surpassing-gold-etfs",
         "timestamp": "2024-12-20 10:52:11",
@@ -693,78 +645,78 @@
         "title": "Bitcoin Supply Shock: Cryptoquant Report Highlights Shrinking Sell-Side Liquidity",
         "source": "https://cryptonews.net/news/bitcoin/30260636/",
         "timestamp": "2024-12-21 09:41:56",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "All Eyes on Trump: Bitcoin Crash Could Pave the Way for a Historic Rebound in 2025",
         "source": "https://cryptonews.net/news/bitcoin/30261760/",
         "timestamp": "2024-12-21 09:41:56",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "\ud83d\udd25Major Company Negotiating Bitcoin Proposal: Report",
         "source": "https://cryptonews.net/news/bitcoin/30261180/",
         "timestamp": "2024-12-21 09:41:56",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Ethereum Whales Buy the Dip Eyeing Quick ETH Price Rally to $4000",
         "source": "https://cryptonews.net/news/ethereum/30262190/",
         "timestamp": "2024-12-21 09:41:57",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "$200,000 Bitcoin \u2018Doable\u2019 in 2025 Courtesy of One Catalyst, Says Venture Capitalist Dan Tapiero",
         "source": "https://cryptonews.net/news/bitcoin/30262342/",
         "timestamp": "2024-12-21 09:51:51",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin Dip: Is This the Buying Opportunity of 2024?",
         "source": "https://cryptonews.net/news/bitcoin/30262522/",
         "timestamp": "2024-12-21 09:51:51",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Crypto Gaming Innovation: VCs Bet on These Top Projects",
         "source": "https://cryptonews.net/news/altcoins/30262317/",
         "timestamp": "2024-12-21 09:51:52",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "'Rich Dad Poor Dad' Author Names Best Assets for Your Money",
         "source": "https://cryptonews.net/news/bitcoin/30262373/",
         "timestamp": "2024-12-21 10:08:54",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Is Crypto the Ultimate Mirror of Emotions Like Greed, Fear, and Hope?",
         "source": "https://cryptonews.net/news/bitcoin/30262345/",
         "timestamp": "2024-12-21 10:08:54",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "BTC price stampedes to $99.5K hours after record Bitcoin ETF outflow",
         "source": "https://cryptonews.net/news/bitcoin/30262652/",
         "timestamp": "2024-12-21 10:08:54",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "VeChain Revolutionizes NFT Access with Free PofP Badge Tool",
         "source": "https://cryptonews.net/news/altcoins/30262500/",
         "timestamp": "2024-12-21 10:08:55",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Huge Whales Accumulate $ENA as Bullish Momentum Grows",
         "source": "https://cryptonews.net/news/altcoins/30262217/",
         "timestamp": "2024-12-21 10:08:55",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Expert Explains Why You Need to Hold at Least 1,000 XRP",
         "source": "https://cryptonews.net/news/altcoins/30262658/",
         "timestamp": "2024-12-21 10:28:03",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
