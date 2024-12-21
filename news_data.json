@@ -1,17 +1,5 @@
 [
     {
-        "title": "El Salvador: World's First Country to Have a Bitcoin Reserve",
-        "source": "https://cryptonews.net/news/bitcoin/30255944/",
-        "timestamp": "2024-12-20 03:16:17",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin Decline Continues: Are Bulls Losing Control?",
-        "source": "https://cryptonews.net/news/bitcoin/30255977/",
-        "timestamp": "2024-12-20 03:35:10",
-        "sentToChannel": true
-    },
-    {
         "title": "Ethereum Price Takes a Plunge: Can Bulls Step In?",
         "source": "https://cryptonews.net/news/ethereum/30255991/",
         "timestamp": "2024-12-20 04:12:22",
@@ -789,6 +777,6 @@
         "title": "Time to Buy ETH? Ethereum Whales $28.5M Worth of Ether",
         "source": "https://cryptonews.net/news/ethereum/30261904/",
         "timestamp": "2024-12-21 03:32:04",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
