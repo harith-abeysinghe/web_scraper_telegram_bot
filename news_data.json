@@ -1,71 +1,5 @@
 [
     {
-        "title": "Bitcoin Balances on a Razor's Edge: Is a Breakout or Breakdown Looming?",
-        "source": "https://cryptonews.net/news/bitcoin/30260763/",
-        "timestamp": "2024-12-20 20:10:56",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin (BTC) Hourly Death Cross Emerges: Details",
-        "source": "https://cryptonews.net/news/bitcoin/30260144/",
-        "timestamp": "2024-12-20 20:29:17",
-        "sentToChannel": true
-    },
-    {
-        "title": "Ethereum to ramp up gas limit as Pectra progresses",
-        "source": "https://cryptonews.net/news/ethereum/30260487/",
-        "timestamp": "2024-12-20 20:29:19",
-        "sentToChannel": true
-    },
-    {
-        "title": "ETH Whale Selling? Ethereum Price Risks $3000 Collapse",
-        "source": "https://cryptonews.net/news/ethereum/30260694/",
-        "timestamp": "2024-12-20 20:29:19",
-        "sentToChannel": true
-    },
-    {
-        "title": "Ether ETFs poised to surge in 2025, analysts say",
-        "source": "https://cryptonews.net/news/ethereum/30260912/",
-        "timestamp": "2024-12-20 20:29:19",
-        "sentToChannel": true
-    },
-    {
-        "title": "Top Gainers in the Crypto Market: $CKP Leads With a 45.6% Surge",
-        "source": "https://cryptonews.net/news/altcoins/30260194/",
-        "timestamp": "2024-12-20 20:29:19",
-        "sentToChannel": true
-    },
-    {
-        "title": "DeFi Protocol Usual's Surge Catapults Hashnote's Tokenized Treasury Over BlackRock's BUIDL",
-        "source": "https://www.coindesk.com/markets/2024/12/20/de-fi-protocol-usuals-surge-catapults-hashnotes-tokenized-treasury-over-black-rocks-buidl",
-        "timestamp": "2024-12-20 20:29:20",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin Under Siege: Bearish Pressure Keeps Price Below $99,575",
-        "source": "https://cryptonews.net/news/bitcoin/30260298/",
-        "timestamp": "2024-12-20 20:37:58",
-        "sentToChannel": true
-    },
-    {
-        "title": "BTC\u2019s Technical Outlook: Is $96K the New Battleground for Bulls?",
-        "source": "https://cryptonews.net/news/bitcoin/30261005/",
-        "timestamp": "2024-12-20 20:37:58",
-        "sentToChannel": true
-    },
-    {
-        "title": "I don\u2019t support a Strategic Bitcoin Reserve, and neither should you",
-        "source": "https://cryptonews.net/news/bitcoin/30260246/",
-        "timestamp": "2024-12-20 20:37:58",
-        "sentToChannel": true
-    },
-    {
-        "title": "Michael Saylor Issues Bitcoin Statement Amid Ongoing Crypto Market Turmoil",
-        "source": "https://cryptonews.net/news/bitcoin/30260195/",
-        "timestamp": "2024-12-20 20:37:58",
-        "sentToChannel": true
-    },
-    {
         "title": "Bitcoin Dips Below $96K While CoinDesk 20 Plunges 10% Amid Fed-Spurred Rout; SOL Surrenders Post-Election Rally",
         "source": "https://www.coindesk.com/markets/2024/12/19/bitcoin-dips-below-98-k-while-coin-desk-20-plunges-10-amid-fed-spurred-rout-sol-surrenders-post-election-rally",
         "timestamp": "2024-12-20 20:52:10",
@@ -567,78 +501,78 @@
         "title": "Bitcoin could see another record high if this \u2018brick wall\u2019 is breached",
         "source": "https://cryptonews.net/news/bitcoin/30262947/",
         "timestamp": "2024-12-21 20:10:07",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin Gained 0.59% in Last Month and is Predicted to Reach $\u202f108,273 By Dec 26, 2024",
         "source": "https://cryptonews.net/news/bitcoin/30263089/",
         "timestamp": "2024-12-21 20:10:07",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Ethereum Price Analysis: Following a 15% Weekly Crash, What\u2019s Next for ETH?",
         "source": "https://cryptonews.net/news/ethereum/30264045/",
         "timestamp": "2024-12-21 20:10:08",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Ethereum ETF Faces Outflow, but $12.16B NAV Suggests Resilience in the Market",
         "source": "https://cryptonews.net/news/ethereum/30264243/",
         "timestamp": "2024-12-21 20:10:08",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "BitMEX\u2019s Arthur Hayes dumps $8.4 million in ENA hours after posting \u2018Ethena is impressive\u2019",
         "source": "https://cryptonews.net/news/altcoins/30263607/",
         "timestamp": "2024-12-21 20:10:09",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Polygon's Agglayer Mainnet Date Confirmed by Sandeep Nailwal",
         "source": "https://cryptonews.net/news/altcoins/30263949/",
         "timestamp": "2024-12-21 20:10:09",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin Price Analysis: Is BTC In Danger of Falling to $80,000 Soon?",
         "source": "https://cryptonews.net/news/bitcoin/30264042/",
         "timestamp": "2024-12-21 20:25:27",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "United States of Bitcoin? These States Are Considering BTC Reserves",
         "source": "https://cryptonews.net/news/bitcoin/30263725/",
         "timestamp": "2024-12-21 20:25:27",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Swiss Firm Relai Expands Crypto Holdings with $1.2 Million Bitcoin Investment",
         "source": "https://cryptonews.net/news/bitcoin/30263451/",
         "timestamp": "2024-12-21 20:25:27",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin\u2019s $100,000 Resistance: Will This Technical Shift Lead to Bigger Market Moves?",
         "source": "https://cryptonews.net/news/bitcoin/30264234/",
         "timestamp": "2024-12-21 20:25:27",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin Prices Reached A Fresh Zenith This Week As Multiple Factors Fueled Gains",
         "source": "https://cryptonews.net/news/bitcoin/30263957/",
         "timestamp": "2024-12-21 20:25:27",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "No, BlackRock Can't Change Bitcoin",
         "source": "https://cryptonews.net/news/bitcoin/30264429/",
         "timestamp": "2024-12-21 20:32:39",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "After Partial Recovery, Developers Unlock $243 Million Tokens In This Altcoin",
         "source": "https://cryptonews.net/news/altcoins/30264061/",
         "timestamp": "2024-12-21 20:32:40",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
