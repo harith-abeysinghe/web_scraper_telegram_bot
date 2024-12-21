@@ -1,17 +1,5 @@
 [
     {
-        "title": "Bitcoin Demand Hits 3-Year High; Signs of 2015-2018 Bull Run Reappear",
-        "source": "https://cryptonews.net/news/bitcoin/30258141/",
-        "timestamp": "2024-12-20 12:52:12",
-        "sentToChannel": true
-    },
-    {
-        "title": "Ripple\u2019s XRP Ledger Leads Institutional RWA Tokenization With New Partnerships",
-        "source": "https://cryptonews.net/news/altcoins/30258429/",
-        "timestamp": "2024-12-20 12:52:13",
-        "sentToChannel": true
-    },
-    {
         "title": "Solana whale sbfonchain.sol is back to buying the hottest meme tokens",
         "source": "https://cryptonews.net/news/altcoins/30258309/",
         "timestamp": "2024-12-20 13:16:32",
@@ -633,18 +621,18 @@
         "title": "Bitcoin Miner Hut 8 Buys $100M BTC Boosting Total Total Stash to $1B",
         "source": "https://www.coindesk.com/business/2024/12/19/bitcoin-miner-hut-8-buys-usd100m-btc-boosting-total-total-stash-to-usd1b",
         "timestamp": "2024-12-21 12:16:36",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin faces a $99.8K wall, new ATH or major rejection next?",
         "source": "https://cryptonews.net/news/bitcoin/30263005/",
         "timestamp": "2024-12-21 12:48:22",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "182 Million XRP in 24 Hours, Here's What Happened",
         "source": "https://cryptonews.net/news/altcoins/30262751/",
         "timestamp": "2024-12-21 12:48:23",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
