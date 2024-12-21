@@ -586,5 +586,11 @@
         "source": "https://www.coindesk.com/markets/2024/12/20/what-happened-to-bitcoins-santa-rally",
         "timestamp": "2024-12-21 14:52:05",
         "sentToChannel": true
+    },
+    {
+        "title": "More Than Half of Crypto Tokens Debuted in 2024 Were Malicious: Blockaid",
+        "source": "https://www.coindesk.com/business/2024/12/19/more-than-half-of-crypto-tokens-debuted-in-2024-were-malicious-blockaid",
+        "timestamp": "2024-12-21 15:23:47",
+        "sentToChannel": false
     }
 ]
