@@ -598,5 +598,17 @@
         "source": "https://www.coindesk.com/business/2024/12/19/founder-of-de-fi-giant-curve-gets-liquidated-again-as-crv-slumps",
         "timestamp": "2024-12-21 14:33:48",
         "sentToChannel": true
+    },
+    {
+        "title": "Ethereum Price Crash amid ETF Developments \u2013 What\u2019s Happening?",
+        "source": "https://cryptonews.net/news/ethereum/30258729/",
+        "timestamp": "2024-12-21 14:52:03",
+        "sentToChannel": false
+    },
+    {
+        "title": "What Happened to Bitcoin's Santa Rally?",
+        "source": "https://www.coindesk.com/markets/2024/12/20/what-happened-to-bitcoins-santa-rally",
+        "timestamp": "2024-12-21 14:52:05",
+        "sentToChannel": false
     }
 ]
