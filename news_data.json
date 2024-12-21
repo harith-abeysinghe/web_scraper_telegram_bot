@@ -688,5 +688,29 @@
         "source": "https://cryptonews.net/news/ethereum/30262586/",
         "timestamp": "2024-12-21 09:23:42",
         "sentToChannel": true
+    },
+    {
+        "title": "Bitcoin Supply Shock: Cryptoquant Report Highlights Shrinking Sell-Side Liquidity",
+        "source": "https://cryptonews.net/news/bitcoin/30260636/",
+        "timestamp": "2024-12-21 09:41:56",
+        "sentToChannel": false
+    },
+    {
+        "title": "All Eyes on Trump: Bitcoin Crash Could Pave the Way for a Historic Rebound in 2025",
+        "source": "https://cryptonews.net/news/bitcoin/30261760/",
+        "timestamp": "2024-12-21 09:41:56",
+        "sentToChannel": false
+    },
+    {
+        "title": "\ud83d\udd25Major Company Negotiating Bitcoin Proposal: Report",
+        "source": "https://cryptonews.net/news/bitcoin/30261180/",
+        "timestamp": "2024-12-21 09:41:56",
+        "sentToChannel": false
+    },
+    {
+        "title": "Ethereum Whales Buy the Dip Eyeing Quick ETH Price Rally to $4000",
+        "source": "https://cryptonews.net/news/ethereum/30262190/",
+        "timestamp": "2024-12-21 09:41:57",
+        "sentToChannel": false
     }
 ]
