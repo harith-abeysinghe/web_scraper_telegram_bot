@@ -1,11 +1,5 @@
 [
     {
-        "title": "U.S. Listed Spot Bitcoin ETFs on the Verge of Surpassing Gold ETFs",
-        "source": "https://www.coindesk.com/markets/2024/12/19/u-s-listed-spot-bitcoin-etfs-on-the-verge-of-surpassing-gold-etfs",
-        "timestamp": "2024-12-20 10:52:11",
-        "sentToChannel": true
-    },
-    {
         "title": "Bitcoin \u201cBuying the Dip\u201d Mentions Surge to 8-Month High as Price Drops to $95K",
         "source": "https://cryptonews.net/news/bitcoin/30257755/",
         "timestamp": "2024-12-20 11:21:16",
@@ -723,12 +717,12 @@
         "title": "Spot Bitcoin ETFs See Record Withdrawals as CME Futures Premium Signals Weaker Demand",
         "source": "https://www.coindesk.com/markets/2024/12/20/spot-bitcoin-etfs-see-record-withdrawals-as-cme-futures-premium-signals-weaker-demand",
         "timestamp": "2024-12-21 10:44:18",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Crypto Custody Firm Copper Withdraws U.K Registration Application",
         "source": "https://www.coindesk.com/business/2024/12/20/crypto-custody-firm-copper-withdraws-u-k-registration-application",
         "timestamp": "2024-12-21 10:44:19",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
