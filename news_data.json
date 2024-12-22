@@ -1,29 +1,5 @@
 [
     {
-        "title": "Colombian Investors Can Now Trade Bitcoin ETF Shares in Pesos",
-        "source": "https://cryptonews.net/news/bitcoin/30261835/",
-        "timestamp": "2024-12-21 02:50:53",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin Realized Losses Spike 3 Times The Weekly Average \u2013 Healthy Correction Or Downturn?",
-        "source": "https://cryptonews.net/news/bitcoin/30261865/",
-        "timestamp": "2024-12-21 02:50:53",
-        "sentToChannel": true
-    },
-    {
-        "title": "Crypto Whale Sells 22,746 $ETH for Debt Repayment Amid Price Dip",
-        "source": "https://cryptonews.net/news/ethereum/30261874/",
-        "timestamp": "2024-12-21 02:50:55",
-        "sentToChannel": true
-    },
-    {
-        "title": "Time to Buy ETH? Ethereum Whales $28.5M Worth of Ether",
-        "source": "https://cryptonews.net/news/ethereum/30261904/",
-        "timestamp": "2024-12-21 03:32:04",
-        "sentToChannel": true
-    },
-    {
         "title": "Bitcoin Whales Scoop Up $1 Billion Worth of BTC During Dip",
         "source": "https://cryptonews.net/news/bitcoin/30261981/",
         "timestamp": "2024-12-21 04:31:59",
@@ -501,6 +477,6 @@
         "title": "Hyperliquid breaks records, what\u2019s behind the $11.5B surge?",
         "source": "https://cryptonews.net/news/altcoins/30264860/",
         "timestamp": "2024-12-22 03:02:17",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
