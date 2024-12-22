@@ -1,23 +1,5 @@
 [
     {
-        "title": "Ethereum Price Last Crash Before ETH Hits Five Digits",
-        "source": "https://cryptonews.net/news/ethereum/30263637/",
-        "timestamp": "2024-12-21 18:33:44",
-        "sentToChannel": true
-    },
-    {
-        "title": "Ethereum\u2019s $15.3B Burn Bonfire: Over 4.5M ETH Destroyed Since EIP-1559 Activation",
-        "source": "https://cryptonews.net/news/ethereum/30264028/",
-        "timestamp": "2024-12-21 18:33:44",
-        "sentToChannel": true
-    },
-    {
-        "title": "Ethereum Price Outlook: ETH Large Transactions Hit $11 Billion Amid 10% Rebound",
-        "source": "https://cryptonews.net/news/ethereum/30263927/",
-        "timestamp": "2024-12-21 18:33:44",
-        "sentToChannel": true
-    },
-    {
         "title": "Tether CEO Paolo Ardoino Teases AI Platform Targeting Early 2025 Debut",
         "source": "https://www.coindesk.com/business/2024/12/20/tether-ceo-paolo-ardoino-teases-ai-platform-targeting-early-2025-debut",
         "timestamp": "2024-12-21 19:32:34",
@@ -357,18 +339,18 @@
         "title": "Bonk Token Burn: 1 Trillion Burn Picks Pace, Founder Gives $0.11 Price Target",
         "source": "https://cryptonews.net/news/altcoins/30263577/",
         "timestamp": "2024-12-22 18:33:22",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Elon Musk and Dogecoin: How the Billionaire Became the 'Dogefather'",
         "source": "https://cryptonews.net/news/altcoins/30263571/",
         "timestamp": "2024-12-22 18:33:22",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Ripple CTO Reveals Rare 2013 XRP Ledger Use: Details",
         "source": "https://cryptonews.net/news/altcoins/30263471/",
         "timestamp": "2024-12-22 18:33:22",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
