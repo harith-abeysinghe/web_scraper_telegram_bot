@@ -1,17 +1,5 @@
 [
     {
-        "title": "Ethereum Price Crash amid ETF Developments \u2013 What\u2019s Happening?",
-        "source": "https://cryptonews.net/news/ethereum/30258729/",
-        "timestamp": "2024-12-21 14:52:03",
-        "sentToChannel": true
-    },
-    {
-        "title": "What Happened to Bitcoin's Santa Rally?",
-        "source": "https://www.coindesk.com/markets/2024/12/20/what-happened-to-bitcoins-santa-rally",
-        "timestamp": "2024-12-21 14:52:05",
-        "sentToChannel": true
-    },
-    {
         "title": "More Than Half of Crypto Tokens Debuted in 2024 Were Malicious: Blockaid",
         "source": "https://www.coindesk.com/business/2024/12/19/more-than-half-of-crypto-tokens-debuted-in-2024-were-malicious-blockaid",
         "timestamp": "2024-12-21 15:23:47",
@@ -447,6 +435,6 @@
         "title": "Founder of DeFi Giant Curve Gets Liquidated Again as CRV Slumps",
         "source": "https://www.coindesk.com/business/2024/12/19/founder-of-de-fi-giant-curve-gets-liquidated-again-as-crv-slumps",
         "timestamp": "2024-12-22 14:41:45",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
