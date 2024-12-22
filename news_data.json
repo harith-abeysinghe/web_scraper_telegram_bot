@@ -442,5 +442,11 @@
         "source": "https://www.coindesk.com/markets/2024/12/20/bitcoin-plunges-to-93-k-dogecoin-down-27-as-crypto-bloodbath-goes-on",
         "timestamp": "2024-12-22 13:42:03",
         "sentToChannel": true
+    },
+    {
+        "title": "Founder of DeFi Giant Curve Gets Liquidated Again as CRV Slumps",
+        "source": "https://www.coindesk.com/business/2024/12/19/founder-of-de-fi-giant-curve-gets-liquidated-again-as-crv-slumps",
+        "timestamp": "2024-12-22 14:41:45",
+        "sentToChannel": false
     }
 ]
