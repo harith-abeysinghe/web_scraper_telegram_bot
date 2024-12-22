@@ -1,11 +1,5 @@
 [
     {
-        "title": "Bitcoin Plunges to $93K, Dogecoin Down 27% as Crypto Bloodbath Goes On",
-        "source": "https://www.coindesk.com/markets/2024/12/20/bitcoin-plunges-to-93-k-dogecoin-down-27-as-crypto-bloodbath-goes-on",
-        "timestamp": "2024-12-21 13:32:16",
-        "sentToChannel": true
-    },
-    {
         "title": "Debate over Ethereum gas limit: Lower fees vs. Network stability",
         "source": "https://cryptonews.net/news/ethereum/30258627/",
         "timestamp": "2024-12-21 14:33:46",
@@ -453,6 +447,6 @@
         "title": "Bitcoin Miner Hut 8 Buys $100M BTC Boosting Total Total Stash to $1B",
         "source": "https://www.coindesk.com/business/2024/12/19/bitcoin-miner-hut-8-buys-usd100m-btc-boosting-total-total-stash-to-usd1b",
         "timestamp": "2024-12-22 13:25:29",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
