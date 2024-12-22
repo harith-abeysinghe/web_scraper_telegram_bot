@@ -1,29 +1,5 @@
 [
     {
-        "title": "Bitcoin Supply Shock: Cryptoquant Report Highlights Shrinking Sell-Side Liquidity",
-        "source": "https://cryptonews.net/news/bitcoin/30260636/",
-        "timestamp": "2024-12-21 09:41:56",
-        "sentToChannel": true
-    },
-    {
-        "title": "All Eyes on Trump: Bitcoin Crash Could Pave the Way for a Historic Rebound in 2025",
-        "source": "https://cryptonews.net/news/bitcoin/30261760/",
-        "timestamp": "2024-12-21 09:41:56",
-        "sentToChannel": true
-    },
-    {
-        "title": "\ud83d\udd25Major Company Negotiating Bitcoin Proposal: Report",
-        "source": "https://cryptonews.net/news/bitcoin/30261180/",
-        "timestamp": "2024-12-21 09:41:56",
-        "sentToChannel": true
-    },
-    {
-        "title": "Ethereum Whales Buy the Dip Eyeing Quick ETH Price Rally to $4000",
-        "source": "https://cryptonews.net/news/ethereum/30262190/",
-        "timestamp": "2024-12-21 09:41:57",
-        "sentToChannel": true
-    },
-    {
         "title": "$200,000 Bitcoin \u2018Doable\u2019 in 2025 Courtesy of One Catalyst, Says Venture Capitalist Dan Tapiero",
         "source": "https://cryptonews.net/news/bitcoin/30262342/",
         "timestamp": "2024-12-21 09:51:51",
@@ -459,6 +435,6 @@
         "title": "If ETH \u2018pullback continues,\u2019 a $3K retrace remains in play \u2014 Analyst",
         "source": "https://cryptonews.net/news/ethereum/30262586/",
         "timestamp": "2024-12-22 09:32:23",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
