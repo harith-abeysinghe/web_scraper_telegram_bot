@@ -1,17 +1,5 @@
 [
     {
-        "title": "Could Bitcoin Become DeFi\u2019s Collateral of Choice? Lombard Finance Says So",
-        "source": "https://www.coindesk.com/markets/2024/12/20/could-bitcoin-become-de-fi-s-collateral-of-choice-lombard-finance-says-so",
-        "timestamp": "2024-12-21 17:08:27",
-        "sentToChannel": true
-    },
-    {
-        "title": "Hailey Welch 'Fully Cooperating' With Lawyers Suing Over Failed HAWK Crypto",
-        "source": "https://www.coindesk.com/business/2024/12/20/hailey-welch-fully-cooperating-with-lawyers-suing-over-failed-hawk-crypto",
-        "timestamp": "2024-12-21 17:08:27",
-        "sentToChannel": true
-    },
-    {
         "title": "Bitcoin price surges to $99K hours after record Bitcoin ETF outflow",
         "source": "https://cryptonews.net/news/bitcoin/30263149/",
         "timestamp": "2024-12-21 17:33:55",
@@ -441,6 +429,6 @@
         "title": "Coinbase Alums Patchwork Take Next Step Toward No-Code Blockchain Development",
         "source": "https://www.coindesk.com/business/2024/12/18/coinbase-alums-patchwork-take-next-step-toward-no-code-blockchain-development",
         "timestamp": "2024-12-22 17:08:37",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
