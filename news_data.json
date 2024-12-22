@@ -1,23 +1,5 @@
 [
     {
-        "title": "Bitcoin Miner Hut 8 Buys $100M BTC Boosting Total Total Stash to $1B",
-        "source": "https://www.coindesk.com/business/2024/12/19/bitcoin-miner-hut-8-buys-usd100m-btc-boosting-total-total-stash-to-usd1b",
-        "timestamp": "2024-12-21 12:16:36",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin faces a $99.8K wall, new ATH or major rejection next?",
-        "source": "https://cryptonews.net/news/bitcoin/30263005/",
-        "timestamp": "2024-12-21 12:48:22",
-        "sentToChannel": true
-    },
-    {
-        "title": "182 Million XRP in 24 Hours, Here's What Happened",
-        "source": "https://cryptonews.net/news/altcoins/30262751/",
-        "timestamp": "2024-12-21 12:48:23",
-        "sentToChannel": true
-    },
-    {
         "title": "Bitcoin Plunges to $93K, Dogecoin Down 27% as Crypto Bloodbath Goes On",
         "source": "https://www.coindesk.com/markets/2024/12/20/bitcoin-plunges-to-93-k-dogecoin-down-27-as-crypto-bloodbath-goes-on",
         "timestamp": "2024-12-21 13:32:16",
@@ -417,54 +399,54 @@
         "title": "Despite Bitcoin's 10% Drop, Over $20M in Old Coins Find New Homes",
         "source": "https://cryptonews.net/news/bitcoin/30265004/",
         "timestamp": "2024-12-22 11:41:53",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bonk Rockets 30% to Lead Dog Meme Rebound; Floki Termed 'Utility Token' by CFTC",
         "source": "https://cryptonews.net/news/altcoins/30262939/",
         "timestamp": "2024-12-22 11:41:54",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Long-Term Bitcoin Holders Have Sold 1M BTC Since September: Van Straten",
         "source": "https://www.coindesk.com/markets/2024/12/20/long-term-bitcoin-holders-have-sold-1-m-btc-since-september-van-straten",
         "timestamp": "2024-12-22 11:41:54",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Optimism airdrop: how to position yourself for the 6th round of crypto rewards",
         "source": "https://cryptonews.net/news/altcoins/30265385/",
         "timestamp": "2024-12-22 11:51:51",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Whale Alert: Market Observer Highlights Ongoing PEPE Accumulation",
         "source": "https://cryptonews.net/news/altcoins/30265687/",
         "timestamp": "2024-12-22 11:51:51",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Chainlink Unlocks 11.25 Million LINK Tokens, Potential Price Impact",
         "source": "https://cryptonews.net/news/altcoins/30265041/",
         "timestamp": "2024-12-22 11:51:51",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "\ud83d\udd25Peter Schiff\u2019s FOMO: Why he wants USA coin instead of Bitcoin",
         "source": "https://cryptonews.net/news/bitcoin/30264726/",
         "timestamp": "2024-12-22 12:16:14",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Trump Pitched \u2018Massive\u2019 $280 Trillion Price Bitcoin Reserve To Save The Dollar",
         "source": "https://cryptonews.net/news/bitcoin/30265800/",
         "timestamp": "2024-12-22 12:48:17",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Quantum computing will fortify Bitcoin signatures: Adam Back",
         "source": "https://cryptonews.net/news/bitcoin/30265767/",
         "timestamp": "2024-12-22 12:48:17",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
