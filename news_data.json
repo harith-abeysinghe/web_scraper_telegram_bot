@@ -1,17 +1,5 @@
 [
     {
-        "title": "Bitcoin price surges to $99K hours after record Bitcoin ETF outflow",
-        "source": "https://cryptonews.net/news/bitcoin/30263149/",
-        "timestamp": "2024-12-21 17:33:55",
-        "sentToChannel": true
-    },
-    {
-        "title": "Ethereum (ETH) Price Prediction for December 21",
-        "source": "https://cryptonews.net/news/ethereum/30263274/",
-        "timestamp": "2024-12-21 17:41:43",
-        "sentToChannel": true
-    },
-    {
         "title": "Balaji Srinivasan on Bitcoin, AI: 'Going Vertical'",
         "source": "https://cryptonews.net/news/bitcoin/30263134/",
         "timestamp": "2024-12-21 17:52:06",
@@ -435,12 +423,12 @@
         "title": "Could Bitcoin Become DeFi\u2019s Collateral of Choice? Lombard Finance Says So",
         "source": "https://www.coindesk.com/markets/2024/12/20/could-bitcoin-become-de-fi-s-collateral-of-choice-lombard-finance-says-so",
         "timestamp": "2024-12-22 17:32:41",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Hailey Welch 'Fully Cooperating' With Lawyers Suing Over Failed HAWK Crypto",
         "source": "https://www.coindesk.com/business/2024/12/20/hailey-welch-fully-cooperating-with-lawyers-suing-over-failed-hawk-crypto",
         "timestamp": "2024-12-22 17:32:42",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
