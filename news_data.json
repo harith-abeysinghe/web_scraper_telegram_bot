@@ -514,5 +514,17 @@
         "source": "https://cryptonews.net/news/bitcoin/30264696/",
         "timestamp": "2024-12-21 23:22:33",
         "sentToChannel": true
+    },
+    {
+        "title": "Peter Schiff\u2019s FOMO: Why he wants USA coin instead of Bitcoin",
+        "source": "https://cryptonews.net/news/bitcoin/30264726/",
+        "timestamp": "2024-12-22 00:51:43",
+        "sentToChannel": false
+    },
+    {
+        "title": "BREAKING: Founder of This Altcoin Added to Interpol\u2019s Most Wanted List",
+        "source": "https://cryptonews.net/news/altcoins/30264748/",
+        "timestamp": "2024-12-22 00:51:44",
+        "sentToChannel": false
     }
 ]
