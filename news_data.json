@@ -388,5 +388,17 @@
         "source": "https://www.coindesk.com/business/2024/12/20/crypto-custody-firm-copper-withdraws-u-k-registration-application",
         "timestamp": "2024-12-22 10:51:50",
         "sentToChannel": true
+    },
+    {
+        "title": "Bouncing Lows, Mining Woes, and Fartcoin Highs",
+        "source": "https://cryptonews.net/news/bitcoin/30264737/",
+        "timestamp": "2024-12-22 11:18:51",
+        "sentToChannel": false
+    },
+    {
+        "title": "Bitcoin\u2019s Future in Focus: 4 Economic Variables for 2025",
+        "source": "https://cryptonews.net/news/bitcoin/30264651/",
+        "timestamp": "2024-12-22 11:18:51",
+        "sentToChannel": false
     }
 ]
