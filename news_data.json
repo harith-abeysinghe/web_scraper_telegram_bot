@@ -381,12 +381,12 @@
         "title": "Spot Bitcoin ETFs See Record Withdrawals as CME Futures Premium Signals Weaker Demand",
         "source": "https://www.coindesk.com/markets/2024/12/20/spot-bitcoin-etfs-see-record-withdrawals-as-cme-futures-premium-signals-weaker-demand",
         "timestamp": "2024-12-22 10:51:50",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Crypto Custody Firm Copper Withdraws U.K Registration Application",
         "source": "https://www.coindesk.com/business/2024/12/20/crypto-custody-firm-copper-withdraws-u-k-registration-application",
         "timestamp": "2024-12-22 10:51:50",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
