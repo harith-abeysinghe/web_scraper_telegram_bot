@@ -364,5 +364,29 @@
         "source": "https://www.coindesk.com/business/2024/12/20/tether-ceo-paolo-ardoino-teases-ai-platform-targeting-early-2025-debut",
         "timestamp": "2024-12-22 19:42:07",
         "sentToChannel": true
+    },
+    {
+        "title": "Ethereum Price Analysis: Following a 15% Weekly Crash, What\u2019s Next for ETH?",
+        "source": "https://cryptonews.net/news/ethereum/30264045/",
+        "timestamp": "2024-12-22 20:25:33",
+        "sentToChannel": false
+    },
+    {
+        "title": "Ethereum ETF Faces Outflow, but $12.16B NAV Suggests Resilience in the Market",
+        "source": "https://cryptonews.net/news/ethereum/30264243/",
+        "timestamp": "2024-12-22 20:25:33",
+        "sentToChannel": false
+    },
+    {
+        "title": "BitMEX\u2019s Arthur Hayes dumps $8.4 million in ENA hours after posting \u2018Ethena is impressive\u2019",
+        "source": "https://cryptonews.net/news/altcoins/30263607/",
+        "timestamp": "2024-12-22 20:25:33",
+        "sentToChannel": false
+    },
+    {
+        "title": "Polygon's Agglayer Mainnet Date Confirmed by Sandeep Nailwal",
+        "source": "https://cryptonews.net/news/altcoins/30263949/",
+        "timestamp": "2024-12-22 20:25:33",
+        "sentToChannel": false
     }
 ]
