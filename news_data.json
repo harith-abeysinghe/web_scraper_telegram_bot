@@ -1,35 +1,5 @@
 [
     {
-        "title": "We Need In-Kind Redemptions For The Spot Bitcoin ETFs",
-        "source": "https://cryptonews.net/news/bitcoin/30261657/",
-        "timestamp": "2024-12-21 00:45:47",
-        "sentToChannel": true
-    },
-    {
-        "title": "It\u2019s Not Unusual: Stablecoin Platform Altcoin USUAL Bucks Crypto Downtrend Following Binance Listing",
-        "source": "https://cryptonews.net/news/altcoins/30261611/",
-        "timestamp": "2024-12-21 00:45:49",
-        "sentToChannel": true
-    },
-    {
-        "title": "3rd largest blockchain by stablecoin cap, $100M+ in RWA \u2013 What went right for Arbitrum in 2024?",
-        "source": "https://cryptonews.net/news/altcoins/30261665/",
-        "timestamp": "2024-12-21 00:45:49",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin Price Repeating December 2023\u2019s Playbook: Is The \u2018Actual Breakout\u2019 Yet To Come?",
-        "source": "https://cryptonews.net/news/bitcoin/30261766/",
-        "timestamp": "2024-12-21 02:05:20",
-        "sentToChannel": true
-    },
-    {
-        "title": "BONK Burn Campaign Nears 1 Trillion Tokens",
-        "source": "https://cryptonews.net/news/altcoins/30261775/",
-        "timestamp": "2024-12-21 02:05:21",
-        "sentToChannel": true
-    },
-    {
         "title": "Colombian Investors Can Now Trade Bitcoin ETF Shares in Pesos",
         "source": "https://cryptonews.net/news/bitcoin/30261835/",
         "timestamp": "2024-12-21 02:50:53",
@@ -519,12 +489,12 @@
         "title": "Peter Schiff\u2019s FOMO: Why he wants USA coin instead of Bitcoin",
         "source": "https://cryptonews.net/news/bitcoin/30264726/",
         "timestamp": "2024-12-22 00:51:43",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "BREAKING: Founder of This Altcoin Added to Interpol\u2019s Most Wanted List",
         "source": "https://cryptonews.net/news/altcoins/30264748/",
         "timestamp": "2024-12-22 00:51:44",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
