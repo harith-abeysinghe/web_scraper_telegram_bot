@@ -1,17 +1,5 @@
 [
     {
-        "title": "Ethereum to ramp up gas limit as Pectra progresses",
-        "source": "https://cryptonews.net/news/ethereum/30260487/",
-        "timestamp": "2024-12-21 20:51:45",
-        "sentToChannel": true
-    },
-    {
-        "title": "DeFi Protocol Usual's Surge Catapults Hashnote's Tokenized Treasury Over BlackRock's BUIDL",
-        "source": "https://www.coindesk.com/markets/2024/12/20/de-fi-protocol-usuals-surge-catapults-hashnotes-tokenized-treasury-over-black-rocks-buidl",
-        "timestamp": "2024-12-21 20:51:46",
-        "sentToChannel": true
-    },
-    {
         "title": "Bitcoin Dips Below $96K While CoinDesk 20 Plunges 10% Amid Fed-Spurred Rout; SOL Surrenders Post-Election Rally",
         "source": "https://www.coindesk.com/markets/2024/12/19/bitcoin-dips-below-98-k-while-coin-desk-20-plunges-10-amid-fed-spurred-rout-sol-surrenders-post-election-rally",
         "timestamp": "2024-12-21 21:21:53",
@@ -351,6 +339,6 @@
         "title": "After Partial Recovery, Developers Unlock $243 Million Tokens In This Altcoin",
         "source": "https://cryptonews.net/news/altcoins/30264061/",
         "timestamp": "2024-12-22 20:41:53",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
