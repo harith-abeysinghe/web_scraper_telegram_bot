@@ -1,17 +1,5 @@
 [
     {
-        "title": "Bonk Rockets 30% to Lead Dog Meme Rebound; Floki Termed 'Utility Token' by CFTC",
-        "source": "https://www.coindesk.com/markets/2024/12/21/bonk-rockets-30-to-lead-dog-meme-rebound-floki-termed-utility-token-by-cftc",
-        "timestamp": "2024-12-21 11:19:03",
-        "sentToChannel": true
-    },
-    {
-        "title": "Long-Term Bitcoin Holders Have Sold 1M BTC Since September: Van Straten",
-        "source": "https://www.coindesk.com/markets/2024/12/20/long-term-bitcoin-holders-have-sold-1-m-btc-since-september-van-straten",
-        "timestamp": "2024-12-21 11:32:59",
-        "sentToChannel": true
-    },
-    {
         "title": "Bitcoin Miner Hut 8 Buys $100M BTC Boosting Total Total Stash to $1B",
         "source": "https://www.coindesk.com/business/2024/12/19/bitcoin-miner-hut-8-buys-usd100m-btc-boosting-total-total-stash-to-usd1b",
         "timestamp": "2024-12-21 12:16:36",
@@ -393,36 +381,36 @@
         "title": "Bouncing Lows, Mining Woes, and Fartcoin Highs",
         "source": "https://cryptonews.net/news/bitcoin/30264737/",
         "timestamp": "2024-12-22 11:18:51",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin\u2019s Future in Focus: 4 Economic Variables for 2025",
         "source": "https://cryptonews.net/news/bitcoin/30264651/",
         "timestamp": "2024-12-22 11:18:51",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Crypto Analyst Predicts Incoming Bitcoin Parabolic Rally, Says BTC at Point Where Things Get Exciting",
         "source": "https://cryptonews.net/news/bitcoin/30265182/",
         "timestamp": "2024-12-22 11:25:27",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Analyst Says Bitcoin Price Peak Lies Above $225,000, The Timeline Will Shock You",
         "source": "https://cryptonews.net/news/bitcoin/30265034/",
         "timestamp": "2024-12-22 11:25:27",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Investor Anthony Pompliano Says 2025 Will Be a \u2018Great Year\u2019 for Bitcoin \u2013 Here Are His Reasons",
         "source": "https://cryptonews.net/news/bitcoin/30264562/",
         "timestamp": "2024-12-22 11:25:27",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin is overdue a correction. How low could prices go post-Trump Inauguration?",
         "source": "https://cryptonews.net/news/bitcoin/30264522/",
         "timestamp": "2024-12-22 11:25:27",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
