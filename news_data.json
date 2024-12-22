@@ -1,53 +1,5 @@
 [
     {
-        "title": "$200,000 Bitcoin \u2018Doable\u2019 in 2025 Courtesy of One Catalyst, Says Venture Capitalist Dan Tapiero",
-        "source": "https://cryptonews.net/news/bitcoin/30262342/",
-        "timestamp": "2024-12-21 09:51:51",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin Dip: Is This the Buying Opportunity of 2024?",
-        "source": "https://cryptonews.net/news/bitcoin/30262522/",
-        "timestamp": "2024-12-21 09:51:51",
-        "sentToChannel": true
-    },
-    {
-        "title": "Crypto Gaming Innovation: VCs Bet on These Top Projects",
-        "source": "https://cryptonews.net/news/altcoins/30262317/",
-        "timestamp": "2024-12-21 09:51:52",
-        "sentToChannel": true
-    },
-    {
-        "title": "'Rich Dad Poor Dad' Author Names Best Assets for Your Money",
-        "source": "https://cryptonews.net/news/bitcoin/30262373/",
-        "timestamp": "2024-12-21 10:08:54",
-        "sentToChannel": true
-    },
-    {
-        "title": "Is Crypto the Ultimate Mirror of Emotions Like Greed, Fear, and Hope?",
-        "source": "https://cryptonews.net/news/bitcoin/30262345/",
-        "timestamp": "2024-12-21 10:08:54",
-        "sentToChannel": true
-    },
-    {
-        "title": "BTC price stampedes to $99.5K hours after record Bitcoin ETF outflow",
-        "source": "https://cryptonews.net/news/bitcoin/30262652/",
-        "timestamp": "2024-12-21 10:08:54",
-        "sentToChannel": true
-    },
-    {
-        "title": "VeChain Revolutionizes NFT Access with Free PofP Badge Tool",
-        "source": "https://cryptonews.net/news/altcoins/30262500/",
-        "timestamp": "2024-12-21 10:08:55",
-        "sentToChannel": true
-    },
-    {
-        "title": "Huge Whales Accumulate $ENA as Bullish Momentum Grows",
-        "source": "https://cryptonews.net/news/altcoins/30262217/",
-        "timestamp": "2024-12-21 10:08:55",
-        "sentToChannel": true
-    },
-    {
         "title": "Expert Explains Why You Need to Hold at Least 1,000 XRP",
         "source": "https://cryptonews.net/news/altcoins/30262658/",
         "timestamp": "2024-12-21 10:28:03",
@@ -441,6 +393,6 @@
         "title": "Ethereum Whales Buy the Dip Eyeing Quick ETH Price Rally to $4000",
         "source": "https://cryptonews.net/news/ethereum/30262190/",
         "timestamp": "2024-12-22 09:52:02",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
