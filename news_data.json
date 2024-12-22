@@ -1,17 +1,5 @@
 [
     {
-        "title": "10 companies launch Bitcoin treasuries, but not Microsoft: Here are the risks, benefits",
-        "source": "https://cryptonews.net/news/bitcoin/30264620/",
-        "timestamp": "2024-12-21 22:52:12",
-        "sentToChannel": true
-    },
-    {
-        "title": "Michael Saylor on Corporations to Replace Cash Reserves with Bitcoin",
-        "source": "https://cryptonews.net/news/bitcoin/30264696/",
-        "timestamp": "2024-12-21 23:22:33",
-        "sentToChannel": true
-    },
-    {
         "title": "Peter Schiff\u2019s FOMO: Why he wants USA coin instead of Bitcoin",
         "source": "https://cryptonews.net/news/bitcoin/30264726/",
         "timestamp": "2024-12-22 00:51:43",
@@ -429,24 +417,24 @@
         "title": "\u2018This Isn\u2019t a Token Casino\u2019: IOTA Founder Details Project\u2019s Real-World Successes",
         "source": "https://cryptonews.net/news/altcoins/30266968/",
         "timestamp": "2024-12-22 22:51:45",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Tether Takes $775M Stake in Video-Sharing Platform Rumble; RUM Shares Soar 41%",
         "source": "https://www.coindesk.com/business/2024/12/20/tether-takes-75-m-stake-in-video-sharing-platform-rumble",
         "timestamp": "2024-12-22 22:51:46",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Aptos Labs CEO Mo Shaikh Quits; Avery Ching to Take His Place",
         "source": "https://www.coindesk.com/business/2024/12/19/aptos-labs-ceo-mo-shaikh-quits-avery-ching-to-take-his-place",
         "timestamp": "2024-12-22 22:51:46",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Ethereum (ETH) Price Prediction For December 22",
         "source": "https://cryptonews.net/news/ethereum/30267086/",
         "timestamp": "2024-12-22 23:08:46",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
