@@ -448,5 +448,17 @@
         "source": "https://cryptonews.net/news/bitcoin/30267463/",
         "timestamp": "2024-12-23 04:45:39",
         "sentToChannel": true
+    },
+    {
+        "title": "Bitcoin sees first major weekly price decline since Trump\u2019s election win",
+        "source": "https://cryptonews.net/news/bitcoin/30267555/",
+        "timestamp": "2024-12-23 05:10:22",
+        "sentToChannel": false
+    },
+    {
+        "title": "Euro-Backed Stablecoins Flourish Post-MiCA, Reach \u20ac800M in Monthly Volumes",
+        "source": "https://cryptonews.net/news/altcoins/30267495/",
+        "timestamp": "2024-12-23 05:10:23",
+        "sentToChannel": false
     }
 ]
