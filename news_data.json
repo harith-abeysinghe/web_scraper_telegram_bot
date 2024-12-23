@@ -490,5 +490,41 @@
         "source": "https://cryptonews.net/news/altcoins/30267663/",
         "timestamp": "2024-12-23 09:29:54",
         "sentToChannel": true
+    },
+    {
+        "title": "Bitcoin Price Under Pressure: Could The Slide Continue?",
+        "source": "https://cryptonews.net/news/bitcoin/30267364/",
+        "timestamp": "2024-12-23 10:10:49",
+        "sentToChannel": false
+    },
+    {
+        "title": "BTC price risks $20K crash: 5 Things to know in Bitcoin this week",
+        "source": "https://cryptonews.net/news/bitcoin/30268583/",
+        "timestamp": "2024-12-23 10:10:49",
+        "sentToChannel": false
+    },
+    {
+        "title": "End of Altcoin Season? Glassnode Co-Founders Warn Alts in Danger of Lagging Behind After Last Week\u2019s Correction",
+        "source": "https://cryptonews.net/news/bitcoin/30267239/",
+        "timestamp": "2024-12-23 10:10:49",
+        "sentToChannel": false
+    },
+    {
+        "title": "Ethereum Price Back In The Red: A Deeper Drop Ahead?",
+        "source": "https://cryptonews.net/news/ethereum/30267406/",
+        "timestamp": "2024-12-23 10:10:50",
+        "sentToChannel": false
+    },
+    {
+        "title": "Why Flare Limits FAsset Minting During Songbird Testing Phase",
+        "source": "https://cryptonews.net/news/altcoins/30268125/",
+        "timestamp": "2024-12-23 10:10:51",
+        "sentToChannel": false
+    },
+    {
+        "title": "Top Blockchain Giants Overpowered by Developer Activity",
+        "source": "https://cryptonews.net/news/altcoins/30268085/",
+        "timestamp": "2024-12-23 10:10:51",
+        "sentToChannel": false
     }
 ]
