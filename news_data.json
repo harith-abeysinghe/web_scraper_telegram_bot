@@ -1,11 +1,5 @@
 [
     {
-        "title": "Founder of DeFi Giant Curve Gets Liquidated Again as CRV Slumps",
-        "source": "https://www.coindesk.com/business/2024/12/19/founder-of-de-fi-giant-curve-gets-liquidated-again-as-crv-slumps",
-        "timestamp": "2024-12-22 14:41:45",
-        "sentToChannel": true
-    },
-    {
         "title": "What Happened to Bitcoin's Santa Rally?",
         "source": "https://www.coindesk.com/markets/2024/12/20/what-happened-to-bitcoins-santa-rally",
         "timestamp": "2024-12-22 15:08:39",
@@ -555,60 +549,60 @@
         "title": "MicroStrategy Buys 5,262 BTC for $561 Million",
         "source": "https://cryptonews.net/news/bitcoin/30270089/",
         "timestamp": "2024-12-23 14:09:02",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "TON Blockchain Growth Surges: Daily Active Users Exceed 5 Million",
         "source": "https://cryptonews.net/news/altcoins/30270253/",
         "timestamp": "2024-12-23 14:09:03",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin, XRP, and Ethereum See Massive Two-Year Growth in Non-Empty Wallets",
         "source": "https://cryptonews.net/news/altcoins/30268908/",
         "timestamp": "2024-12-23 14:09:03",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin Plunges to $93K, Dogecoin Down 27% as Crypto Bloodbath Goes On",
         "source": "https://www.coindesk.com/markets/2024/12/20/bitcoin-plunges-to-93-k-dogecoin-down-27-as-crypto-bloodbath-goes-on",
         "timestamp": "2024-12-23 14:09:04",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin Miner Hut 8 Buys $100M BTC Boosting Total Total Stash to $1B",
         "source": "https://www.coindesk.com/business/2024/12/19/bitcoin-miner-hut-8-buys-usd100m-btc-boosting-total-total-stash-to-usd1b",
         "timestamp": "2024-12-23 14:09:04",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "A New Warning Came From the Expert Who Correctly Predicted Bitcoin Will Exceed $100,000! Here Are the Details",
         "source": "https://cryptonews.net/news/bitcoin/30269031/",
         "timestamp": "2024-12-23 14:28:28",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "El Salvador celebrates Christmas 2024 by buying another Bitcoin",
         "source": "https://cryptonews.net/news/bitcoin/30269027/",
         "timestamp": "2024-12-23 14:28:28",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "IOTA Positions Itself as Key Player in Trillion-Dollar RWA Blockchain Revolution",
         "source": "https://cryptonews.net/news/altcoins/30269889/",
         "timestamp": "2024-12-23 14:28:30",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Avalon Labs Raises $10M Series A to Grow Bitcoin-Backed Stablecoin",
         "source": "https://www.coindesk.com/business/2024/12/23/avalon-labs-raises-10-m-series-a-to-grow-bitcoin-backed-stablecoin",
         "timestamp": "2024-12-23 14:28:32",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Ethereum\u2019s Dominance Struggles: Will 2025 Bring a Turnaround?",
         "source": "https://cryptonews.net/news/ethereum/30268847/",
         "timestamp": "2024-12-23 14:38:44",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
