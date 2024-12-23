@@ -652,5 +652,41 @@
         "source": "https://cryptonews.net/news/altcoins/30270917/",
         "timestamp": "2024-12-23 17:42:40",
         "sentToChannel": true
+    },
+    {
+        "title": "La Rosa Holdings to offer Bitcoin payments for real estate agents",
+        "source": "https://cryptonews.net/news/bitcoin/30271750/",
+        "timestamp": "2024-12-23 18:35:14",
+        "sentToChannel": false
+    },
+    {
+        "title": "Bitcoin extends losses as traders see sub-$90K BTC price support test",
+        "source": "https://cryptonews.net/news/bitcoin/30271745/",
+        "timestamp": "2024-12-23 18:35:14",
+        "sentToChannel": false
+    },
+    {
+        "title": "Huge Bitcoin Reverse Explained by Bloomberg\u2019s Mike McGlone: Details",
+        "source": "https://cryptonews.net/news/bitcoin/30270945/",
+        "timestamp": "2024-12-23 18:35:14",
+        "sentToChannel": false
+    },
+    {
+        "title": "Ethereum's Key Metrics Surge: Is ETH Rebound Imminent?",
+        "source": "https://cryptonews.net/news/ethereum/30270985/",
+        "timestamp": "2024-12-23 18:35:15",
+        "sentToChannel": false
+    },
+    {
+        "title": "SHIB Burns Jump 936%, Price Reacts Unexpectedly",
+        "source": "https://cryptonews.net/news/altcoins/30271107/",
+        "timestamp": "2024-12-23 18:35:15",
+        "sentToChannel": false
+    },
+    {
+        "title": "Cosmos Roadmap for Q1 2025 Defines Cosmos Hub Performance Enhancements",
+        "source": "https://cryptonews.net/news/altcoins/30271748/",
+        "timestamp": "2024-12-23 18:35:15",
+        "sentToChannel": false
     }
 ]
