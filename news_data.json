@@ -1,11 +1,5 @@
 [
     {
-        "title": "Ethereum (ETH) Price Prediction for December 21",
-        "source": "https://cryptonews.net/news/ethereum/30263274/",
-        "timestamp": "2024-12-22 17:52:03",
-        "sentToChannel": true
-    },
-    {
         "title": "Bonk Token Burn: 1 Trillion Burn Picks Pace, Founder Gives $0.11 Price Target",
         "source": "https://cryptonews.net/news/altcoins/30263577/",
         "timestamp": "2024-12-22 18:33:22",
@@ -657,6 +651,6 @@
         "title": "DeSci tokens get a volume boost after Binance Launchpool adds Bio Protocol (BIO)",
         "source": "https://cryptonews.net/news/altcoins/30270917/",
         "timestamp": "2024-12-23 17:42:40",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
