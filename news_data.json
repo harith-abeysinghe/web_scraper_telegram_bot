@@ -1,11 +1,5 @@
 [
     {
-        "title": "Coinbase Alums Patchwork Take Next Step Toward No-Code Blockchain Development",
-        "source": "https://www.coindesk.com/business/2024/12/18/coinbase-alums-patchwork-take-next-step-toward-no-code-blockchain-development",
-        "timestamp": "2024-12-22 17:08:37",
-        "sentToChannel": true
-    },
-    {
         "title": "Could Bitcoin Become DeFi\u2019s Collateral of Choice? Lombard Finance Says So",
         "source": "https://www.coindesk.com/markets/2024/12/20/could-bitcoin-become-de-fi-s-collateral-of-choice-lombard-finance-says-so",
         "timestamp": "2024-12-22 17:32:41",
@@ -645,30 +639,30 @@
         "title": "Bitcoin News: BTC Risks Falling To $20K If This Happens",
         "source": "https://cryptonews.net/news/bitcoin/30270871/",
         "timestamp": "2024-12-23 16:34:16",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "How a Journalist Went From Exposing Mexican Cartels to Losing His Crypto Life Savings",
         "source": "https://www.coindesk.com/business/2024/12/20/how-a-journalist-went-from-exposing-mexican-cartels-to-losing-his-crypto-life-savings",
         "timestamp": "2024-12-23 16:34:19",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Market Crash Ahead? Mt. Gox Moves $49.3 Million in Bitcoin",
         "source": "https://cryptonews.net/news/bitcoin/30270321/",
         "timestamp": "2024-12-23 16:45:36",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Haliey Welch 'Fully Cooperating' With Lawyers Suing Over Failed HAWK Crypto",
         "source": "https://www.coindesk.com/business/2024/12/20/hailey-welch-fully-cooperating-with-lawyers-suing-over-failed-hawk-crypto",
         "timestamp": "2024-12-23 16:52:17",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Immutable (IMX) and Worldcoin (WLD) lead $513 million token unlocks this week",
         "source": "https://cryptonews.net/news/altcoins/30270565/",
         "timestamp": "2024-12-23 17:08:30",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
