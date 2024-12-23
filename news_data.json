@@ -640,5 +640,17 @@
         "source": "https://cryptonews.net/news/altcoins/30270942/",
         "timestamp": "2024-12-23 15:52:06",
         "sentToChannel": true
+    },
+    {
+        "title": "Bitcoin News: BTC Risks Falling To $20K If This Happens",
+        "source": "https://cryptonews.net/news/bitcoin/30270871/",
+        "timestamp": "2024-12-23 16:34:16",
+        "sentToChannel": false
+    },
+    {
+        "title": "How a Journalist Went From Exposing Mexican Cartels to Losing His Crypto Life Savings",
+        "source": "https://www.coindesk.com/business/2024/12/20/how-a-journalist-went-from-exposing-mexican-cartels-to-losing-his-crypto-life-savings",
+        "timestamp": "2024-12-23 16:34:19",
+        "sentToChannel": false
     }
 ]
