@@ -550,5 +550,35 @@
         "source": "https://cryptonews.net/news/altcoins/30269750/",
         "timestamp": "2024-12-23 13:42:10",
         "sentToChannel": true
+    },
+    {
+        "title": "MicroStrategy Buys 5,262 BTC for $561 Million",
+        "source": "https://cryptonews.net/news/bitcoin/30270089/",
+        "timestamp": "2024-12-23 14:09:02",
+        "sentToChannel": false
+    },
+    {
+        "title": "TON Blockchain Growth Surges: Daily Active Users Exceed 5 Million",
+        "source": "https://cryptonews.net/news/altcoins/30270253/",
+        "timestamp": "2024-12-23 14:09:03",
+        "sentToChannel": false
+    },
+    {
+        "title": "Bitcoin, XRP, and Ethereum See Massive Two-Year Growth in Non-Empty Wallets",
+        "source": "https://cryptonews.net/news/altcoins/30268908/",
+        "timestamp": "2024-12-23 14:09:03",
+        "sentToChannel": false
+    },
+    {
+        "title": "Bitcoin Plunges to $93K, Dogecoin Down 27% as Crypto Bloodbath Goes On",
+        "source": "https://www.coindesk.com/markets/2024/12/20/bitcoin-plunges-to-93-k-dogecoin-down-27-as-crypto-bloodbath-goes-on",
+        "timestamp": "2024-12-23 14:09:04",
+        "sentToChannel": false
+    },
+    {
+        "title": "Bitcoin Miner Hut 8 Buys $100M BTC Boosting Total Total Stash to $1B",
+        "source": "https://www.coindesk.com/business/2024/12/19/bitcoin-miner-hut-8-buys-usd100m-btc-boosting-total-total-stash-to-usd1b",
+        "timestamp": "2024-12-23 14:09:04",
+        "sentToChannel": false
     }
 ]
