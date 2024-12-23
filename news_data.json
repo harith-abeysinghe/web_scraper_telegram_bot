@@ -1,29 +1,5 @@
 [
     {
-        "title": "UAE Holding $40 Billion Worth Bitcoin? Truth or Rumor?",
-        "source": "https://cryptonews.net/news/bitcoin/30266283/",
-        "timestamp": "2024-12-22 21:32:32",
-        "sentToChannel": true
-    },
-    {
-        "title": "Watch Out: 25 Altcoins to Experience Massive Token Unlocking in Calm Week \u2013 Here\u2019s the Day-by-Day, Hour-by-Hour List",
-        "source": "https://cryptonews.net/news/altcoins/30266929/",
-        "timestamp": "2024-12-22 21:32:34",
-        "sentToChannel": true
-    },
-    {
-        "title": "Securitize proposes adding BlackRock's BUIDL token as Frax USD stablecoin backing",
-        "source": "https://cryptonews.net/news/altcoins/30267000/",
-        "timestamp": "2024-12-22 21:32:34",
-        "sentToChannel": true
-    },
-    {
-        "title": "Charles Hoskinson Reflects on Cardano\u2019s Journey and Future",
-        "source": "https://cryptonews.net/news/altcoins/30266705/",
-        "timestamp": "2024-12-22 21:32:34",
-        "sentToChannel": true
-    },
-    {
         "title": "Bitcoin Dips Below $96K While CoinDesk 20 Plunges 10% Amid Fed-Spurred Rout; SOL Surrenders Post-Election Rally",
         "source": "https://www.coindesk.com/markets/2024/12/19/bitcoin-dips-below-98-k-while-coin-desk-20-plunges-10-amid-fed-spurred-rout-sol-surrenders-post-election-rally",
         "timestamp": "2024-12-22 21:52:15",
@@ -687,12 +663,12 @@
         "title": "Ethereum advocate makes a case for Saylor-like investors in the ETH space",
         "source": "https://cryptonews.net/news/ethereum/30266018/",
         "timestamp": "2024-12-23 21:32:22",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "DeFi Protocol Usual's Surge Catapults Hashnote's Tokenized Treasury Over BlackRock's BUIDL",
         "source": "https://www.coindesk.com/markets/2024/12/20/de-fi-protocol-usuals-surge-catapults-hashnotes-tokenized-treasury-over-black-rocks-buidl",
         "timestamp": "2024-12-23 21:32:24",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
