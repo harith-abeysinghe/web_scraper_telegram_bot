@@ -1,41 +1,5 @@
 [
     {
-        "title": "Bouncing Lows, Mining Woes, and Fartcoin Highs",
-        "source": "https://cryptonews.net/news/bitcoin/30264737/",
-        "timestamp": "2024-12-22 11:18:51",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin\u2019s Future in Focus: 4 Economic Variables for 2025",
-        "source": "https://cryptonews.net/news/bitcoin/30264651/",
-        "timestamp": "2024-12-22 11:18:51",
-        "sentToChannel": true
-    },
-    {
-        "title": "Crypto Analyst Predicts Incoming Bitcoin Parabolic Rally, Says BTC at Point Where Things Get Exciting",
-        "source": "https://cryptonews.net/news/bitcoin/30265182/",
-        "timestamp": "2024-12-22 11:25:27",
-        "sentToChannel": true
-    },
-    {
-        "title": "Analyst Says Bitcoin Price Peak Lies Above $225,000, The Timeline Will Shock You",
-        "source": "https://cryptonews.net/news/bitcoin/30265034/",
-        "timestamp": "2024-12-22 11:25:27",
-        "sentToChannel": true
-    },
-    {
-        "title": "Investor Anthony Pompliano Says 2025 Will Be a \u2018Great Year\u2019 for Bitcoin \u2013 Here Are His Reasons",
-        "source": "https://cryptonews.net/news/bitcoin/30264562/",
-        "timestamp": "2024-12-22 11:25:27",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin is overdue a correction. How low could prices go post-Trump Inauguration?",
-        "source": "https://cryptonews.net/news/bitcoin/30264522/",
-        "timestamp": "2024-12-22 11:25:27",
-        "sentToChannel": true
-    },
-    {
         "title": "Despite Bitcoin's 10% Drop, Over $20M in Old Coins Find New Homes",
         "source": "https://cryptonews.net/news/bitcoin/30265004/",
         "timestamp": "2024-12-22 11:41:53",
@@ -561,18 +525,18 @@
         "title": "Spot Bitcoin ETFs See Record Withdrawals as CME Futures Premium Signals Weaker Demand",
         "source": "https://www.coindesk.com/markets/2024/12/20/spot-bitcoin-etfs-see-record-withdrawals-as-cme-futures-premium-signals-weaker-demand",
         "timestamp": "2024-12-23 11:08:06",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Crypto Custody Firm Copper Withdraws U.K Registration Application",
         "source": "https://www.coindesk.com/business/2024/12/20/crypto-custody-firm-copper-withdraws-u-k-registration-application",
         "timestamp": "2024-12-23 11:08:08",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Can Hamster Kombat S2 Ignite a Comeback for HMSTR Token?",
         "source": "https://cryptonews.net/news/altcoins/30269142/",
         "timestamp": "2024-12-23 11:21:21",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
