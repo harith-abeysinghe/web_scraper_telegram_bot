@@ -472,5 +472,17 @@
         "source": "https://cryptonews.net/news/altcoins/30266202/",
         "timestamp": "2024-12-23 08:46:25",
         "sentToChannel": true
+    },
+    {
+        "title": "Bitcoin Fails to Outperform Cocoa in 2024",
+        "source": "https://cryptonews.net/news/bitcoin/30267730/",
+        "timestamp": "2024-12-23 09:10:52",
+        "sentToChannel": false
+    },
+    {
+        "title": "Tron\u2019s Justin Sun Offloads 50% ETH Holdings, Ethereum Price Crash Imminent?",
+        "source": "https://cryptonews.net/news/ethereum/30267653/",
+        "timestamp": "2024-12-23 09:10:53",
+        "sentToChannel": false
     }
 ]
