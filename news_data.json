@@ -610,5 +610,23 @@
         "source": "https://www.coindesk.com/business/2024/12/19/founder-of-de-fi-giant-curve-gets-liquidated-again-as-crv-slumps",
         "timestamp": "2024-12-23 14:52:28",
         "sentToChannel": true
+    },
+    {
+        "title": "OpenSea Hints at OCEAN Token Launch On New X Account",
+        "source": "https://cryptonews.net/news/altcoins/30270769/",
+        "timestamp": "2024-12-23 15:27:00",
+        "sentToChannel": false
+    },
+    {
+        "title": "What Happened to Bitcoin's Santa Rally?",
+        "source": "https://www.coindesk.com/markets/2024/12/20/what-happened-to-bitcoins-santa-rally",
+        "timestamp": "2024-12-23 15:27:01",
+        "sentToChannel": false
+    },
+    {
+        "title": "Solana Layer 2 Sonic to Airdrop SONIC Token to TikTok Users",
+        "source": "https://www.coindesk.com/business/2024/12/23/solana-layer-2-sonic-to-airdrop-sonic-token-to-tik-tok-users",
+        "timestamp": "2024-12-23 15:27:01",
+        "sentToChannel": false
     }
 ]
