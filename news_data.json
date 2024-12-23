@@ -1,41 +1,5 @@
 [
     {
-        "title": "Bonk Token Burn: 1 Trillion Burn Picks Pace, Founder Gives $0.11 Price Target",
-        "source": "https://cryptonews.net/news/altcoins/30263577/",
-        "timestamp": "2024-12-22 18:33:22",
-        "sentToChannel": true
-    },
-    {
-        "title": "Elon Musk and Dogecoin: How the Billionaire Became the 'Dogefather'",
-        "source": "https://cryptonews.net/news/altcoins/30263571/",
-        "timestamp": "2024-12-22 18:33:22",
-        "sentToChannel": true
-    },
-    {
-        "title": "Ripple CTO Reveals Rare 2013 XRP Ledger Use: Details",
-        "source": "https://cryptonews.net/news/altcoins/30263471/",
-        "timestamp": "2024-12-22 18:33:22",
-        "sentToChannel": true
-    },
-    {
-        "title": "Ethereum Price Last Crash Before ETH Hits Five Digits",
-        "source": "https://cryptonews.net/news/ethereum/30263637/",
-        "timestamp": "2024-12-22 18:51:58",
-        "sentToChannel": true
-    },
-    {
-        "title": "Ethereum\u2019s $15.3B Burn Bonfire: Over 4.5M ETH Destroyed Since EIP-1559 Activation",
-        "source": "https://cryptonews.net/news/ethereum/30264028/",
-        "timestamp": "2024-12-22 18:51:58",
-        "sentToChannel": true
-    },
-    {
-        "title": "Ethereum Price Outlook: ETH Large Transactions Hit $11 Billion Amid 10% Rebound",
-        "source": "https://cryptonews.net/news/ethereum/30263927/",
-        "timestamp": "2024-12-22 18:51:58",
-        "sentToChannel": true
-    },
-    {
         "title": "Renowned Economist Shares Bitcoin Price Prediction for 2 Months and 6 Months From Now",
         "source": "https://cryptonews.net/news/bitcoin/30265884/",
         "timestamp": "2024-12-22 19:42:05",
@@ -657,48 +621,48 @@
         "title": "La Rosa Holdings to offer Bitcoin payments for real estate agents",
         "source": "https://cryptonews.net/news/bitcoin/30271750/",
         "timestamp": "2024-12-23 18:35:14",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin extends losses as traders see sub-$90K BTC price support test",
         "source": "https://cryptonews.net/news/bitcoin/30271745/",
         "timestamp": "2024-12-23 18:35:14",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Huge Bitcoin Reverse Explained by Bloomberg\u2019s Mike McGlone: Details",
         "source": "https://cryptonews.net/news/bitcoin/30270945/",
         "timestamp": "2024-12-23 18:35:14",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Ethereum's Key Metrics Surge: Is ETH Rebound Imminent?",
         "source": "https://cryptonews.net/news/ethereum/30270985/",
         "timestamp": "2024-12-23 18:35:15",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "SHIB Burns Jump 936%, Price Reacts Unexpectedly",
         "source": "https://cryptonews.net/news/altcoins/30271107/",
         "timestamp": "2024-12-23 18:35:15",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Cosmos Roadmap for Q1 2025 Defines Cosmos Hub Performance Enhancements",
         "source": "https://cryptonews.net/news/altcoins/30271748/",
         "timestamp": "2024-12-23 18:35:15",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "'Running out of Firepower': Schiff Roasts Saylor's Latest Bitcoin (BTC) Purchase",
         "source": "https://cryptonews.net/news/bitcoin/30271245/",
         "timestamp": "2024-12-23 18:45:41",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Dogecoin (DOGE) Surpassed $1 Billion on This Date Seven Years Ago: Details",
         "source": "https://cryptonews.net/news/altcoins/30271180/",
         "timestamp": "2024-12-23 18:45:42",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
