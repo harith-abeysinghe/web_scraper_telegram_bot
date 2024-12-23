@@ -664,5 +664,23 @@
         "source": "https://cryptonews.net/news/altcoins/30271180/",
         "timestamp": "2024-12-23 18:45:42",
         "sentToChannel": true
+    },
+    {
+        "title": "Ethereum Price Last Crash Before ETH Hits Five Digits",
+        "source": "https://cryptonews.net/news/ethereum/30263637/",
+        "timestamp": "2024-12-23 19:07:18",
+        "sentToChannel": false
+    },
+    {
+        "title": "Hyperliquid Token Plunges 21% Amid Fears of Looming North Korea Hack",
+        "source": "https://cryptonews.net/news/altcoins/30271537/",
+        "timestamp": "2024-12-23 19:07:19",
+        "sentToChannel": false
+    },
+    {
+        "title": "Tron Network Launches First AI Agent: Details",
+        "source": "https://cryptonews.net/news/altcoins/30271538/",
+        "timestamp": "2024-12-23 19:07:19",
+        "sentToChannel": false
     }
 ]
