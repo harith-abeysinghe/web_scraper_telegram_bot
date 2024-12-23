@@ -694,5 +694,17 @@
         "source": "https://www.coindesk.com/business/2024/12/20/tether-ceo-paolo-ardoino-teases-ai-platform-targeting-early-2025-debut",
         "timestamp": "2024-12-23 20:10:36",
         "sentToChannel": true
+    },
+    {
+        "title": "Ethereum Price Analysis: Following a 15% Weekly Crash, What\u2019s Next for ETH?",
+        "source": "https://cryptonews.net/news/ethereum/30264045/",
+        "timestamp": "2024-12-23 20:37:32",
+        "sentToChannel": false
+    },
+    {
+        "title": "Litecoin Reflects on the B- Rating Given by Weiss Crypto",
+        "source": "https://cryptonews.net/news/altcoins/30271741/",
+        "timestamp": "2024-12-23 20:37:32",
+        "sentToChannel": false
     }
 ]
