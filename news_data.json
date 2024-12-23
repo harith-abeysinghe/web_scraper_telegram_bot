@@ -1,23 +1,5 @@
 [
     {
-        "title": "Peter Schiff\u2019s FOMO: Why he wants USA coin instead of Bitcoin",
-        "source": "https://cryptonews.net/news/bitcoin/30264726/",
-        "timestamp": "2024-12-22 00:51:43",
-        "sentToChannel": true
-    },
-    {
-        "title": "BREAKING: Founder of This Altcoin Added to Interpol\u2019s Most Wanted List",
-        "source": "https://cryptonews.net/news/altcoins/30264748/",
-        "timestamp": "2024-12-22 00:51:44",
-        "sentToChannel": true
-    },
-    {
-        "title": "Hyperliquid breaks records, what\u2019s behind the $11.5B surge?",
-        "source": "https://cryptonews.net/news/altcoins/30264860/",
-        "timestamp": "2024-12-22 03:02:17",
-        "sentToChannel": true
-    },
-    {
         "title": "Time to Buy ETH? Ethereum Whales $28.5M Worth of Ether",
         "source": "https://cryptonews.net/news/ethereum/30261904/",
         "timestamp": "2024-12-22 03:45:48",
@@ -441,12 +423,12 @@
         "title": "US Bitcoin reserve could slash national debt 35% by 2049: VanEck",
         "source": "https://cryptonews.net/news/bitcoin/30267237/",
         "timestamp": "2024-12-23 02:09:57",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Ripple XRP Whale Transfers Spark Investor Interest as Prices Surge",
         "source": "https://cryptonews.net/news/altcoins/30267344/",
         "timestamp": "2024-12-23 02:57:32",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
