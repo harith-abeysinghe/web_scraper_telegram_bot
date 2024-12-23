@@ -429,24 +429,24 @@
         "title": "Saylor floats US crypto framework with $81T Bitcoin reserve plan",
         "source": "https://cryptonews.net/news/bitcoin/30267436/",
         "timestamp": "2024-12-23 04:12:25",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Sorry Saylor, Bitcoin was always about payments \u2014 minisatoshi releases BCH upgrade history to complement epic BTC fork map",
         "source": "https://cryptonews.net/news/bitcoin/30267477/",
         "timestamp": "2024-12-23 04:33:47",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Metaplanet Expands Bitcoin Holdings to 1,761.98 BTC Following $60.70 Million Investment",
         "source": "https://cryptonews.net/news/bitcoin/30267472/",
         "timestamp": "2024-12-23 04:33:47",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin Drawdowns See Decreased Severity Amid Bull Market Resurgence",
         "source": "https://cryptonews.net/news/bitcoin/30267463/",
         "timestamp": "2024-12-23 04:45:39",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
