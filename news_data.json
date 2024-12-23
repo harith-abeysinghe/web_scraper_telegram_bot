@@ -1,59 +1,5 @@
 [
     {
-        "title": "MicroStrategy Bitcoin purchases surpass 2021 bull market levels",
-        "source": "https://cryptonews.net/news/bitcoin/30266920/",
-        "timestamp": "2024-12-22 21:08:47",
-        "sentToChannel": true
-    },
-    {
-        "title": "$818 Million in Bitcoin (BTC) Change Unknown Hands",
-        "source": "https://cryptonews.net/news/bitcoin/30265858/",
-        "timestamp": "2024-12-22 21:08:47",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin price is still undervalued, MVRV indicator shows",
-        "source": "https://cryptonews.net/news/bitcoin/30266389/",
-        "timestamp": "2024-12-22 21:08:47",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin FUD Hits Highest Point of the Year: What Does This Mean BTC Bull Run?",
-        "source": "https://cryptonews.net/news/bitcoin/30265292/",
-        "timestamp": "2024-12-22 21:08:47",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin (BTC) Price Prediction for December 22",
-        "source": "https://cryptonews.net/news/bitcoin/30266008/",
-        "timestamp": "2024-12-22 21:08:47",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin social sentiment drops to yearly low, signaling BTC breakout",
-        "source": "https://cryptonews.net/news/bitcoin/30266917/",
-        "timestamp": "2024-12-22 21:08:47",
-        "sentToChannel": true
-    },
-    {
-        "title": "Ethereum advocate makes a case for Saylor-like investors in the ETH space",
-        "source": "https://cryptonews.net/news/ethereum/30266018/",
-        "timestamp": "2024-12-22 21:08:48",
-        "sentToChannel": true
-    },
-    {
-        "title": "DeFi Protocol Usual's Surge Catapults Hashnote's Tokenized Treasury Over BlackRock's BUIDL",
-        "source": "https://www.coindesk.com/markets/2024/12/20/de-fi-protocol-usuals-surge-catapults-hashnotes-tokenized-treasury-over-black-rocks-buidl",
-        "timestamp": "2024-12-22 21:08:49",
-        "sentToChannel": true
-    },
-    {
-        "title": "\ud83d\udd25Trump Pitched \u2018Massive\u2019 $280 Trillion Price Bitcoin Reserve To Save The Dollar",
-        "source": "https://cryptonews.net/news/bitcoin/30265800/",
-        "timestamp": "2024-12-22 21:22:04",
-        "sentToChannel": true
-    },
-    {
         "title": "UAE Holding $40 Billion Worth Bitcoin? Truth or Rumor?",
         "source": "https://cryptonews.net/news/bitcoin/30266283/",
         "timestamp": "2024-12-22 21:32:32",
@@ -735,6 +681,6 @@
         "title": "Cryptocurrency Analytics Firm Examines Two Specific Onchain Metrics in Bitcoin, Issues Warning",
         "source": "https://cryptonews.net/news/bitcoin/30271650/",
         "timestamp": "2024-12-23 21:08:32",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
