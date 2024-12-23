@@ -1,11 +1,5 @@
 [
     {
-        "title": "If ETH \u2018pullback continues,\u2019 a $3K retrace remains in play \u2014 Analyst",
-        "source": "https://cryptonews.net/news/ethereum/30262586/",
-        "timestamp": "2024-12-22 09:32:23",
-        "sentToChannel": true
-    },
-    {
         "title": "Ethereum Whales Buy the Dip Eyeing Quick ETH Price Rally to $4000",
         "source": "https://cryptonews.net/news/ethereum/30262190/",
         "timestamp": "2024-12-22 09:52:02",
@@ -477,30 +471,30 @@
         "title": "Bitcoin Fails to Outperform Cocoa in 2024",
         "source": "https://cryptonews.net/news/bitcoin/30267730/",
         "timestamp": "2024-12-23 09:10:52",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Tron\u2019s Justin Sun Offloads 50% ETH Holdings, Ethereum Price Crash Imminent?",
         "source": "https://cryptonews.net/news/ethereum/30267653/",
         "timestamp": "2024-12-23 09:10:53",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Animoca Founder Yat Siu Reveals Moca Network Plans, MOCA Coin Jumps 15%",
         "source": "https://cryptonews.net/news/altcoins/30267991/",
         "timestamp": "2024-12-23 09:29:54",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "aelf\u2019s aevatar Intelligence: No-Code AI Agents for the Web3 Frontier",
         "source": "https://cryptonews.net/news/altcoins/30267293/",
         "timestamp": "2024-12-23 09:29:54",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bloomberg ETF Analyst Hints Dogecoin Spot ETF Filing Under Trump Presidency",
         "source": "https://cryptonews.net/news/altcoins/30267663/",
         "timestamp": "2024-12-23 09:29:54",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
