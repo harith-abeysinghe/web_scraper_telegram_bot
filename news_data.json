@@ -1,41 +1,5 @@
 [
     {
-        "title": "Renowned Economist Shares Bitcoin Price Prediction for 2 Months and 6 Months From Now",
-        "source": "https://cryptonews.net/news/bitcoin/30265884/",
-        "timestamp": "2024-12-22 19:42:05",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin\u2019s (BTC) $2.25 Billion Exchange Outflow May Fuel Its Return to an All-Time High",
-        "source": "https://cryptonews.net/news/bitcoin/30266434/",
-        "timestamp": "2024-12-22 19:42:05",
-        "sentToChannel": true
-    },
-    {
-        "title": "A Theoretical Look at What Could Happen If Trump Creates a US Bitcoin Reserve",
-        "source": "https://cryptonews.net/news/bitcoin/30266437/",
-        "timestamp": "2024-12-22 19:42:05",
-        "sentToChannel": true
-    },
-    {
-        "title": "Stablecoin Frenzy: USDE Nears $6B as USD0 Rockets Past $1B in Market Supply",
-        "source": "https://cryptonews.net/news/altcoins/30266638/",
-        "timestamp": "2024-12-22 19:42:06",
-        "sentToChannel": true
-    },
-    {
-        "title": "3 Token Unlocks to Watch Next Week",
-        "source": "https://cryptonews.net/news/altcoins/30266208/",
-        "timestamp": "2024-12-22 19:42:06",
-        "sentToChannel": true
-    },
-    {
-        "title": "Tether CEO Paolo Ardoino Teases AI Platform Targeting Early 2025 Debut",
-        "source": "https://www.coindesk.com/business/2024/12/20/tether-ceo-paolo-ardoino-teases-ai-platform-targeting-early-2025-debut",
-        "timestamp": "2024-12-22 19:42:07",
-        "sentToChannel": true
-    },
-    {
         "title": "Ethereum Price Analysis: Following a 15% Weekly Crash, What\u2019s Next for ETH?",
         "source": "https://cryptonews.net/news/ethereum/30264045/",
         "timestamp": "2024-12-22 20:25:33",
@@ -669,78 +633,78 @@
         "title": "Ethereum Price Last Crash Before ETH Hits Five Digits",
         "source": "https://cryptonews.net/news/ethereum/30263637/",
         "timestamp": "2024-12-23 19:07:18",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Hyperliquid Token Plunges 21% Amid Fears of Looming North Korea Hack",
         "source": "https://cryptonews.net/news/altcoins/30271537/",
         "timestamp": "2024-12-23 19:07:19",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Tron Network Launches First AI Agent: Details",
         "source": "https://cryptonews.net/news/altcoins/30271538/",
         "timestamp": "2024-12-23 19:07:19",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Max Pain\u2014Largest Bitcoin Options Expiry in History to Conclude a Volatile Year",
         "source": "https://cryptonews.net/news/bitcoin/30271632/",
         "timestamp": "2024-12-23 19:19:10",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "$3,000 Gone Overnight: Bitcoin\u2019s Slide Sparks Global Crypto Shakeup",
         "source": "https://cryptonews.net/news/bitcoin/30271325/",
         "timestamp": "2024-12-23 19:19:10",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Ethereum Traders Maintain High Risk Appetite Despite 15% Price Drop",
         "source": "https://cryptonews.net/news/ethereum/30271594/",
         "timestamp": "2024-12-23 19:19:11",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Litecoin Records Growth In Daily Active Addresses In 2024: Report",
         "source": "https://cryptonews.net/news/altcoins/30271669/",
         "timestamp": "2024-12-23 19:19:11",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "$JUNO, $HIVE, and $IDEX Lead Top Daily Gainers",
         "source": "https://cryptonews.net/news/altcoins/30271043/",
         "timestamp": "2024-12-23 19:25:58",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Cartesi Whale Deposits 24 Million CTSI Tokens To Binance, Sign Of Plunge?",
         "source": "https://cryptonews.net/news/altcoins/30271587/",
         "timestamp": "2024-12-23 19:25:58",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "VeStation NFT Upgrade Complete: Mercury Brings 120% $B3TR Rewards Boost",
         "source": "https://cryptonews.net/news/altcoins/30271870/",
         "timestamp": "2024-12-23 19:25:58",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Ethereum price may be about to surge, history says",
         "source": "https://cryptonews.net/news/ethereum/30271034/",
         "timestamp": "2024-12-23 19:33:32",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Solana beats Ethereum in a key metric 3 months in a row",
         "source": "https://cryptonews.net/news/altcoins/30271164/",
         "timestamp": "2024-12-23 19:42:18",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Top 10 Cryptocurrencies With Most Recent ATHs",
         "source": "https://cryptonews.net/news/altcoins/30271179/",
         "timestamp": "2024-12-23 19:42:18",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
