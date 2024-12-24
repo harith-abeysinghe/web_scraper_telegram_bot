@@ -1,11 +1,5 @@
 [
     {
-        "title": "Saylor floats US crypto framework with $81T Bitcoin reserve plan",
-        "source": "https://cryptonews.net/news/bitcoin/30267436/",
-        "timestamp": "2024-12-23 04:12:25",
-        "sentToChannel": true
-    },
-    {
         "title": "Sorry Saylor, Bitcoin was always about payments \u2014 minisatoshi releases BCH upgrade history to complement epic BTC fork map",
         "source": "https://cryptonews.net/news/bitcoin/30267477/",
         "timestamp": "2024-12-23 04:33:47",
@@ -705,18 +699,18 @@
         "title": "Bitcoin Price on Thin Ice: Could a Major Drop Be Next?",
         "source": "https://cryptonews.net/news/bitcoin/30272845/",
         "timestamp": "2024-12-24 04:12:16",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Ethereum Price Attempts a Comeback: Is a Rebound Imminent?",
         "source": "https://cryptonews.net/news/ethereum/30272894/",
         "timestamp": "2024-12-24 04:12:17",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Aave considers integrating Chainlink\u2019s Smart Value Recapture to redirect MEV profits back to DeFi users",
         "source": "https://cryptonews.net/news/altcoins/30272930/",
         "timestamp": "2024-12-24 04:12:17",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
