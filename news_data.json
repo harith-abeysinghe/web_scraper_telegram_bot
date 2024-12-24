@@ -1,47 +1,5 @@
 [
     {
-        "title": "Bitcoin: quantum computing is not a problem, for now",
-        "source": "https://cryptonews.net/news/bitcoin/30268401/",
-        "timestamp": "2024-12-23 10:34:05",
-        "sentToChannel": true
-    },
-    {
-        "title": "Is the Trump Rally Over in Bitcoin? Will the Decline Continue? Analysts Answered!",
-        "source": "https://cryptonews.net/news/bitcoin/30267911/",
-        "timestamp": "2024-12-23 10:34:05",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin Correction Deepens, Sees Worst Week Since Trump Win",
-        "source": "https://cryptonews.net/news/bitcoin/30267797/",
-        "timestamp": "2024-12-23 10:34:05",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin Sentiment Dips to Lowest Mark of 2024 Amid Downturn",
-        "source": "https://cryptonews.net/news/bitcoin/30267708/",
-        "timestamp": "2024-12-23 10:34:05",
-        "sentToChannel": true
-    },
-    {
-        "title": "Cardano-Ripple collaboration? Hoskinson praises Ripple CTO in recent remarks",
-        "source": "https://cryptonews.net/news/altcoins/30268221/",
-        "timestamp": "2024-12-23 10:34:07",
-        "sentToChannel": true
-    },
-    {
-        "title": "\ud83d\udd25How Hoskinson Thinks Cardano is Similar To Bitcoin and XRP",
-        "source": "https://cryptonews.net/news/altcoins/30268109/",
-        "timestamp": "2024-12-23 10:34:07",
-        "sentToChannel": true
-    },
-    {
-        "title": "HyperLiquid Sees Record $60M in USDC Flee as North Korea Said to Be Probing Perpetuals Exchange",
-        "source": "https://www.coindesk.com/markets/2024/12/23/hyper-liquid-sees-record-60-m-in-usdc-flee-as-north-korea-said-to-be-probing-perpetuals-exchange",
-        "timestamp": "2024-12-23 10:34:08",
-        "sentToChannel": true
-    },
-    {
         "title": "Spot Bitcoin ETFs See Record Withdrawals as CME Futures Premium Signals Weaker Demand",
         "source": "https://www.coindesk.com/markets/2024/12/20/spot-bitcoin-etfs-see-record-withdrawals-as-cme-futures-premium-signals-weaker-demand",
         "timestamp": "2024-12-23 11:08:06",
@@ -717,12 +675,12 @@
         "title": "Bitcoin Reserve Is \u2018Hopium Hallucination,\u2019 Blockchain Expert Says",
         "source": "https://cryptonews.net/news/bitcoin/30273741/",
         "timestamp": "2024-12-24 10:33:03",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Ethereum Price Back In The Red: A Deeper Drop Ahead?",
         "source": "https://cryptonews.net/news/ethereum/30267406/",
         "timestamp": "2024-12-24 10:33:04",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
