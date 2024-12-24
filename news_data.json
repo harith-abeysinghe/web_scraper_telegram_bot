@@ -682,5 +682,17 @@
         "source": "https://cryptonews.net/news/bitcoin/30275564/",
         "timestamp": "2024-12-24 14:52:10",
         "sentToChannel": true
+    },
+    {
+        "title": "MicroStrategy's Bitcoin Holdings Generate $299M Yield",
+        "source": "https://cryptonews.net/news/bitcoin/30275873/",
+        "timestamp": "2024-12-24 15:25:44",
+        "sentToChannel": false
+    },
+    {
+        "title": "Investment Advisers to Supplant Hedge Funds as Top BTC ETF Holders in 2025: CF Benchmarks",
+        "source": "https://www.coindesk.com/markets/2024/12/23/investment-advisers-to-supplant-hedge-funds-as-top-btc-etf-holders-in-2025-cf-benchmarks",
+        "timestamp": "2024-12-24 15:25:46",
+        "sentToChannel": false
     }
 ]
