@@ -1,71 +1,5 @@
 [
     {
-        "title": "Bitcoin Price Analysis: Can Bitcoin Bounce Back to $100K Following 8% Weekly Drop?",
-        "source": "https://cryptonews.net/news/bitcoin/30269306/",
-        "timestamp": "2024-12-23 12:53:06",
-        "sentToChannel": true
-    },
-    {
-        "title": "Top 3 Reasons Why Bitcoin Price Crash Will End Soon",
-        "source": "https://cryptonews.net/news/bitcoin/30269646/",
-        "timestamp": "2024-12-23 12:53:06",
-        "sentToChannel": true
-    },
-    {
-        "title": "Ethereum Bulls Hold 100-Day EMA: Is ETH Ready to Explode?",
-        "source": "https://cryptonews.net/news/ethereum/30269303/",
-        "timestamp": "2024-12-23 12:53:08",
-        "sentToChannel": true
-    },
-    {
-        "title": "Arthur Hayes just dumped $10 million of this crypto he supports",
-        "source": "https://cryptonews.net/news/altcoins/30269484/",
-        "timestamp": "2024-12-23 12:53:08",
-        "sentToChannel": true
-    },
-    {
-        "title": "XRP Soars 328%, HBAR Jumps 457% in Post-Election Cryptocurrency Boom",
-        "source": "https://cryptonews.net/news/altcoins/30269147/",
-        "timestamp": "2024-12-23 12:53:08",
-        "sentToChannel": true
-    },
-    {
-        "title": "Metaplanet Picks Up Record 620 Bitcoin as XRP Leads Market Slide",
-        "source": "https://www.coindesk.com/markets/2024/12/23/metaplanet-picks-up-record-620-bitcoin-as-xrp-leads-market-slide",
-        "timestamp": "2024-12-23 12:53:09",
-        "sentToChannel": true
-    },
-    {
-        "title": "MicroStrategy Buys a Further 5,262 BTC as Stock Joins Nasdaq 100",
-        "source": "https://www.coindesk.com/markets/2024/12/23/micro-strategy-buys-a-further-5-262-btc-as-stock-joins-nasdaq-100",
-        "timestamp": "2024-12-23 13:17:19",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin shows signs of maturity as BTC ends the year with the smallest drawdowns in any bull cycle",
-        "source": "https://cryptonews.net/news/bitcoin/30269661/",
-        "timestamp": "2024-12-23 13:32:42",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin Struggles Below $100K: Will Bears Push BTC to $90K?",
-        "source": "https://cryptonews.net/news/bitcoin/30269048/",
-        "timestamp": "2024-12-23 13:32:42",
-        "sentToChannel": true
-    },
-    {
-        "title": "CAT, MOG, SHIB Among Meme Tokens Added to Chainlink Services",
-        "source": "https://www.coindesk.com/markets/2024/12/23/cat-mog-shib-among-meme-tokens-added-to-chainlink-services",
-        "timestamp": "2024-12-23 13:32:44",
-        "sentToChannel": true
-    },
-    {
-        "title": "Roam DePIN Hits Major Adoption Milestone Targeting 1.7 Million Users",
-        "source": "https://cryptonews.net/news/altcoins/30269750/",
-        "timestamp": "2024-12-23 13:42:10",
-        "sentToChannel": true
-    },
-    {
         "title": "MicroStrategy Buys 5,262 BTC for $561 Million",
         "source": "https://cryptonews.net/news/bitcoin/30270089/",
         "timestamp": "2024-12-23 14:09:02",
@@ -681,54 +615,54 @@
         "title": "Rumble CEO Proposes Bitcoin Tipping for Creators After $775M Partnership with Tether",
         "source": "https://cryptonews.net/news/bitcoin/30273817/",
         "timestamp": "2024-12-24 12:18:14",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin Price Analysis: Bulls Target $97K Amid Doji Formation",
         "source": "https://cryptonews.net/news/bitcoin/30273855/",
         "timestamp": "2024-12-24 12:18:14",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "What\u2019s in the Future of Ethereum? Analysts Explain Whether There\u2019s Light at the End of the Tunnel",
         "source": "https://cryptonews.net/news/ethereum/30274017/",
         "timestamp": "2024-12-24 12:18:14",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Justin Sun Denies Ethereum Selloff Claims As ETH Price Eyes $4,000 Rally",
         "source": "https://cryptonews.net/news/ethereum/30274129/",
         "timestamp": "2024-12-24 12:18:14",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bonk Rockets 30% to Lead Dog Meme Rebound; Floki Termed 'Utility Token' by CFTC",
         "source": "https://www.coindesk.com/markets/2024/12/21/bonk-rockets-30-to-lead-dog-meme-rebound-floki-termed-utility-token-by-cftc",
         "timestamp": "2024-12-24 12:18:15",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "R. Kiyosaki blasts 'Bitcoin cry babies' as BTC price drops",
         "source": "https://cryptonews.net/news/bitcoin/30274671/",
         "timestamp": "2024-12-24 12:51:47",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin bull market over? \u2018Decembear\u2019 has only sent BTC price 2% lower",
         "source": "https://cryptonews.net/news/bitcoin/30275201/",
         "timestamp": "2024-12-24 13:15:59",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "\ud83d\udd25El Salvador touts Bitcoin success in talks with China",
         "source": "https://cryptonews.net/news/bitcoin/30274874/",
         "timestamp": "2024-12-24 13:15:59",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "ESG-Focused Blockchain Trrue Secures $10M Investment Commitment From GEM Digital",
         "source": "https://www.coindesk.com/business/2024/12/24/esg-focused-blockchain-trrue-secures-10-m-investment-commitment-from-gem-digital",
         "timestamp": "2024-12-24 13:30:49",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
