@@ -628,5 +628,23 @@
         "source": "https://cryptonews.net/news/ethereum/30271034/",
         "timestamp": "2024-12-24 19:51:57",
         "sentToChannel": true
+    },
+    {
+        "title": "Bitcoin\u2019s $100K milestone reflections, what\u2019s next",
+        "source": "https://cryptonews.net/news/bitcoin/30276852/",
+        "timestamp": "2024-12-24 20:28:28",
+        "sentToChannel": false
+    },
+    {
+        "title": "Bitcoin Supply Reaches 19.8 Million Mark, Nearing Maximum Limit",
+        "source": "https://cryptonews.net/news/bitcoin/30276984/",
+        "timestamp": "2024-12-24 20:28:28",
+        "sentToChannel": false
+    },
+    {
+        "title": "Tether CEO Paolo Ardoino Teases AI Platform Targeting Early 2025 Debut",
+        "source": "https://www.coindesk.com/business/2024/12/20/tether-ceo-paolo-ardoino-teases-ai-platform-targeting-early-2025-debut",
+        "timestamp": "2024-12-24 20:28:31",
+        "sentToChannel": false
     }
 ]
