@@ -634,5 +634,29 @@
         "source": "https://cryptonews.net/news/altcoins/30277396/",
         "timestamp": "2024-12-24 23:32:45",
         "sentToChannel": true
+    },
+    {
+        "title": "Ethereum News: Here\u2019s What To Expect After Pectra Upgrade",
+        "source": "https://cryptonews.net/news/ethereum/30277324/",
+        "timestamp": "2024-12-24 23:52:13",
+        "sentToChannel": false
+    },
+    {
+        "title": "Chiliz And CAKE Users Discover 1Fuel: The Altcoin With A Groundbreaking Twist",
+        "source": "https://cryptonews.net/news/altcoins/30277357/",
+        "timestamp": "2024-12-24 23:52:13",
+        "sentToChannel": false
+    },
+    {
+        "title": "Tether Takes $775M Stake in Video-Sharing Platform Rumble; RUM Shares Soar 41%",
+        "source": "https://www.coindesk.com/business/2024/12/20/tether-takes-75-m-stake-in-video-sharing-platform-rumble",
+        "timestamp": "2024-12-24 23:52:14",
+        "sentToChannel": false
+    },
+    {
+        "title": "Aptos Labs CEO Mo Shaikh Quits; Avery Ching to Take His Place",
+        "source": "https://www.coindesk.com/business/2024/12/19/aptos-labs-ceo-mo-shaikh-quits-avery-ching-to-take-his-place",
+        "timestamp": "2024-12-24 23:52:14",
+        "sentToChannel": false
     }
 ]
