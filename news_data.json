@@ -1,11 +1,5 @@
 [
     {
-        "title": "Can Hamster Kombat S2 Ignite a Comeback for HMSTR Token?",
-        "source": "https://cryptonews.net/news/altcoins/30269142/",
-        "timestamp": "2024-12-23 11:21:21",
-        "sentToChannel": true
-    },
-    {
         "title": "Bonk Rockets 30% to Lead Dog Meme Rebound; Floki Termed 'Utility Token' by CFTC",
         "source": "https://www.coindesk.com/markets/2024/12/21/bonk-rockets-30-to-lead-dog-meme-rebound-floki-termed-utility-token-by-cftc",
         "timestamp": "2024-12-23 11:52:07",
@@ -681,18 +675,18 @@
         "title": "SOL's Evolving Throwback Pattern Makes It Enticing for Breakout Traders: Godbole",
         "source": "https://www.coindesk.com/markets/2024/12/24/sols-evolving-throwback-pattern-makes-it-enticing-for-breakout-traders-godbole",
         "timestamp": "2024-12-24 11:21:13",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Crypto Custody Firm Copper Withdraws U.K Registration Application",
         "source": "https://www.coindesk.com/business/2024/12/20/crypto-custody-firm-copper-withdraws-u-k-registration-application",
         "timestamp": "2024-12-24 11:21:13",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Will the Magnificent 7 Tech Giants Dive Into Bitcoin in 2025?",
         "source": "https://cryptonews.net/news/bitcoin/30274430/",
         "timestamp": "2024-12-24 11:32:28",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
