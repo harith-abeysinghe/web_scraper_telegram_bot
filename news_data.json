@@ -676,5 +676,35 @@
         "source": "https://cryptonews.net/news/bitcoin/30274430/",
         "timestamp": "2024-12-24 11:32:28",
         "sentToChannel": true
+    },
+    {
+        "title": "Rumble CEO Proposes Bitcoin Tipping for Creators After $775M Partnership with Tether",
+        "source": "https://cryptonews.net/news/bitcoin/30273817/",
+        "timestamp": "2024-12-24 12:18:14",
+        "sentToChannel": false
+    },
+    {
+        "title": "Bitcoin Price Analysis: Bulls Target $97K Amid Doji Formation",
+        "source": "https://cryptonews.net/news/bitcoin/30273855/",
+        "timestamp": "2024-12-24 12:18:14",
+        "sentToChannel": false
+    },
+    {
+        "title": "What\u2019s in the Future of Ethereum? Analysts Explain Whether There\u2019s Light at the End of the Tunnel",
+        "source": "https://cryptonews.net/news/ethereum/30274017/",
+        "timestamp": "2024-12-24 12:18:14",
+        "sentToChannel": false
+    },
+    {
+        "title": "Justin Sun Denies Ethereum Selloff Claims As ETH Price Eyes $4,000 Rally",
+        "source": "https://cryptonews.net/news/ethereum/30274129/",
+        "timestamp": "2024-12-24 12:18:14",
+        "sentToChannel": false
+    },
+    {
+        "title": "Bonk Rockets 30% to Lead Dog Meme Rebound; Floki Termed 'Utility Token' by CFTC",
+        "source": "https://www.coindesk.com/markets/2024/12/21/bonk-rockets-30-to-lead-dog-meme-rebound-floki-termed-utility-token-by-cftc",
+        "timestamp": "2024-12-24 12:18:15",
+        "sentToChannel": false
     }
 ]
