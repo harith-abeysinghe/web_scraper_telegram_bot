@@ -1,23 +1,5 @@
 [
     {
-        "title": "$JUNO, $HIVE, and $IDEX Lead Top Daily Gainers",
-        "source": "https://cryptonews.net/news/altcoins/30271043/",
-        "timestamp": "2024-12-23 19:25:58",
-        "sentToChannel": true
-    },
-    {
-        "title": "Cartesi Whale Deposits 24 Million CTSI Tokens To Binance, Sign Of Plunge?",
-        "source": "https://cryptonews.net/news/altcoins/30271587/",
-        "timestamp": "2024-12-23 19:25:58",
-        "sentToChannel": true
-    },
-    {
-        "title": "VeStation NFT Upgrade Complete: Mercury Brings 120% $B3TR Rewards Boost",
-        "source": "https://cryptonews.net/news/altcoins/30271870/",
-        "timestamp": "2024-12-23 19:25:58",
-        "sentToChannel": true
-    },
-    {
         "title": "Ethereum price may be about to surge, history says",
         "source": "https://cryptonews.net/news/ethereum/30271034/",
         "timestamp": "2024-12-23 19:33:32",
@@ -669,6 +651,6 @@
         "title": "Ethereum Traders Maintain High Risk Appetite Despite 15% Price Drop",
         "source": "https://cryptonews.net/news/ethereum/30271594/",
         "timestamp": "2024-12-24 19:25:31",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
