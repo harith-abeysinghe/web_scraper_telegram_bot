@@ -1,11 +1,5 @@
 [
     {
-        "title": "Ripple Makes Mysterious 90 Million XRP Transfer: What's Going On?",
-        "source": "https://cryptonews.net/news/altcoins/30266202/",
-        "timestamp": "2024-12-23 08:46:25",
-        "sentToChannel": true
-    },
-    {
         "title": "Bitcoin Fails to Outperform Cocoa in 2024",
         "source": "https://cryptonews.net/news/bitcoin/30267730/",
         "timestamp": "2024-12-23 09:10:52",
@@ -723,24 +717,24 @@
         "title": "I am Proud to Stand With Bitcoin: Senator Ted Cruz",
         "source": "https://cryptonews.net/news/bitcoin/30272065/",
         "timestamp": "2024-12-24 08:46:28",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "\ud83d\udd25Bitcoin is Declining: But Is There a Need for FUD? Analytics Company Reveals the Real Truth",
         "source": "https://cryptonews.net/news/bitcoin/30272182/",
         "timestamp": "2024-12-24 08:46:28",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Ethereum Price Forecast: ETH risks a decline to $3,000 as investors realize increased profits and losses",
         "source": "https://cryptonews.net/news/ethereum/30273055/",
         "timestamp": "2024-12-24 08:46:34",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "AI agents rallied the most among the first batches of Binance Alpha tokens",
         "source": "https://cryptonews.net/news/altcoins/30272297/",
         "timestamp": "2024-12-24 08:46:40",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
