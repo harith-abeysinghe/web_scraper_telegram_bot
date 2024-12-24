@@ -718,5 +718,29 @@
         "source": "https://www.coindesk.com/markets/2024/12/23/more-pain-likely-market-expert-says-after-bitcoins-biggest-loss-since-august",
         "timestamp": "2024-12-24 07:32:35",
         "sentToChannel": true
+    },
+    {
+        "title": "I am Proud to Stand With Bitcoin: Senator Ted Cruz",
+        "source": "https://cryptonews.net/news/bitcoin/30272065/",
+        "timestamp": "2024-12-24 08:46:28",
+        "sentToChannel": false
+    },
+    {
+        "title": "\ud83d\udd25Bitcoin is Declining: But Is There a Need for FUD? Analytics Company Reveals the Real Truth",
+        "source": "https://cryptonews.net/news/bitcoin/30272182/",
+        "timestamp": "2024-12-24 08:46:28",
+        "sentToChannel": false
+    },
+    {
+        "title": "Ethereum Price Forecast: ETH risks a decline to $3,000 as investors realize increased profits and losses",
+        "source": "https://cryptonews.net/news/ethereum/30273055/",
+        "timestamp": "2024-12-24 08:46:34",
+        "sentToChannel": false
+    },
+    {
+        "title": "AI agents rallied the most among the first batches of Binance Alpha tokens",
+        "source": "https://cryptonews.net/news/altcoins/30272297/",
+        "timestamp": "2024-12-24 08:46:40",
+        "sentToChannel": false
     }
 ]
