@@ -1,59 +1,5 @@
 [
     {
-        "title": "Animoca Founder Yat Siu Reveals Moca Network Plans, MOCA Coin Jumps 15%",
-        "source": "https://cryptonews.net/news/altcoins/30267991/",
-        "timestamp": "2024-12-23 09:29:54",
-        "sentToChannel": true
-    },
-    {
-        "title": "aelf\u2019s aevatar Intelligence: No-Code AI Agents for the Web3 Frontier",
-        "source": "https://cryptonews.net/news/altcoins/30267293/",
-        "timestamp": "2024-12-23 09:29:54",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bloomberg ETF Analyst Hints Dogecoin Spot ETF Filing Under Trump Presidency",
-        "source": "https://cryptonews.net/news/altcoins/30267663/",
-        "timestamp": "2024-12-23 09:29:54",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin Price Under Pressure: Could The Slide Continue?",
-        "source": "https://cryptonews.net/news/bitcoin/30267364/",
-        "timestamp": "2024-12-23 10:10:49",
-        "sentToChannel": true
-    },
-    {
-        "title": "BTC price risks $20K crash: 5 Things to know in Bitcoin this week",
-        "source": "https://cryptonews.net/news/bitcoin/30268583/",
-        "timestamp": "2024-12-23 10:10:49",
-        "sentToChannel": true
-    },
-    {
-        "title": "End of Altcoin Season? Glassnode Co-Founders Warn Alts in Danger of Lagging Behind After Last Week\u2019s Correction",
-        "source": "https://cryptonews.net/news/bitcoin/30267239/",
-        "timestamp": "2024-12-23 10:10:49",
-        "sentToChannel": true
-    },
-    {
-        "title": "Ethereum Price Back In The Red: A Deeper Drop Ahead?",
-        "source": "https://cryptonews.net/news/ethereum/30267406/",
-        "timestamp": "2024-12-23 10:10:50",
-        "sentToChannel": true
-    },
-    {
-        "title": "Why Flare Limits FAsset Minting During Songbird Testing Phase",
-        "source": "https://cryptonews.net/news/altcoins/30268125/",
-        "timestamp": "2024-12-23 10:10:51",
-        "sentToChannel": true
-    },
-    {
-        "title": "Top Blockchain Giants Overpowered by Developer Activity",
-        "source": "https://cryptonews.net/news/altcoins/30268085/",
-        "timestamp": "2024-12-23 10:10:51",
-        "sentToChannel": true
-    },
-    {
         "title": "Bitcoin: quantum computing is not a problem, for now",
         "source": "https://cryptonews.net/news/bitcoin/30268401/",
         "timestamp": "2024-12-23 10:34:05",
@@ -747,24 +693,24 @@
         "title": "Tron\u2019s Justin Sun Offloads 50% ETH Holdings, Ethereum Price Crash Imminent?",
         "source": "https://cryptonews.net/news/ethereum/30267653/",
         "timestamp": "2024-12-24 09:36:59",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Ethena Whale Stakes 9 Million ENA Tokens, Triggers DeFi Frenzy",
         "source": "https://cryptonews.net/news/altcoins/30273474/",
         "timestamp": "2024-12-24 09:43:35",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin Policy Institute sends \u2018global reordering proposal\u2019 in the US-China competition to incoming Treasury Department Secretary",
         "source": "https://cryptonews.net/news/bitcoin/30273130/",
         "timestamp": "2024-12-24 09:52:07",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin ETFs continue outflow streak as BTC tumbled under $93k",
         "source": "https://cryptonews.net/news/bitcoin/30273546/",
         "timestamp": "2024-12-24 09:52:07",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
