@@ -1,47 +1,5 @@
 [
     {
-        "title": "Ethereum Price Last Crash Before ETH Hits Five Digits",
-        "source": "https://cryptonews.net/news/ethereum/30263637/",
-        "timestamp": "2024-12-23 19:07:18",
-        "sentToChannel": true
-    },
-    {
-        "title": "Hyperliquid Token Plunges 21% Amid Fears of Looming North Korea Hack",
-        "source": "https://cryptonews.net/news/altcoins/30271537/",
-        "timestamp": "2024-12-23 19:07:19",
-        "sentToChannel": true
-    },
-    {
-        "title": "Tron Network Launches First AI Agent: Details",
-        "source": "https://cryptonews.net/news/altcoins/30271538/",
-        "timestamp": "2024-12-23 19:07:19",
-        "sentToChannel": true
-    },
-    {
-        "title": "Max Pain\u2014Largest Bitcoin Options Expiry in History to Conclude a Volatile Year",
-        "source": "https://cryptonews.net/news/bitcoin/30271632/",
-        "timestamp": "2024-12-23 19:19:10",
-        "sentToChannel": true
-    },
-    {
-        "title": "$3,000 Gone Overnight: Bitcoin\u2019s Slide Sparks Global Crypto Shakeup",
-        "source": "https://cryptonews.net/news/bitcoin/30271325/",
-        "timestamp": "2024-12-23 19:19:10",
-        "sentToChannel": true
-    },
-    {
-        "title": "Ethereum Traders Maintain High Risk Appetite Despite 15% Price Drop",
-        "source": "https://cryptonews.net/news/ethereum/30271594/",
-        "timestamp": "2024-12-23 19:19:11",
-        "sentToChannel": true
-    },
-    {
-        "title": "Litecoin Records Growth In Daily Active Addresses In 2024: Report",
-        "source": "https://cryptonews.net/news/altcoins/30271669/",
-        "timestamp": "2024-12-23 19:19:11",
-        "sentToChannel": true
-    },
-    {
         "title": "$JUNO, $HIVE, and $IDEX Lead Top Daily Gainers",
         "source": "https://cryptonews.net/news/altcoins/30271043/",
         "timestamp": "2024-12-23 19:25:58",
@@ -699,12 +657,12 @@
         "title": "U.S. Bitcoin ETFs shed $1.2 billion in three-day outflow streak, longest since election",
         "source": "https://cryptonews.net/news/bitcoin/30276919/",
         "timestamp": "2024-12-24 19:07:10",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin Approaching $100K on Christmas Eve",
         "source": "https://cryptonews.net/news/bitcoin/30276819/",
         "timestamp": "2024-12-24 19:07:10",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
