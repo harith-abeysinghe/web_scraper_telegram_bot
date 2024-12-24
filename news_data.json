@@ -1,17 +1,5 @@
 [
     {
-        "title": "Bitcoin Fails to Outperform Cocoa in 2024",
-        "source": "https://cryptonews.net/news/bitcoin/30267730/",
-        "timestamp": "2024-12-23 09:10:52",
-        "sentToChannel": true
-    },
-    {
-        "title": "Tron\u2019s Justin Sun Offloads 50% ETH Holdings, Ethereum Price Crash Imminent?",
-        "source": "https://cryptonews.net/news/ethereum/30267653/",
-        "timestamp": "2024-12-23 09:10:53",
-        "sentToChannel": true
-    },
-    {
         "title": "Animoca Founder Yat Siu Reveals Moca Network Plans, MOCA Coin Jumps 15%",
         "source": "https://cryptonews.net/news/altcoins/30267991/",
         "timestamp": "2024-12-23 09:29:54",
@@ -741,18 +729,18 @@
         "title": "MicroStrategy\u2019s Saylor Defends Buying Bitcoin Tops",
         "source": "https://cryptonews.net/news/bitcoin/30273307/",
         "timestamp": "2024-12-24 09:10:16",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "PENGU Price Soars 20% Amid Major Listing, Rally To Sustain?",
         "source": "https://cryptonews.net/news/altcoins/30273681/",
         "timestamp": "2024-12-24 09:10:20",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Grayscale Submitted Grayscale Horizen Trust 8-K Form to the SEC",
         "source": "https://cryptonews.net/news/altcoins/30273814/",
         "timestamp": "2024-12-24 09:10:20",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
