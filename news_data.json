@@ -1,23 +1,5 @@
 [
     {
-        "title": "OpenSea Hints at OCEAN Token Launch On New X Account",
-        "source": "https://cryptonews.net/news/altcoins/30270769/",
-        "timestamp": "2024-12-23 15:27:00",
-        "sentToChannel": true
-    },
-    {
-        "title": "What Happened to Bitcoin's Santa Rally?",
-        "source": "https://www.coindesk.com/markets/2024/12/20/what-happened-to-bitcoins-santa-rally",
-        "timestamp": "2024-12-23 15:27:01",
-        "sentToChannel": true
-    },
-    {
-        "title": "Solana Layer 2 Sonic to Airdrop SONIC Token to TikTok Users",
-        "source": "https://www.coindesk.com/business/2024/12/23/solana-layer-2-sonic-to-airdrop-sonic-token-to-tik-tok-users",
-        "timestamp": "2024-12-23 15:27:01",
-        "sentToChannel": true
-    },
-    {
         "title": "More Than Half of Crypto Tokens Debuted in 2024 Were Malicious: Blockaid",
         "source": "https://www.coindesk.com/business/2024/12/19/more-than-half-of-crypto-tokens-debuted-in-2024-were-malicious-blockaid",
         "timestamp": "2024-12-23 15:43:15",
@@ -687,12 +669,12 @@
         "title": "MicroStrategy's Bitcoin Holdings Generate $299M Yield",
         "source": "https://cryptonews.net/news/bitcoin/30275873/",
         "timestamp": "2024-12-24 15:25:44",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Investment Advisers to Supplant Hedge Funds as Top BTC ETF Holders in 2025: CF Benchmarks",
         "source": "https://www.coindesk.com/markets/2024/12/23/investment-advisers-to-supplant-hedge-funds-as-top-btc-etf-holders-in-2025-cf-benchmarks",
         "timestamp": "2024-12-24 15:25:46",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
