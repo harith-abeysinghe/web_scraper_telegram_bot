@@ -712,5 +712,17 @@
         "source": "https://www.coindesk.com/business/2024/12/20/hailey-welch-fully-cooperating-with-lawyers-suing-over-failed-hawk-crypto",
         "timestamp": "2024-12-24 17:33:23",
         "sentToChannel": true
+    },
+    {
+        "title": "Bitcoin is Trading -8.15% Below Our Price Prediction for Dec 29, 2024",
+        "source": "https://cryptonews.net/news/bitcoin/30276288/",
+        "timestamp": "2024-12-24 18:12:59",
+        "sentToChannel": false
+    },
+    {
+        "title": "SHIB Burns Collapse as Price Makes Unexpected Pivot",
+        "source": "https://cryptonews.net/news/altcoins/30276255/",
+        "timestamp": "2024-12-24 18:13:00",
+        "sentToChannel": false
     }
 ]
