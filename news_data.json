@@ -664,5 +664,29 @@
         "source": "https://www.coindesk.com/business/2024/12/24/esg-focused-blockchain-trrue-secures-10-m-investment-commitment-from-gem-digital",
         "timestamp": "2024-12-24 13:30:49",
         "sentToChannel": true
+    },
+    {
+        "title": "Ethereum Bulls Hold 100-Day EMA: Is ETH Ready to Explode?",
+        "source": "https://cryptonews.net/news/ethereum/30269303/",
+        "timestamp": "2024-12-24 13:51:59",
+        "sentToChannel": false
+    },
+    {
+        "title": "CAT, MOG, SHIB Among Meme Tokens Added to Chainlink Services",
+        "source": "https://www.coindesk.com/markets/2024/12/23/cat-mog-shib-among-meme-tokens-added-to-chainlink-services",
+        "timestamp": "2024-12-24 13:52:00",
+        "sentToChannel": false
+    },
+    {
+        "title": "MicroStrategy Buys a Further 5,262 BTC as Stock Joins Nasdaq 100",
+        "source": "https://www.coindesk.com/markets/2024/12/23/micro-strategy-buys-a-further-5-262-btc-as-stock-joins-nasdaq-100",
+        "timestamp": "2024-12-24 13:52:00",
+        "sentToChannel": false
+    },
+    {
+        "title": "Metaplanet Picks Up Record 620 Bitcoin as XRP Leads Market Slide",
+        "source": "https://www.coindesk.com/markets/2024/12/23/metaplanet-picks-up-record-620-bitcoin-as-xrp-leads-market-slide",
+        "timestamp": "2024-12-24 13:52:00",
+        "sentToChannel": false
     }
 ]
