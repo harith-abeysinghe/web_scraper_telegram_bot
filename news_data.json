@@ -1,17 +1,5 @@
 [
     {
-        "title": "Ethereum advocate makes a case for Saylor-like investors in the ETH space",
-        "source": "https://cryptonews.net/news/ethereum/30266018/",
-        "timestamp": "2024-12-23 21:32:22",
-        "sentToChannel": true
-    },
-    {
-        "title": "DeFi Protocol Usual's Surge Catapults Hashnote's Tokenized Treasury Over BlackRock's BUIDL",
-        "source": "https://www.coindesk.com/markets/2024/12/20/de-fi-protocol-usuals-surge-catapults-hashnotes-tokenized-treasury-over-black-rocks-buidl",
-        "timestamp": "2024-12-23 21:32:24",
-        "sentToChannel": true
-    },
-    {
         "title": "WSJ reheats Bitcoin's quantum hack concerns, researcher calls it a 'time bomb'",
         "source": "https://cryptonews.net/news/bitcoin/30272176/",
         "timestamp": "2024-12-23 22:08:57",
@@ -639,18 +627,18 @@
         "title": "Bitcoin (BTC) May Be Due for Significant Correction As Technical Indicators Overextend: Benjamin Cowen",
         "source": "https://cryptonews.net/news/bitcoin/30277184/",
         "timestamp": "2024-12-24 21:22:57",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "World's Greatest Angel Investor Warns That MicroStrategy Is Buying Too Much Bitcoin",
         "source": "https://cryptonews.net/news/bitcoin/30277181/",
         "timestamp": "2024-12-24 21:22:57",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin Price Can Recover To $107,000 Again If This Important Level Is Broken",
         "source": "https://cryptonews.net/news/bitcoin/30277153/",
         "timestamp": "2024-12-24 21:22:57",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
