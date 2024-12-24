@@ -1,59 +1,5 @@
 [
     {
-        "title": "MicroStrategy Buys 5,262 BTC for $561 Million",
-        "source": "https://cryptonews.net/news/bitcoin/30270089/",
-        "timestamp": "2024-12-23 14:09:02",
-        "sentToChannel": true
-    },
-    {
-        "title": "TON Blockchain Growth Surges: Daily Active Users Exceed 5 Million",
-        "source": "https://cryptonews.net/news/altcoins/30270253/",
-        "timestamp": "2024-12-23 14:09:03",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin, XRP, and Ethereum See Massive Two-Year Growth in Non-Empty Wallets",
-        "source": "https://cryptonews.net/news/altcoins/30268908/",
-        "timestamp": "2024-12-23 14:09:03",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin Plunges to $93K, Dogecoin Down 27% as Crypto Bloodbath Goes On",
-        "source": "https://www.coindesk.com/markets/2024/12/20/bitcoin-plunges-to-93-k-dogecoin-down-27-as-crypto-bloodbath-goes-on",
-        "timestamp": "2024-12-23 14:09:04",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin Miner Hut 8 Buys $100M BTC Boosting Total Total Stash to $1B",
-        "source": "https://www.coindesk.com/business/2024/12/19/bitcoin-miner-hut-8-buys-usd100m-btc-boosting-total-total-stash-to-usd1b",
-        "timestamp": "2024-12-23 14:09:04",
-        "sentToChannel": true
-    },
-    {
-        "title": "A New Warning Came From the Expert Who Correctly Predicted Bitcoin Will Exceed $100,000! Here Are the Details",
-        "source": "https://cryptonews.net/news/bitcoin/30269031/",
-        "timestamp": "2024-12-23 14:28:28",
-        "sentToChannel": true
-    },
-    {
-        "title": "El Salvador celebrates Christmas 2024 by buying another Bitcoin",
-        "source": "https://cryptonews.net/news/bitcoin/30269027/",
-        "timestamp": "2024-12-23 14:28:28",
-        "sentToChannel": true
-    },
-    {
-        "title": "IOTA Positions Itself as Key Player in Trillion-Dollar RWA Blockchain Revolution",
-        "source": "https://cryptonews.net/news/altcoins/30269889/",
-        "timestamp": "2024-12-23 14:28:30",
-        "sentToChannel": true
-    },
-    {
-        "title": "Avalon Labs Raises $10M Series A to Grow Bitcoin-Backed Stablecoin",
-        "source": "https://www.coindesk.com/business/2024/12/23/avalon-labs-raises-10-m-series-a-to-grow-bitcoin-backed-stablecoin",
-        "timestamp": "2024-12-23 14:28:32",
-        "sentToChannel": true
-    },
-    {
         "title": "Ethereum\u2019s Dominance Struggles: Will 2025 Bring a Turnaround?",
         "source": "https://cryptonews.net/news/ethereum/30268847/",
         "timestamp": "2024-12-23 14:38:44",
@@ -669,72 +615,72 @@
         "title": "Ethereum Bulls Hold 100-Day EMA: Is ETH Ready to Explode?",
         "source": "https://cryptonews.net/news/ethereum/30269303/",
         "timestamp": "2024-12-24 13:51:59",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "CAT, MOG, SHIB Among Meme Tokens Added to Chainlink Services",
         "source": "https://www.coindesk.com/markets/2024/12/23/cat-mog-shib-among-meme-tokens-added-to-chainlink-services",
         "timestamp": "2024-12-24 13:52:00",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "MicroStrategy Buys a Further 5,262 BTC as Stock Joins Nasdaq 100",
         "source": "https://www.coindesk.com/markets/2024/12/23/micro-strategy-buys-a-further-5-262-btc-as-stock-joins-nasdaq-100",
         "timestamp": "2024-12-24 13:52:00",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Metaplanet Picks Up Record 620 Bitcoin as XRP Leads Market Slide",
         "source": "https://www.coindesk.com/markets/2024/12/23/metaplanet-picks-up-record-620-bitcoin-as-xrp-leads-market-slide",
         "timestamp": "2024-12-24 13:52:00",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "17 Million RLUSD on Move in Last 12 Hours, Fresh After Minting",
         "source": "https://cryptonews.net/news/altcoins/30275352/",
         "timestamp": "2024-12-24 14:08:46",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Neiro on Ethereum (NEIRO) becomes multi-chain after ChainLink (LINK) partnership",
         "source": "https://cryptonews.net/news/altcoins/30275375/",
         "timestamp": "2024-12-24 14:08:46",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin Crashes Above $90,000, But Faces Further Declines",
         "source": "https://cryptonews.net/news/bitcoin/30275579/",
         "timestamp": "2024-12-24 14:26:59",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Analysts Announced What They Expect From Now On for Bitcoin and Altcoins: Good News for Altcoins!",
         "source": "https://cryptonews.net/news/bitcoin/30275014/",
         "timestamp": "2024-12-24 14:26:59",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Serious $4.1 Trillion 2025 Fed Warning Sparks $20,000 Bitcoin Price Crash Fear",
         "source": "https://cryptonews.net/news/bitcoin/30275058/",
         "timestamp": "2024-12-24 14:26:59",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Influencer Predicts $5K for Ethereum After BlackRock, Fidelity Buy",
         "source": "https://cryptonews.net/news/ethereum/30275364/",
         "timestamp": "2024-12-24 14:26:59",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "5 Reasons Ethereum Price Can Jump 20% By Jan. 1",
         "source": "https://cryptonews.net/news/ethereum/30274712/",
         "timestamp": "2024-12-24 14:26:59",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Crypto millionaire sells more Ethereum for Bitcoin in a $70M-losing trade",
         "source": "https://cryptonews.net/news/ethereum/30275220/",
         "timestamp": "2024-12-24 14:26:59",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
