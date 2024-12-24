@@ -682,5 +682,23 @@
         "source": "https://cryptonews.net/news/bitcoin/30272588/",
         "timestamp": "2024-12-23 23:41:57",
         "sentToChannel": true
+    },
+    {
+        "title": "Prediction markets show 77% odds of a Magnificent 7 company will buy Bitcoin in 2025",
+        "source": "https://cryptonews.net/news/bitcoin/30272648/",
+        "timestamp": "2024-12-24 00:46:27",
+        "sentToChannel": false
+    },
+    {
+        "title": "Top 3 Airdrops to Watch for the Christmas Week",
+        "source": "https://cryptonews.net/news/altcoins/30272645/",
+        "timestamp": "2024-12-24 00:46:28",
+        "sentToChannel": false
+    },
+    {
+        "title": "Aave mulls Chainlink integration to return MEV fees to users",
+        "source": "https://cryptonews.net/news/altcoins/30272629/",
+        "timestamp": "2024-12-24 00:46:28",
+        "sentToChannel": false
     }
 ]
