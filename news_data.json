@@ -1,53 +1,5 @@
 [
     {
-        "title": "La Rosa Holdings to offer Bitcoin payments for real estate agents",
-        "source": "https://cryptonews.net/news/bitcoin/30271750/",
-        "timestamp": "2024-12-23 18:35:14",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin extends losses as traders see sub-$90K BTC price support test",
-        "source": "https://cryptonews.net/news/bitcoin/30271745/",
-        "timestamp": "2024-12-23 18:35:14",
-        "sentToChannel": true
-    },
-    {
-        "title": "Huge Bitcoin Reverse Explained by Bloomberg\u2019s Mike McGlone: Details",
-        "source": "https://cryptonews.net/news/bitcoin/30270945/",
-        "timestamp": "2024-12-23 18:35:14",
-        "sentToChannel": true
-    },
-    {
-        "title": "Ethereum's Key Metrics Surge: Is ETH Rebound Imminent?",
-        "source": "https://cryptonews.net/news/ethereum/30270985/",
-        "timestamp": "2024-12-23 18:35:15",
-        "sentToChannel": true
-    },
-    {
-        "title": "SHIB Burns Jump 936%, Price Reacts Unexpectedly",
-        "source": "https://cryptonews.net/news/altcoins/30271107/",
-        "timestamp": "2024-12-23 18:35:15",
-        "sentToChannel": true
-    },
-    {
-        "title": "Cosmos Roadmap for Q1 2025 Defines Cosmos Hub Performance Enhancements",
-        "source": "https://cryptonews.net/news/altcoins/30271748/",
-        "timestamp": "2024-12-23 18:35:15",
-        "sentToChannel": true
-    },
-    {
-        "title": "'Running out of Firepower': Schiff Roasts Saylor's Latest Bitcoin (BTC) Purchase",
-        "source": "https://cryptonews.net/news/bitcoin/30271245/",
-        "timestamp": "2024-12-23 18:45:41",
-        "sentToChannel": true
-    },
-    {
-        "title": "Dogecoin (DOGE) Surpassed $1 Billion on This Date Seven Years Ago: Details",
-        "source": "https://cryptonews.net/news/altcoins/30271180/",
-        "timestamp": "2024-12-23 18:45:42",
-        "sentToChannel": true
-    },
-    {
         "title": "Ethereum Price Last Crash Before ETH Hits Five Digits",
         "source": "https://cryptonews.net/news/ethereum/30263637/",
         "timestamp": "2024-12-23 19:07:18",
@@ -717,30 +669,30 @@
         "title": "Bitcoin is Trading -8.15% Below Our Price Prediction for Dec 29, 2024",
         "source": "https://cryptonews.net/news/bitcoin/30276288/",
         "timestamp": "2024-12-24 18:12:59",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "SHIB Burns Collapse as Price Makes Unexpected Pivot",
         "source": "https://cryptonews.net/news/altcoins/30276255/",
         "timestamp": "2024-12-24 18:13:00",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin sees 2024\u2019s largest weekly outflow from exchanges \u2013 What does it mean?",
         "source": "https://cryptonews.net/news/bitcoin/30276636/",
         "timestamp": "2024-12-24 18:35:17",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin\u2019s surge prove Wall Street\u2019s crypto converts right",
         "source": "https://cryptonews.net/news/bitcoin/30276682/",
         "timestamp": "2024-12-24 18:35:17",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "FLOKI price extends recovery as the University of Floki goes live",
         "source": "https://cryptonews.net/news/altcoins/30276375/",
         "timestamp": "2024-12-24 18:35:18",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
