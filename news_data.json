@@ -1,29 +1,5 @@
 [
     {
-        "title": "Tether Takes $775M Stake in Video-Sharing Platform Rumble; RUM Shares Soar 41%",
-        "source": "https://www.coindesk.com/business/2024/12/20/tether-takes-75-m-stake-in-video-sharing-platform-rumble",
-        "timestamp": "2024-12-23 23:09:11",
-        "sentToChannel": true
-    },
-    {
-        "title": "Aptos Labs CEO Mo Shaikh Quits; Avery Ching to Take His Place",
-        "source": "https://www.coindesk.com/business/2024/12/19/aptos-labs-ceo-mo-shaikh-quits-avery-ching-to-take-his-place",
-        "timestamp": "2024-12-23 23:09:11",
-        "sentToChannel": true
-    },
-    {
-        "title": "Ethereum (ETH) Price Prediction For December 22",
-        "source": "https://cryptonews.net/news/ethereum/30267086/",
-        "timestamp": "2024-12-23 23:32:32",
-        "sentToChannel": true
-    },
-    {
-        "title": "Metaplanet Bitcoin Reserves Grow With Fresh $61 Million Purchase",
-        "source": "https://cryptonews.net/news/bitcoin/30272588/",
-        "timestamp": "2024-12-23 23:41:57",
-        "sentToChannel": true
-    },
-    {
         "title": "Prediction markets show 77% odds of a Magnificent 7 company will buy Bitcoin in 2025",
         "source": "https://cryptonews.net/news/bitcoin/30272648/",
         "timestamp": "2024-12-24 00:46:27",
@@ -627,36 +603,36 @@
         "title": "Dogecoin Hikes 3.4% as Whales Accumulate 270M Tokens",
         "source": "https://cryptonews.net/news/altcoins/30277405/",
         "timestamp": "2024-12-24 23:08:59",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin Faces Short-Term Uncertainty as Exchange Inflows Surge and Tether Liquidity Drops",
         "source": "https://cryptonews.net/news/bitcoin/30277415/",
         "timestamp": "2024-12-24 23:23:40",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin Coinbase Premium Giving Potential Buy Signal, Quant Says",
         "source": "https://cryptonews.net/news/bitcoin/30277343/",
         "timestamp": "2024-12-24 23:32:42",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "BTC crosses the hallmark of 19.8 mined units on Xmas eve. It\u2019s time to talk about Bitcoin\u2019s supply cap",
         "source": "https://cryptonews.net/news/bitcoin/30277255/",
         "timestamp": "2024-12-24 23:32:42",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "MicroStrategy calls shareholders meeting to fund more Bitcoin purchases",
         "source": "https://cryptonews.net/news/bitcoin/30277439/",
         "timestamp": "2024-12-24 23:32:42",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Memes and madness in 2024",
         "source": "https://cryptonews.net/news/altcoins/30277396/",
         "timestamp": "2024-12-24 23:32:45",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
