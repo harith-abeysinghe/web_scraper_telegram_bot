@@ -682,5 +682,11 @@
         "source": "https://cryptonews.net/news/ethereum/30267406/",
         "timestamp": "2024-12-24 10:33:04",
         "sentToChannel": true
+    },
+    {
+        "title": "HyperLiquid Sees Record $60M in USDC Flee as North Korea Said to Be Probing Perpetuals Exchange",
+        "source": "https://www.coindesk.com/markets/2024/12/23/hyper-liquid-sees-record-60-m-in-usdc-flee-as-north-korea-said-to-be-probing-perpetuals-exchange",
+        "timestamp": "2024-12-24 10:52:03",
+        "sentToChannel": false
     }
 ]
