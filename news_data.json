@@ -1,17 +1,5 @@
 [
     {
-        "title": "Spot Bitcoin ETFs See Record Withdrawals as CME Futures Premium Signals Weaker Demand",
-        "source": "https://www.coindesk.com/markets/2024/12/20/spot-bitcoin-etfs-see-record-withdrawals-as-cme-futures-premium-signals-weaker-demand",
-        "timestamp": "2024-12-23 11:08:06",
-        "sentToChannel": true
-    },
-    {
-        "title": "Crypto Custody Firm Copper Withdraws U.K Registration Application",
-        "source": "https://www.coindesk.com/business/2024/12/20/crypto-custody-firm-copper-withdraws-u-k-registration-application",
-        "timestamp": "2024-12-23 11:08:08",
-        "sentToChannel": true
-    },
-    {
         "title": "Can Hamster Kombat S2 Ignite a Comeback for HMSTR Token?",
         "source": "https://cryptonews.net/news/altcoins/30269142/",
         "timestamp": "2024-12-23 11:21:21",
@@ -687,6 +675,6 @@
         "title": "HyperLiquid Sees Record $60M in USDC Flee as North Korea Said to Be Probing Perpetuals Exchange",
         "source": "https://www.coindesk.com/markets/2024/12/23/hyper-liquid-sees-record-60-m-in-usdc-flee-as-north-korea-said-to-be-probing-perpetuals-exchange",
         "timestamp": "2024-12-24 10:52:03",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
