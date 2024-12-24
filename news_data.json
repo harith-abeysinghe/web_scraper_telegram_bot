@@ -1,17 +1,5 @@
 [
     {
-        "title": "Bitcoin to Hit $250,000? Here Are 2025 Market Predictions",
-        "source": "https://cryptonews.net/news/bitcoin/30271307/",
-        "timestamp": "2024-12-23 20:10:35",
-        "sentToChannel": true
-    },
-    {
-        "title": "Tether CEO Paolo Ardoino Teases AI Platform Targeting Early 2025 Debut",
-        "source": "https://www.coindesk.com/business/2024/12/20/tether-ceo-paolo-ardoino-teases-ai-platform-targeting-early-2025-debut",
-        "timestamp": "2024-12-23 20:10:36",
-        "sentToChannel": true
-    },
-    {
         "title": "Ethereum Price Analysis: Following a 15% Weekly Crash, What\u2019s Next for ETH?",
         "source": "https://cryptonews.net/news/ethereum/30264045/",
         "timestamp": "2024-12-23 20:37:32",
@@ -639,6 +627,6 @@
         "title": "Ethereum price may be about to surge, history says",
         "source": "https://cryptonews.net/news/ethereum/30271034/",
         "timestamp": "2024-12-24 19:51:57",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
