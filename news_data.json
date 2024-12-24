@@ -664,5 +664,11 @@
         "source": "https://cryptonews.net/news/bitcoin/30276819/",
         "timestamp": "2024-12-24 19:07:10",
         "sentToChannel": true
+    },
+    {
+        "title": "Ethereum Traders Maintain High Risk Appetite Despite 15% Price Drop",
+        "source": "https://cryptonews.net/news/ethereum/30271594/",
+        "timestamp": "2024-12-24 19:25:31",
+        "sentToChannel": false
     }
 ]
