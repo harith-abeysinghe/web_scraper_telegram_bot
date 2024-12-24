@@ -1,23 +1,5 @@
 [
     {
-        "title": "Sorry Saylor, Bitcoin was always about payments \u2014 minisatoshi releases BCH upgrade history to complement epic BTC fork map",
-        "source": "https://cryptonews.net/news/bitcoin/30267477/",
-        "timestamp": "2024-12-23 04:33:47",
-        "sentToChannel": true
-    },
-    {
-        "title": "Metaplanet Expands Bitcoin Holdings to 1,761.98 BTC Following $60.70 Million Investment",
-        "source": "https://cryptonews.net/news/bitcoin/30267472/",
-        "timestamp": "2024-12-23 04:33:47",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin Drawdowns See Decreased Severity Amid Bull Market Resurgence",
-        "source": "https://cryptonews.net/news/bitcoin/30267463/",
-        "timestamp": "2024-12-23 04:45:39",
-        "sentToChannel": true
-    },
-    {
         "title": "Bitcoin sees first major weekly price decline since Trump\u2019s election win",
         "source": "https://cryptonews.net/news/bitcoin/30267555/",
         "timestamp": "2024-12-23 05:10:22",
@@ -717,18 +699,18 @@
         "title": "Bitcoin \u2018Santa Claus rally\u2019 hopes dwindle as price hits December low",
         "source": "https://cryptonews.net/news/bitcoin/30273032/",
         "timestamp": "2024-12-24 04:44:21",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "What\u2019s New in DePin? io.net New Partnership, MapMetrics Token Listing Roadmap, and More",
         "source": "https://cryptonews.net/news/altcoins/30272985/",
         "timestamp": "2024-12-24 04:44:23",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Neo SPCC shares updates across NeoGo and NeoFS components",
         "source": "https://cryptonews.net/news/altcoins/30273041/",
         "timestamp": "2024-12-24 04:44:23",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
