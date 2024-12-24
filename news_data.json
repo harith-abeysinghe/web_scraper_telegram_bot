@@ -712,5 +712,17 @@
         "source": "https://cryptonews.net/news/bitcoin/30273546/",
         "timestamp": "2024-12-24 09:52:07",
         "sentToChannel": true
+    },
+    {
+        "title": "Bitcoin Reserve Is \u2018Hopium Hallucination,\u2019 Blockchain Expert Says",
+        "source": "https://cryptonews.net/news/bitcoin/30273741/",
+        "timestamp": "2024-12-24 10:33:03",
+        "sentToChannel": false
+    },
+    {
+        "title": "Ethereum Price Back In The Red: A Deeper Drop Ahead?",
+        "source": "https://cryptonews.net/news/ethereum/30267406/",
+        "timestamp": "2024-12-24 10:33:04",
+        "sentToChannel": false
     }
 ]
