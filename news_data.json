@@ -700,5 +700,23 @@
         "source": "https://cryptonews.net/news/altcoins/30279397/",
         "timestamp": "2024-12-25 13:51:58",
         "sentToChannel": true
+    },
+    {
+        "title": "CAT, MOG, SHIB Among Meme Tokens Added to Chainlink Services",
+        "source": "https://www.coindesk.com/markets/2024/12/23/cat-mog-shib-among-meme-tokens-added-to-chainlink-services",
+        "timestamp": "2024-12-25 14:26:36",
+        "sentToChannel": false
+    },
+    {
+        "title": "MicroStrategy Buys a Further 5,262 BTC as Stock Joins Nasdaq 100",
+        "source": "https://www.coindesk.com/markets/2024/12/23/micro-strategy-buys-a-further-5-262-btc-as-stock-joins-nasdaq-100",
+        "timestamp": "2024-12-25 14:26:36",
+        "sentToChannel": false
+    },
+    {
+        "title": "Metaplanet Picks Up Record 620 Bitcoin as XRP Leads Market Slide",
+        "source": "https://www.coindesk.com/markets/2024/12/23/metaplanet-picks-up-record-620-bitcoin-as-xrp-leads-market-slide",
+        "timestamp": "2024-12-25 14:26:36",
+        "sentToChannel": false
     }
 ]
