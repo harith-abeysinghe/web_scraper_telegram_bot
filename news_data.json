@@ -1,11 +1,5 @@
 [
     {
-        "title": "Tron\u2019s Justin Sun Offloads 50% ETH Holdings, Ethereum Price Crash Imminent?",
-        "source": "https://cryptonews.net/news/ethereum/30267653/",
-        "timestamp": "2024-12-24 09:36:59",
-        "sentToChannel": true
-    },
-    {
         "title": "Ethena Whale Stakes 9 Million ENA Tokens, Triggers DeFi Frenzy",
         "source": "https://cryptonews.net/news/altcoins/30273474/",
         "timestamp": "2024-12-24 09:43:35",
@@ -693,12 +687,12 @@
         "title": "Analysis of the crypto XRP, IOTA, and XLM",
         "source": "https://cryptonews.net/news/altcoins/30278313/",
         "timestamp": "2024-12-25 09:35:25",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Cardano Lace Wallet to be \u201ca Powerhouse\u201d in 2025, According to Hoskinson",
         "source": "https://cryptonews.net/news/altcoins/30278106/",
         "timestamp": "2024-12-25 09:35:25",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
