@@ -664,5 +664,53 @@
         "source": "https://cryptonews.net/news/ethereum/30278168/",
         "timestamp": "2024-12-25 10:42:52",
         "sentToChannel": true
+    },
+    {
+        "title": "As Bitcoin (BTC) Approaches $100K Again, Analyst Gives Date for New Peak!",
+        "source": "https://cryptonews.net/news/bitcoin/30278275/",
+        "timestamp": "2024-12-25 11:07:48",
+        "sentToChannel": false
+    },
+    {
+        "title": "Bitcoin Price Nears $100K \u2013 Is a Crash Around the Corner?",
+        "source": "https://cryptonews.net/news/bitcoin/30278755/",
+        "timestamp": "2024-12-25 11:07:48",
+        "sentToChannel": false
+    },
+    {
+        "title": "Economist Declares 'Santa Rally' on Bitcoin",
+        "source": "https://cryptonews.net/news/bitcoin/30278263/",
+        "timestamp": "2024-12-25 11:07:48",
+        "sentToChannel": false
+    },
+    {
+        "title": "We asked ChatGPT what will be the Bitcoin price in 2025; Here's what it said",
+        "source": "https://cryptonews.net/news/bitcoin/30278334/",
+        "timestamp": "2024-12-25 11:07:48",
+        "sentToChannel": false
+    },
+    {
+        "title": "Is a \u201cNew Year\u2019s Rally\u201d Coming for Bitcoin? Analyst Timothy Peterson Reveals",
+        "source": "https://cryptonews.net/news/bitcoin/30278156/",
+        "timestamp": "2024-12-25 11:07:48",
+        "sentToChannel": false
+    },
+    {
+        "title": "Bitcoin: a journey that has created new millionaires at an unparalleled speed",
+        "source": "https://cryptonews.net/news/bitcoin/30278319/",
+        "timestamp": "2024-12-25 11:07:48",
+        "sentToChannel": false
+    },
+    {
+        "title": "Floki on Course for Europe ETP as DAO Floats Proposal to Provide Early Liquidity",
+        "source": "https://www.coindesk.com/markets/2024/12/25/floki-on-course-for-europe-etp-as-dao-floats-proposal-to-provide-early-liquidity",
+        "timestamp": "2024-12-25 11:07:49",
+        "sentToChannel": false
+    },
+    {
+        "title": "HyperLiquid Sees Record $60M in USDC Flee as North Korea Said to Be Probing Perpetuals Exchange",
+        "source": "https://www.coindesk.com/markets/2024/12/23/hyper-liquid-sees-record-60-m-in-usdc-flee-as-north-korea-said-to-be-probing-perpetuals-exchange",
+        "timestamp": "2024-12-25 11:07:49",
+        "sentToChannel": false
     }
 ]
