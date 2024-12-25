@@ -670,5 +670,29 @@
         "source": "https://cryptonews.net/news/bitcoin/30277664/",
         "timestamp": "2024-12-25 04:12:18",
         "sentToChannel": true
+    },
+    {
+        "title": "Ethereum Price Approaches Critical Resistance: A Turning Point?",
+        "source": "https://cryptonews.net/news/ethereum/30277674/",
+        "timestamp": "2024-12-25 04:44:45",
+        "sentToChannel": false
+    },
+    {
+        "title": "Top Altcoins to Watch: XRP, SOL, HBAR, And More During ETF Buzz",
+        "source": "https://cryptonews.net/news/altcoins/30277705/",
+        "timestamp": "2024-12-25 04:44:45",
+        "sentToChannel": false
+    },
+    {
+        "title": "Toncoin Market Performance Slips with Open Interest Falling to $141M",
+        "source": "https://cryptonews.net/news/altcoins/30277708/",
+        "timestamp": "2024-12-25 04:44:45",
+        "sentToChannel": false
+    },
+    {
+        "title": "PENGU overtakes WIF and GRT as market cap surges 521%",
+        "source": "https://cryptonews.net/news/altcoins/30277213/",
+        "timestamp": "2024-12-25 04:44:45",
+        "sentToChannel": false
     }
 ]
