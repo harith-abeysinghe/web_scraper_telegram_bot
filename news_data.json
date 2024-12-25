@@ -1,23 +1,5 @@
 [
     {
-        "title": "Bitcoin \u2018Santa Claus rally\u2019 hopes dwindle as price hits December low",
-        "source": "https://cryptonews.net/news/bitcoin/30273032/",
-        "timestamp": "2024-12-24 04:44:21",
-        "sentToChannel": true
-    },
-    {
-        "title": "What\u2019s New in DePin? io.net New Partnership, MapMetrics Token Listing Roadmap, and More",
-        "source": "https://cryptonews.net/news/altcoins/30272985/",
-        "timestamp": "2024-12-24 04:44:23",
-        "sentToChannel": true
-    },
-    {
-        "title": "Neo SPCC shares updates across NeoGo and NeoFS components",
-        "source": "https://cryptonews.net/news/altcoins/30273041/",
-        "timestamp": "2024-12-24 04:44:23",
-        "sentToChannel": true
-    },
-    {
         "title": "MicroStrategy seeks share increase by billions for more bitcoin purchase",
         "source": "https://cryptonews.net/news/bitcoin/30272980/",
         "timestamp": "2024-12-24 05:09:49",
@@ -675,24 +657,24 @@
         "title": "Ethereum Price Approaches Critical Resistance: A Turning Point?",
         "source": "https://cryptonews.net/news/ethereum/30277674/",
         "timestamp": "2024-12-25 04:44:45",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Top Altcoins to Watch: XRP, SOL, HBAR, And More During ETF Buzz",
         "source": "https://cryptonews.net/news/altcoins/30277705/",
         "timestamp": "2024-12-25 04:44:45",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Toncoin Market Performance Slips with Open Interest Falling to $141M",
         "source": "https://cryptonews.net/news/altcoins/30277708/",
         "timestamp": "2024-12-25 04:44:45",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "PENGU overtakes WIF and GRT as market cap surges 521%",
         "source": "https://cryptonews.net/news/altcoins/30277213/",
         "timestamp": "2024-12-25 04:44:45",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
