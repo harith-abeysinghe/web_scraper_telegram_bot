@@ -1,11 +1,5 @@
 [
     {
-        "title": "Solana adds another transaction record on meme activity, Pengu (PENGU) launch",
-        "source": "https://cryptonews.net/news/altcoins/30277222/",
-        "timestamp": "2024-12-24 22:27:33",
-        "sentToChannel": true
-    },
-    {
         "title": "Bitcoin Ends Week with $375M Inflows as Multi-Asset Products Face $121M in Losses",
         "source": "https://cryptonews.net/news/bitcoin/30277390/",
         "timestamp": "2024-12-24 22:43:43",
@@ -705,42 +699,42 @@
         "title": "Ethereum (ETH) Price Momentum Weakens Despite Whale Confidence",
         "source": "https://cryptonews.net/news/ethereum/30280651/",
         "timestamp": "2024-12-25 21:52:07",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Experienced Analyst Reveals: \u201cFor Bitcoin Price to Surpass $108,000\u2026\u201d",
         "source": "https://cryptonews.net/news/bitcoin/30280642/",
         "timestamp": "2024-12-25 22:08:40",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin accumulator addresses acquire 225k BTC in December amid significant sell pressure",
         "source": "https://cryptonews.net/news/bitcoin/30280627/",
         "timestamp": "2024-12-25 22:08:40",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin bulls are back: BTC derivatives data hints at rally to $105K",
         "source": "https://cryptonews.net/news/bitcoin/30280719/",
         "timestamp": "2024-12-25 22:08:40",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Additional Downside for Bitcoin To Be Expected As Resistance Remains Strong, According to Analyst",
         "source": "https://cryptonews.net/news/bitcoin/30280617/",
         "timestamp": "2024-12-25 22:08:40",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Breaking $98,000: Bitcoin\u2019s Journey Toward New Highs",
         "source": "https://cryptonews.net/news/bitcoin/30280675/",
         "timestamp": "2024-12-25 22:08:40",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Is BlackRock Rebalancing? The Mystery Behind the $188M Bitcoin Exit",
         "source": "https://cryptonews.net/news/bitcoin/30280672/",
         "timestamp": "2024-12-25 22:08:40",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
