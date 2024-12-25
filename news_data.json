@@ -1,41 +1,5 @@
 [
     {
-        "title": "Ethereum Bulls Hold 100-Day EMA: Is ETH Ready to Explode?",
-        "source": "https://cryptonews.net/news/ethereum/30269303/",
-        "timestamp": "2024-12-24 13:51:59",
-        "sentToChannel": true
-    },
-    {
-        "title": "CAT, MOG, SHIB Among Meme Tokens Added to Chainlink Services",
-        "source": "https://www.coindesk.com/markets/2024/12/23/cat-mog-shib-among-meme-tokens-added-to-chainlink-services",
-        "timestamp": "2024-12-24 13:52:00",
-        "sentToChannel": true
-    },
-    {
-        "title": "MicroStrategy Buys a Further 5,262 BTC as Stock Joins Nasdaq 100",
-        "source": "https://www.coindesk.com/markets/2024/12/23/micro-strategy-buys-a-further-5-262-btc-as-stock-joins-nasdaq-100",
-        "timestamp": "2024-12-24 13:52:00",
-        "sentToChannel": true
-    },
-    {
-        "title": "Metaplanet Picks Up Record 620 Bitcoin as XRP Leads Market Slide",
-        "source": "https://www.coindesk.com/markets/2024/12/23/metaplanet-picks-up-record-620-bitcoin-as-xrp-leads-market-slide",
-        "timestamp": "2024-12-24 13:52:00",
-        "sentToChannel": true
-    },
-    {
-        "title": "17 Million RLUSD on Move in Last 12 Hours, Fresh After Minting",
-        "source": "https://cryptonews.net/news/altcoins/30275352/",
-        "timestamp": "2024-12-24 14:08:46",
-        "sentToChannel": true
-    },
-    {
-        "title": "Neiro on Ethereum (NEIRO) becomes multi-chain after ChainLink (LINK) partnership",
-        "source": "https://cryptonews.net/news/altcoins/30275375/",
-        "timestamp": "2024-12-24 14:08:46",
-        "sentToChannel": true
-    },
-    {
         "title": "Bitcoin Crashes Above $90,000, But Faces Further Declines",
         "source": "https://cryptonews.net/news/bitcoin/30275579/",
         "timestamp": "2024-12-24 14:26:59",
@@ -729,12 +693,12 @@
         "title": "ESG-Focused Blockchain Trrue Secures $10M Investment Commitment From GEM Digital",
         "source": "https://www.coindesk.com/business/2024/12/24/esg-focused-blockchain-trrue-secures-10-m-investment-commitment-from-gem-digital",
         "timestamp": "2024-12-25 13:42:04",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Floki Officially Launches Educational Platform",
         "source": "https://cryptonews.net/news/altcoins/30279397/",
         "timestamp": "2024-12-25 13:51:58",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
