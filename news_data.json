@@ -1,11 +1,5 @@
 [
     {
-        "title": "Bitcoin Ends Week with $375M Inflows as Multi-Asset Products Face $121M in Losses",
-        "source": "https://cryptonews.net/news/bitcoin/30277390/",
-        "timestamp": "2024-12-24 22:43:43",
-        "sentToChannel": true
-    },
-    {
         "title": "Dogecoin Hikes 3.4% as Whales Accumulate 270M Tokens",
         "source": "https://cryptonews.net/news/altcoins/30277405/",
         "timestamp": "2024-12-24 23:08:59",
@@ -741,6 +735,6 @@
         "title": "Redemption arcs of 2024: Ripple\u2019s victory, memecoins\u2019 rise, RWA growth",
         "source": "https://cryptonews.net/news/altcoins/30280797/",
         "timestamp": "2024-12-25 22:43:39",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
