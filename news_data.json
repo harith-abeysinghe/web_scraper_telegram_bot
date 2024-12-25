@@ -1,77 +1,5 @@
 [
     {
-        "title": "Bitcoin\u2019s $100K milestone reflections, what\u2019s next",
-        "source": "https://cryptonews.net/news/bitcoin/30276852/",
-        "timestamp": "2024-12-24 20:28:28",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin Supply Reaches 19.8 Million Mark, Nearing Maximum Limit",
-        "source": "https://cryptonews.net/news/bitcoin/30276984/",
-        "timestamp": "2024-12-24 20:28:28",
-        "sentToChannel": true
-    },
-    {
-        "title": "Tether CEO Paolo Ardoino Teases AI Platform Targeting Early 2025 Debut",
-        "source": "https://www.coindesk.com/business/2024/12/20/tether-ceo-paolo-ardoino-teases-ai-platform-targeting-early-2025-debut",
-        "timestamp": "2024-12-24 20:28:31",
-        "sentToChannel": true
-    },
-    {
-        "title": "Data Revealed: This Memecoin Has the Strongest Community",
-        "source": "https://cryptonews.net/news/altcoins/30276817/",
-        "timestamp": "2024-12-24 20:36:16",
-        "sentToChannel": true
-    },
-    {
-        "title": "BOUNCEBIT price jumps 16% after major partnership",
-        "source": "https://cryptonews.net/news/altcoins/30276711/",
-        "timestamp": "2024-12-24 20:36:16",
-        "sentToChannel": true
-    },
-    {
-        "title": "Here\u2019s Why Ethereum Price Faces Sub-$3k Correction",
-        "source": "https://cryptonews.net/news/ethereum/30276715/",
-        "timestamp": "2024-12-24 20:43:22",
-        "sentToChannel": true
-    },
-    {
-        "title": "Why Ethereum maxis say ETH will be the \u2018comeback kid\u2019 of 2025",
-        "source": "https://cryptonews.net/news/ethereum/30277142/",
-        "timestamp": "2024-12-24 20:43:22",
-        "sentToChannel": true
-    },
-    {
-        "title": "Whale Makes Substantial USDC Deposit into Hyperliquid: What Could this Mean?",
-        "source": "https://cryptonews.net/news/altcoins/30277089/",
-        "timestamp": "2024-12-24 20:43:22",
-        "sentToChannel": true
-    },
-    {
-        "title": "Chainlink Unveils Smart Value Recapture to Streamline User Experience",
-        "source": "https://cryptonews.net/news/altcoins/30276866/",
-        "timestamp": "2024-12-24 20:43:22",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin (BTC) May Be Due for Significant Correction As Technical Indicators Overextend: Benjamin Cowen",
-        "source": "https://cryptonews.net/news/bitcoin/30277184/",
-        "timestamp": "2024-12-24 21:22:57",
-        "sentToChannel": true
-    },
-    {
-        "title": "World's Greatest Angel Investor Warns That MicroStrategy Is Buying Too Much Bitcoin",
-        "source": "https://cryptonews.net/news/bitcoin/30277181/",
-        "timestamp": "2024-12-24 21:22:57",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin Price Can Recover To $107,000 Again If This Important Level Is Broken",
-        "source": "https://cryptonews.net/news/bitcoin/30277153/",
-        "timestamp": "2024-12-24 21:22:57",
-        "sentToChannel": true
-    },
-    {
         "title": "Developers on Solana Revealed the Altcoins Developers Are Most Focused on \u2013 Here\u2019s the List",
         "source": "https://cryptonews.net/news/altcoins/30277173/",
         "timestamp": "2024-12-24 21:41:49",
@@ -699,78 +627,78 @@
         "title": "Nayib Bukele Prepares to Meet with Russian President Putin in the New Year! \"Bitcoin (BTC) Will Be on the Agenda!\"",
         "source": "https://cryptonews.net/news/bitcoin/30280020/",
         "timestamp": "2024-12-25 20:28:48",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "CryptoQuant CEO says US could feasibly cut debt by embracing strategic Bitcoin reserve",
         "source": "https://cryptonews.net/news/bitcoin/30280475/",
         "timestamp": "2024-12-25 20:28:48",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Crypto Whale Accumulates $14.72 Million Pengu Coins Amid Price Slump",
         "source": "https://cryptonews.net/news/altcoins/30279703/",
         "timestamp": "2024-12-25 20:37:02",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Binance's 63rd Launchpool Project: What is Bio Protocol (BIO)?",
         "source": "https://cryptonews.net/news/altcoins/30279603/",
         "timestamp": "2024-12-25 20:43:51",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Whales Show Suspicious Activity in This Altcoin: Fresh Whales Bought $34 Million in the Last Five Days",
         "source": "https://cryptonews.net/news/altcoins/30280229/",
         "timestamp": "2024-12-25 20:43:51",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "The myth of \u2018lost bitcoin\u2019 in the age of quantum computing",
         "source": "https://cryptonews.net/news/bitcoin/30280323/",
         "timestamp": "2024-12-25 20:52:03",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin Is Forming A Symmetrical Triangle \u2013 Can BTC Reclaim $100K?",
         "source": "https://cryptonews.net/news/bitcoin/30280170/",
         "timestamp": "2024-12-25 20:52:03",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Understanding the BTC/USD Pair and Its Impact on Cryptocurrency Trading",
         "source": "https://cryptonews.net/news/bitcoin/30280116/",
         "timestamp": "2024-12-25 20:52:03",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Runes transaction share on the Bitcoin network drops to new lows",
         "source": "https://cryptonews.net/news/bitcoin/30280578/",
         "timestamp": "2024-12-25 20:52:03",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Ethereum whale dumps another $17m ETH",
         "source": "https://cryptonews.net/news/ethereum/30280294/",
         "timestamp": "2024-12-25 20:52:04",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "How Much Did Famous Names\u2019 Predictions for Bitcoin Price in 2024 Do? Here is a Compilation of Predictions",
         "source": "https://cryptonews.net/news/bitcoin/30280335/",
         "timestamp": "2024-12-25 21:08:35",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Ethereum Surges Above $3,500 but Analysts Predict Bad Road Ahead",
         "source": "https://cryptonews.net/news/ethereum/30279885/",
         "timestamp": "2024-12-25 21:08:35",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Massive $HYPE Buy! Whale Invests $12.22M for 428,867 $HYPE in 26 Hours",
         "source": "https://cryptonews.net/news/altcoins/30280325/",
         "timestamp": "2024-12-25 21:08:36",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
