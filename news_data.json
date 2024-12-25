@@ -1,11 +1,5 @@
 [
     {
-        "title": "Ethereum price may be about to surge, history says",
-        "source": "https://cryptonews.net/news/ethereum/30271034/",
-        "timestamp": "2024-12-24 19:51:57",
-        "sentToChannel": true
-    },
-    {
         "title": "Bitcoin\u2019s $100K milestone reflections, what\u2019s next",
         "source": "https://cryptonews.net/news/bitcoin/30276852/",
         "timestamp": "2024-12-24 20:28:28",
@@ -675,30 +669,30 @@
         "title": "Why Ethereum Price Could Reach Unseen Levels In 2025?",
         "source": "https://cryptonews.net/news/ethereum/30280026/",
         "timestamp": "2024-12-25 19:34:01",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Pump Science Tokenomics Design Is Now Completed",
         "source": "https://cryptonews.net/news/altcoins/30280415/",
         "timestamp": "2024-12-25 19:41:50",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Ripple will unlock 1 billion XRP on January 1 2025 \u2013 What to expect?",
         "source": "https://cryptonews.net/news/altcoins/30280195/",
         "timestamp": "2024-12-25 19:41:50",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Crypto developers can earn up to $1.5 million in 2025 with EGLD\u2019s Growth Games grants",
         "source": "https://cryptonews.net/news/altcoins/30280329/",
         "timestamp": "2024-12-25 19:41:50",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "SHIB Burns Rally by Almost 100%, Here's What's Happening",
         "source": "https://cryptonews.net/news/altcoins/30280064/",
         "timestamp": "2024-12-25 19:41:50",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
