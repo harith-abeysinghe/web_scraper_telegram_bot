@@ -1,35 +1,5 @@
 [
     {
-        "title": "Bitcoin is Trading -8.15% Below Our Price Prediction for Dec 29, 2024",
-        "source": "https://cryptonews.net/news/bitcoin/30276288/",
-        "timestamp": "2024-12-24 18:12:59",
-        "sentToChannel": true
-    },
-    {
-        "title": "SHIB Burns Collapse as Price Makes Unexpected Pivot",
-        "source": "https://cryptonews.net/news/altcoins/30276255/",
-        "timestamp": "2024-12-24 18:13:00",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin sees 2024\u2019s largest weekly outflow from exchanges \u2013 What does it mean?",
-        "source": "https://cryptonews.net/news/bitcoin/30276636/",
-        "timestamp": "2024-12-24 18:35:17",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin\u2019s surge prove Wall Street\u2019s crypto converts right",
-        "source": "https://cryptonews.net/news/bitcoin/30276682/",
-        "timestamp": "2024-12-24 18:35:17",
-        "sentToChannel": true
-    },
-    {
-        "title": "FLOKI price extends recovery as the University of Floki goes live",
-        "source": "https://cryptonews.net/news/altcoins/30276375/",
-        "timestamp": "2024-12-24 18:35:18",
-        "sentToChannel": true
-    },
-    {
         "title": "U.S. Bitcoin ETFs shed $1.2 billion in three-day outflow streak, longest since election",
         "source": "https://cryptonews.net/news/bitcoin/30276919/",
         "timestamp": "2024-12-24 19:07:10",
@@ -675,48 +645,48 @@
         "title": "Bitcoin (BTC) Price Prediction for December 25",
         "source": "https://cryptonews.net/news/bitcoin/30279830/",
         "timestamp": "2024-12-25 18:14:44",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Strategic Bitcoin Reserves Are Now Being Actively Supported by US States",
         "source": "https://cryptonews.net/news/bitcoin/30280209/",
         "timestamp": "2024-12-25 18:14:44",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Michael Saylor Reacts to Bitcoin Xmas Rally: 'There Is No Second-Best Christmas Gift'",
         "source": "https://cryptonews.net/news/bitcoin/30279705/",
         "timestamp": "2024-12-25 18:14:44",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin coils between key trend lines as $98K boosts 'Kimchi premium'",
         "source": "https://cryptonews.net/news/bitcoin/30280200/",
         "timestamp": "2024-12-25 18:14:44",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "$69.8 Million in Ethereum (ETH) Leave Turkey's Top Exchange Amid Regulatory Boost",
         "source": "https://cryptonews.net/news/ethereum/30279858/",
         "timestamp": "2024-12-25 18:14:45",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Analyst Gives Good News to Investors! \"Wait for January! Ethereum (ETH) May Start Altcoin Rally!\"",
         "source": "https://cryptonews.net/news/ethereum/30279698/",
         "timestamp": "2024-12-25 18:14:45",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Ether ETFs surpass $2.5B as ETH positions for $3.5K breakout",
         "source": "https://cryptonews.net/news/ethereum/30280207/",
         "timestamp": "2024-12-25 18:14:45",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Analyst Reveals When Bitcoin Will Rise Again and His Price Prediction!",
         "source": "https://cryptonews.net/news/bitcoin/30280134/",
         "timestamp": "2024-12-25 18:34:40",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
