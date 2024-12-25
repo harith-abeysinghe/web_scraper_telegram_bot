@@ -718,5 +718,17 @@
         "source": "https://cryptonews.net/news/ethereum/30277963/",
         "timestamp": "2024-12-25 07:52:14",
         "sentToChannel": true
+    },
+    {
+        "title": "Record $14B Bitcoin Options Expiry Looms as Market Looks Highly Levered-Up",
+        "source": "https://www.coindesk.com/markets/2024/12/24/record-14-b-bitcoin-options-expiry-looms-as-market-looks-highly-levered-up",
+        "timestamp": "2024-12-25 08:34:01",
+        "sentToChannel": false
+    },
+    {
+        "title": "More Pain Likely, Market Expert Says After Bitcoin's Biggest Loss Since August",
+        "source": "https://www.coindesk.com/markets/2024/12/23/more-pain-likely-market-expert-says-after-bitcoins-biggest-loss-since-august",
+        "timestamp": "2024-12-25 08:34:01",
+        "sentToChannel": false
     }
 ]
