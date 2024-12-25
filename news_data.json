@@ -1,23 +1,5 @@
 [
     {
-        "title": "Bitcoin Price on Thin Ice: Could a Major Drop Be Next?",
-        "source": "https://cryptonews.net/news/bitcoin/30272845/",
-        "timestamp": "2024-12-24 04:12:16",
-        "sentToChannel": true
-    },
-    {
-        "title": "Ethereum Price Attempts a Comeback: Is a Rebound Imminent?",
-        "source": "https://cryptonews.net/news/ethereum/30272894/",
-        "timestamp": "2024-12-24 04:12:17",
-        "sentToChannel": true
-    },
-    {
-        "title": "Aave considers integrating Chainlink\u2019s Smart Value Recapture to redirect MEV profits back to DeFi users",
-        "source": "https://cryptonews.net/news/altcoins/30272930/",
-        "timestamp": "2024-12-24 04:12:17",
-        "sentToChannel": true
-    },
-    {
         "title": "Bitcoin \u2018Santa Claus rally\u2019 hopes dwindle as price hits December low",
         "source": "https://cryptonews.net/news/bitcoin/30273032/",
         "timestamp": "2024-12-24 04:44:21",
@@ -687,6 +669,6 @@
         "title": "Bitcoin Sentiment Still Close To Extreme Greed: More Cooldown Needed For Bottom?",
         "source": "https://cryptonews.net/news/bitcoin/30277664/",
         "timestamp": "2024-12-25 04:12:18",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
