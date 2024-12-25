@@ -1,41 +1,5 @@
 [
     {
-        "title": "Bitcoin Crashes Above $90,000, But Faces Further Declines",
-        "source": "https://cryptonews.net/news/bitcoin/30275579/",
-        "timestamp": "2024-12-24 14:26:59",
-        "sentToChannel": true
-    },
-    {
-        "title": "Analysts Announced What They Expect From Now On for Bitcoin and Altcoins: Good News for Altcoins!",
-        "source": "https://cryptonews.net/news/bitcoin/30275014/",
-        "timestamp": "2024-12-24 14:26:59",
-        "sentToChannel": true
-    },
-    {
-        "title": "Serious $4.1 Trillion 2025 Fed Warning Sparks $20,000 Bitcoin Price Crash Fear",
-        "source": "https://cryptonews.net/news/bitcoin/30275058/",
-        "timestamp": "2024-12-24 14:26:59",
-        "sentToChannel": true
-    },
-    {
-        "title": "Influencer Predicts $5K for Ethereum After BlackRock, Fidelity Buy",
-        "source": "https://cryptonews.net/news/ethereum/30275364/",
-        "timestamp": "2024-12-24 14:26:59",
-        "sentToChannel": true
-    },
-    {
-        "title": "5 Reasons Ethereum Price Can Jump 20% By Jan. 1",
-        "source": "https://cryptonews.net/news/ethereum/30274712/",
-        "timestamp": "2024-12-24 14:26:59",
-        "sentToChannel": true
-    },
-    {
-        "title": "Crypto millionaire sells more Ethereum for Bitcoin in a $70M-losing trade",
-        "source": "https://cryptonews.net/news/ethereum/30275220/",
-        "timestamp": "2024-12-24 14:26:59",
-        "sentToChannel": true
-    },
-    {
         "title": "Avalon Labs Raises $10M Series A to Grow Bitcoin-Backed Stablecoin",
         "source": "https://www.coindesk.com/business/2024/12/23/avalon-labs-raises-10-m-series-a-to-grow-bitcoin-backed-stablecoin",
         "timestamp": "2024-12-24 14:43:45",
@@ -705,18 +669,18 @@
         "title": "CAT, MOG, SHIB Among Meme Tokens Added to Chainlink Services",
         "source": "https://www.coindesk.com/markets/2024/12/23/cat-mog-shib-among-meme-tokens-added-to-chainlink-services",
         "timestamp": "2024-12-25 14:26:36",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "MicroStrategy Buys a Further 5,262 BTC as Stock Joins Nasdaq 100",
         "source": "https://www.coindesk.com/markets/2024/12/23/micro-strategy-buys-a-further-5-262-btc-as-stock-joins-nasdaq-100",
         "timestamp": "2024-12-25 14:26:36",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Metaplanet Picks Up Record 620 Bitcoin as XRP Leads Market Slide",
         "source": "https://www.coindesk.com/markets/2024/12/23/metaplanet-picks-up-record-620-bitcoin-as-xrp-leads-market-slide",
         "timestamp": "2024-12-25 14:26:36",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
