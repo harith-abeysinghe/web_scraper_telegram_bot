@@ -1,11 +1,5 @@
 [
     {
-        "title": "HyperLiquid Sees Record $60M in USDC Flee as North Korea Said to Be Probing Perpetuals Exchange",
-        "source": "https://www.coindesk.com/markets/2024/12/23/hyper-liquid-sees-record-60-m-in-usdc-flee-as-north-korea-said-to-be-probing-perpetuals-exchange",
-        "timestamp": "2024-12-24 10:52:03",
-        "sentToChannel": true
-    },
-    {
         "title": "SOL's Evolving Throwback Pattern Makes It Enticing for Breakout Traders: Godbole",
         "source": "https://www.coindesk.com/markets/2024/12/24/sols-evolving-throwback-pattern-makes-it-enticing-for-breakout-traders-godbole",
         "timestamp": "2024-12-24 11:21:13",
@@ -669,6 +663,6 @@
         "title": "James Fickel Reduces ETH/BTC Position Amid Losses",
         "source": "https://cryptonews.net/news/ethereum/30278168/",
         "timestamp": "2024-12-25 10:42:52",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
