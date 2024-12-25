@@ -1,35 +1,5 @@
 [
     {
-        "title": "Prediction markets show 77% odds of a Magnificent 7 company will buy Bitcoin in 2025",
-        "source": "https://cryptonews.net/news/bitcoin/30272648/",
-        "timestamp": "2024-12-24 00:46:27",
-        "sentToChannel": true
-    },
-    {
-        "title": "Top 3 Airdrops to Watch for the Christmas Week",
-        "source": "https://cryptonews.net/news/altcoins/30272645/",
-        "timestamp": "2024-12-24 00:46:28",
-        "sentToChannel": true
-    },
-    {
-        "title": "Aave mulls Chainlink integration to return MEV fees to users",
-        "source": "https://cryptonews.net/news/altcoins/30272629/",
-        "timestamp": "2024-12-24 00:46:28",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin\u2019s Key SOPR Metric Holds Steady: Are Long-Term Holders Eyeing Higher Prices?",
-        "source": "https://cryptonews.net/news/bitcoin/30272734/",
-        "timestamp": "2024-12-24 02:07:44",
-        "sentToChannel": true
-    },
-    {
-        "title": "Ethereum and Altcoins Gearing Up for Explosive Move As ETH Mirrors December 2020 Structure: Jason Pizzino",
-        "source": "https://cryptonews.net/news/ethereum/30272761/",
-        "timestamp": "2024-12-24 02:07:45",
-        "sentToChannel": true
-    },
-    {
         "title": "Bitcoin Price on Thin Ice: Could a Major Drop Be Next?",
         "source": "https://cryptonews.net/news/bitcoin/30272845/",
         "timestamp": "2024-12-24 04:12:16",
@@ -639,78 +609,78 @@
         "title": "Ethereum News: Here\u2019s What To Expect After Pectra Upgrade",
         "source": "https://cryptonews.net/news/ethereum/30277324/",
         "timestamp": "2024-12-24 23:52:13",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Chiliz And CAKE Users Discover 1Fuel: The Altcoin With A Groundbreaking Twist",
         "source": "https://cryptonews.net/news/altcoins/30277357/",
         "timestamp": "2024-12-24 23:52:13",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Tether Takes $775M Stake in Video-Sharing Platform Rumble; RUM Shares Soar 41%",
         "source": "https://www.coindesk.com/business/2024/12/20/tether-takes-75-m-stake-in-video-sharing-platform-rumble",
         "timestamp": "2024-12-24 23:52:14",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Aptos Labs CEO Mo Shaikh Quits; Avery Ching to Take His Place",
         "source": "https://www.coindesk.com/business/2024/12/19/aptos-labs-ceo-mo-shaikh-quits-avery-ching-to-take-his-place",
         "timestamp": "2024-12-24 23:52:14",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin (BTC) Fall Below $97,000 Could Open Doors for New Buyers, Data Suggests",
         "source": "https://cryptonews.net/news/bitcoin/30277476/",
         "timestamp": "2024-12-25 00:45:22",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "MV Global predicts significant expansion for DeSci sector via utility memecoins",
         "source": "https://cryptonews.net/news/altcoins/30277482/",
         "timestamp": "2024-12-25 00:45:23",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Analyst Forecast \u2018Highly Bullish\u2019 2025 For Ethereum: Is The Bleeding Over?",
         "source": "https://cryptonews.net/news/ethereum/30277516/",
         "timestamp": "2024-12-25 02:06:03",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Ethereum (ETH) Return to $4,000 Imminent Once It Clears This Resistance",
         "source": "https://cryptonews.net/news/ethereum/30277543/",
         "timestamp": "2024-12-25 02:52:25",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Before the Christmas Hype Hits: 5 Meme Coins Worth Considering",
         "source": "https://cryptonews.net/news/altcoins/30277619/",
         "timestamp": "2024-12-25 03:13:36",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "University of Floki launched",
         "source": "https://cryptonews.net/news/altcoins/30277305/",
         "timestamp": "2024-12-25 03:13:36",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Whales Buy up XRP Amid RLUSD's Debut on Major Exchange",
         "source": "https://cryptonews.net/news/altcoins/30277607/",
         "timestamp": "2024-12-25 03:13:36",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Analyst \u2018wouldn\u2019t be surprised\u2019 if Ethereum outperforms Bitcoin in January",
         "source": "https://cryptonews.net/news/ethereum/30277627/",
         "timestamp": "2024-12-25 03:33:10",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Bitcoin Price Comeback: Can It Regain Ground?",
         "source": "https://cryptonews.net/news/bitcoin/30277654/",
         "timestamp": "2024-12-25 03:43:55",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
