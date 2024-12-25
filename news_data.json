@@ -1,23 +1,5 @@
 [
     {
-        "title": "Ripple CTO Makes Key Clarification on Staking: Details",
-        "source": "https://cryptonews.net/news/altcoins/30276129/",
-        "timestamp": "2024-12-24 16:51:42",
-        "sentToChannel": true
-    },
-    {
-        "title": "No, MicroStrategy Not Selling 10 Billion Shares to Buy Bitcoin",
-        "source": "https://cryptonews.net/news/bitcoin/30276158/",
-        "timestamp": "2024-12-24 17:07:56",
-        "sentToChannel": true
-    },
-    {
-        "title": "3 Key Metrics That Hint Bitcoin Price Will Hit $100K Soon",
-        "source": "https://cryptonews.net/news/bitcoin/30275210/",
-        "timestamp": "2024-12-24 17:07:56",
-        "sentToChannel": true
-    },
-    {
         "title": "Haliey Welch 'Fully Cooperating' With Lawyers Suing Over Failed HAWK Crypto",
         "source": "https://www.coindesk.com/business/2024/12/20/hailey-welch-fully-cooperating-with-lawyers-suing-over-failed-hawk-crypto",
         "timestamp": "2024-12-24 17:33:23",
@@ -663,12 +645,12 @@
         "title": "How a Journalist Went From Exposing Mexican Cartels to Losing His Crypto Life Savings",
         "source": "https://www.coindesk.com/business/2024/12/20/how-a-journalist-went-from-exposing-mexican-cartels-to-losing-his-crypto-life-savings",
         "timestamp": "2024-12-25 16:52:02",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "More Than Half of Crypto Tokens Debuted in 2024 Were Malicious: Blockaid",
         "source": "https://www.coindesk.com/business/2024/12/19/more-than-half-of-crypto-tokens-debuted-in-2024-were-malicious-blockaid",
         "timestamp": "2024-12-25 16:52:02",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
