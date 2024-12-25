@@ -1,17 +1,5 @@
 [
     {
-        "title": "Bitcoin (BTC) prepares for a volatile week ahead of this Friday\u2019s $14B options expiry",
-        "source": "https://cryptonews.net/news/bitcoin/30276014/",
-        "timestamp": "2024-12-24 16:11:05",
-        "sentToChannel": true
-    },
-    {
-        "title": "Bitcoin Countdown: Less Than 1.2 Million BTC Left to Mine",
-        "source": "https://cryptonews.net/news/bitcoin/30275864/",
-        "timestamp": "2024-12-24 16:11:05",
-        "sentToChannel": true
-    },
-    {
         "title": "Michael Saylor Announces $299 Million 'Bitcoin Gift' to MSTR Holders",
         "source": "https://cryptonews.net/news/bitcoin/30275976/",
         "timestamp": "2024-12-24 16:45:14",
@@ -711,6 +699,6 @@
         "title": "Solana Layer 2 Sonic to Airdrop SONIC Token to TikTok Users",
         "source": "https://www.coindesk.com/business/2024/12/23/solana-layer-2-sonic-to-airdrop-sonic-token-to-tik-tok-users",
         "timestamp": "2024-12-25 16:11:05",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
