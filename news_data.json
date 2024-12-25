@@ -664,5 +664,23 @@
         "source": "https://cryptonews.net/news/ethereum/30277270/",
         "timestamp": "2024-12-25 06:47:43",
         "sentToChannel": true
+    },
+    {
+        "title": "Bitcoin Price Predicted to Hit $250,000 by Tom Lee in 2025",
+        "source": "https://cryptonews.net/news/bitcoin/30277851/",
+        "timestamp": "2024-12-25 07:09:30",
+        "sentToChannel": false
+    },
+    {
+        "title": "Nearly $1.2 Billion Flows Out of Bitcoin ETFs in Three Days",
+        "source": "https://cryptonews.net/news/bitcoin/30277824/",
+        "timestamp": "2024-12-25 07:09:30",
+        "sentToChannel": false
+    },
+    {
+        "title": "\ud83d\udd25BTC crosses the hallmark of 19.8 mined units on Xmas eve. It\u2019s time to talk about Bitcoin\u2019s supply cap",
+        "source": "https://cryptonews.net/news/bitcoin/30277255/",
+        "timestamp": "2024-12-25 07:09:30",
+        "sentToChannel": false
     }
 ]
