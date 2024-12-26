@@ -1,9 +1,10 @@
-name: Scrape and Send News to Telegram
+name: Send News To Bot
 
 on:
   schedule:
     - cron: '*/12 * * * *'  # This cron expression runs every 12 minutes
-
+  workflow_dispatch:
+  
 jobs:
   scrape-and-send-news:
     runs-on: ubuntu-latest
