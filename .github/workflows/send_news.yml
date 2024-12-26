@@ -1,4 +1,4 @@
-name: Scrape and Send News to Telegram
+name: Send News to Telegram
 
 on:
   schedule:
