@@ -1,17 +1,5 @@
 [
     {
-        "title": "Record $14B Bitcoin Options Expiry Looms as Market Looks Highly Levered-Up",
-        "source": "https://www.coindesk.com/markets/2024/12/24/record-14-b-bitcoin-options-expiry-looms-as-market-looks-highly-levered-up",
-        "timestamp": "2024-12-25 08:34:01",
-        "sentToChannel": true
-    },
-    {
-        "title": "More Pain Likely, Market Expert Says After Bitcoin's Biggest Loss Since August",
-        "source": "https://www.coindesk.com/markets/2024/12/23/more-pain-likely-market-expert-says-after-bitcoins-biggest-loss-since-august",
-        "timestamp": "2024-12-25 08:34:01",
-        "sentToChannel": true
-    },
-    {
         "title": "Analysis of the crypto XRP, IOTA, and XLM",
         "source": "https://cryptonews.net/news/altcoins/30278313/",
         "timestamp": "2024-12-25 09:35:25",
@@ -567,6 +555,36 @@
         "title": "Bitcoin Lull Could Spur Altcoin Rally, With $90K Considered 'Attractive' Buying Area",
         "source": "https://www.coindesk.com/markets/2024/12/24/bitcoin-lull-could-spur-altcoin-rally-with-90-k-considered-attractive-buying-area",
         "timestamp": "2024-12-26 05:52:01",
+        "sentToChannel": true
+    },
+    {
+        "title": "Christmas Day Sees Decade-Old Sleeping Bitcoin Wallets Come Back to Life",
+        "source": "https://cryptonews.net/news/bitcoin/30280800/",
+        "timestamp": "2024-12-26 08:13:00",
+        "sentToChannel": true
+    },
+    {
+        "title": "Bitcoin rises after MicroStrategy announces plan to sell more shares",
+        "source": "https://cryptonews.net/news/bitcoin/30281185/",
+        "timestamp": "2024-12-26 08:33:57",
+        "sentToChannel": true
+    },
+    {
+        "title": "\ud83d\udd25Bitcoin bulls are back: BTC derivatives data hints at rally to $105K",
+        "source": "https://cryptonews.net/news/bitcoin/30280719/",
+        "timestamp": "2024-12-26 08:33:57",
+        "sentToChannel": true
+    },
+    {
+        "title": "Grayscale XRP Trust Set to End 2024 With Over 300% Gains",
+        "source": "https://cryptonews.net/news/altcoins/30281107/",
+        "timestamp": "2024-12-26 08:33:58",
+        "sentToChannel": true
+    },
+    {
+        "title": "Ethereum Co-Founder Vitalik Buterin Adopts Hippo Moo Deng, Price Jumps 70%",
+        "source": "https://cryptonews.net/news/altcoins/30281571/",
+        "timestamp": "2024-12-26 08:45:48",
         "sentToChannel": true
     }
 ]
