@@ -1,4 +1,4 @@
-name: Send News
+name: Send News To Bot
 
 on:
   schedule:
