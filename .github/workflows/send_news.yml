@@ -1,4 +1,4 @@
-name: Send News to Telegram
+name: Send News
 
 on:
   schedule:
