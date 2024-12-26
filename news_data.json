@@ -1,29 +1,5 @@
 [
     {
-        "title": "Before the Christmas Hype Hits: 5 Meme Coins Worth Considering",
-        "source": "https://cryptonews.net/news/altcoins/30277619/",
-        "timestamp": "2024-12-25 03:13:36",
-        "sentToChannel": true
-    },
-    {
-        "title": "University of Floki launched",
-        "source": "https://cryptonews.net/news/altcoins/30277305/",
-        "timestamp": "2024-12-25 03:13:36",
-        "sentToChannel": true
-    },
-    {
-        "title": "Whales Buy up XRP Amid RLUSD's Debut on Major Exchange",
-        "source": "https://cryptonews.net/news/altcoins/30277607/",
-        "timestamp": "2024-12-25 03:13:36",
-        "sentToChannel": true
-    },
-    {
-        "title": "Analyst \u2018wouldn\u2019t be surprised\u2019 if Ethereum outperforms Bitcoin in January",
-        "source": "https://cryptonews.net/news/ethereum/30277627/",
-        "timestamp": "2024-12-25 03:33:10",
-        "sentToChannel": true
-    },
-    {
         "title": "Bitcoin Price Comeback: Can It Regain Ground?",
         "source": "https://cryptonews.net/news/bitcoin/30277654/",
         "timestamp": "2024-12-25 03:43:55",
@@ -687,12 +663,12 @@
         "title": "Binance Bitcoin reserves hits January levels \u2014 months before BTC jumped 90%",
         "source": "https://cryptonews.net/news/bitcoin/30281014/",
         "timestamp": "2024-12-26 03:15:05",
-        "sentToChannel": false
+        "sentToChannel": true
     },
     {
         "title": "Caduceus Partners with Port3 Network to Boost Decentralized Innovation",
         "source": "https://cryptonews.net/news/altcoins/30280975/",
         "timestamp": "2024-12-26 03:15:06",
-        "sentToChannel": false
+        "sentToChannel": true
     }
 ]
