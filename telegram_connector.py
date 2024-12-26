@@ -1,13 +1,18 @@
-import json
-import requests
 import os
-from dotenv import load_dotenv
+import requests
+from db_connection import connect_to_mongodb  # Importing the connection function
 from datetime import datetime, timedelta
+import time
 
+# Load environment variables
+from dotenv import load_dotenv
 load_dotenv()
 
 BOT_API_TOKEN = os.getenv('BOT_API_TOKEN')
 CHANNEL_ID = os.getenv('CHANNEL_ID')
+
+# Connect to MongoDB
+collection = connect_to_mongodb()
 
 def send_to_telegram(message: str, bot_token: str, channel_id: str):
     url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
@@ -27,49 +32,34 @@ def send_to_telegram(message: str, bot_token: str, channel_id: str):
         return False
 
 
-def send_unsent_news(json_file: str = "news_data.json"):
-    # Load the news data from the JSON file
-    if not os.path.exists(json_file):
-        print(f"No news data found in {json_file}.")
-        return
-
-    try:
-        with open(json_file, "r") as file:
-            news_data = json.load(file)
-    except json.JSONDecodeError:
-        print(f"Error decoding JSON in {json_file}. Please check the file's content.")
-        return
-
+def send_unsent_news():
     # Current time for comparison
     now = datetime.now()
 
-    # Filter the news
-    updated_news_data = []
-    for news in news_data:
-        # Check if the news is unsent and send it
-        if not news.get("sentToChannel", False):
-            message = f"{news['title']}\n\nSource: {news['source']}"
-            sent = send_to_telegram(message, BOT_API_TOKEN, CHANNEL_ID)
+    # Fetch unsent news from MongoDB
+    unsent_news = collection.find({"sentToChannel": {"$ne": True}})
 
-            if sent:
-                news["sentToChannel"] = True
-
-        # Check the timestamp and keep news within 24 hours
+    # Process each news item
+    for news in unsent_news:
+        # Check if the news is within 24 hours
         try:
             news_timestamp = datetime.fromisoformat(news.get("timestamp", now.isoformat()))
         except ValueError:
-            # If the timestamp is invalid, use current time as fallback
             print(f"Invalid timestamp for news: {news.get('title')}. Using current time.")
             news_timestamp = now
 
-        if now - news_timestamp < timedelta(hours=24):
-            updated_news_data.append(news)
+        if now - news_timestamp < timedelta(hours=48):
+            # Send the news to Telegram
+            title = news.get("title", "No Title")
+            source = news.get("source", "Unknown Source")
+            message = f"{title}\n\nSource: {source}"
+            time.sleep(5)
+            sent = send_to_telegram(message, BOT_API_TOKEN, CHANNEL_ID)
 
-    # Save the updated news data back to the JSON file
-    with open(json_file, "w") as file:
-        json.dump(updated_news_data, file, indent=4)
+            # If the news was sent, update the 'sentToChannel' field in MongoDB
+            if sent:
+                collection.update_one({"_id": news["_id"]}, {"$set": {"sentToChannel": True}})
 
-    print("All unsent news has been processed and old news removed.")
-
+    print("All unsent news has been processed and updated in MongoDB.")
 
 send_unsent_news()
